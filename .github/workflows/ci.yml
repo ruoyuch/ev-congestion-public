@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: build uv venv
+        run: uv sync --dev
+
+      - name: run all pre-commit hooks (ruff, hygiene checks)
+        run: uv run prek run --all-files
+
+      # Unit tests and checks on the shipped data. The table comparisons in
+      # tests/test_results.py skip here because CI has no Stata; run the
+      # pipeline locally to exercise them.
+      - name: test (pytest)
+        run: uv run pytest

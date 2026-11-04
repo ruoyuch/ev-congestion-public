@@ -1,0 +1,33 @@
+# local settings (paths, keys) -- see .env.example
+.env
+
+# data/input, data/intermediate (CSV) and data/gis are published with the
+# code. The raw PeMS archive and the Stata .dta files are not: .dta files are
+# rebuilt by stata/01_build_data.do in seconds.
+/data/raw/
+*.dta
+
+# everything the pipeline writes (tables, figures, logs)
+/output/
+
+# latex build artifacts
+/docs/out/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+
+# python / uv / stata clutter
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+*.log
+
+# os
+.DS_Store

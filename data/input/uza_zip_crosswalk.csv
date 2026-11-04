@@ -1,0 +1,2506 @@
+ua,zip_code,zip_name,ua_name,pop20,afact
+1701,91901,"Alpine, CA","Alpine, CA",12137,0.9121
+1701,92019,"El Cajon, CA","Alpine, CA",1112,0.0836
+1701,92021,"El Cajon, CA","Alpine, CA",58,0.0044
+2683,94509,"Antioch, CA","Antioch, CA",69928,0.2144
+2683,94511,"Bethel Island, CA (PO boxes)","Antioch, CA",2014,0.0062
+2683,94513,"Brentwood, CA","Antioch, CA",65086,0.1995
+2683,94531,"Antioch, CA","Antioch, CA",45169,0.1385
+2683,94561,"Oakley, CA","Antioch, CA",43758,0.1341
+2683,94565,"Pittsburg, CA","Antioch, CA",100250,0.3073
+2930,95519,"Mckinleyville, CA","Arcata, CA",15,0.0008
+2930,95521,"Arcata, CA","Arcata, CA",19081,0.9679
+2930,95524,"Bayside, CA","Arcata, CA",618,0.0313
+3196,93405,"San Luis Obispo, CA","Arroyo Grande--Grover Beach--Pismo Beach, CA",39,0.0008
+3196,93420,"Arroyo Grande, CA","Arroyo Grande--Grover Beach--Pismo Beach, CA",22349,0.4392
+3196,93424,"Avila Beach, CA (PO boxes)","Arroyo Grande--Grover Beach--Pismo Beach, CA",875,0.0172
+3196,93433,"Grover Beach, CA","Arroyo Grande--Grover Beach--Pismo Beach, CA",12643,0.2485
+3196,93445,"Oceano, CA","Arroyo Grande--Grover Beach--Pismo Beach, CA",6987,0.1373
+3196,93449,"Pismo Beach, CA","Arroyo Grande--Grover Beach--Pismo Beach, CA",7992,0.1571
+3250,93203,"Arvin, CA","Arvin, CA",19385,1
+4130,95602,"Auburn, CA","Auburn, CA",7649,0.2438
+4130,95603,"Auburn, CA","Auburn, CA",23583,0.7517
+4130,95658,"Newcastle, CA","Auburn, CA",139,0.0044
+4438,90704,"Avalon, CA (PO boxes)","Avalon, CA",3362,1
+4465,93204,"Avenal, CA","Avenal, CA",13304,1
+4681,93220,"Edison, CA (PO boxes)","Bakersfield, CA",162,0.0003
+4681,93263,"Shafter, CA","Bakersfield, CA",1515,0.0027
+4681,93301,"Bakersfield, CA","Bakersfield, CA",14518,0.0255
+4681,93304,"Bakersfield, CA","Bakersfield, CA",50837,0.0892
+4681,93305,"Bakersfield, CA","Bakersfield, CA",38371,0.0673
+4681,93306,"Bakersfield, CA","Bakersfield, CA",69625,0.1221
+4681,93307,"Bakersfield, CA","Bakersfield, CA",83454,0.1464
+4681,93308,"Bakersfield, CA","Bakersfield, CA",53200,0.0933
+4681,93309,"Bakersfield, CA","Bakersfield, CA",61079,0.1071
+4681,93311,"Bakersfield, CA","Bakersfield, CA",51857,0.0909
+4681,93312,"Bakersfield, CA","Bakersfield, CA",58714,0.103
+4681,93313,"Bakersfield, CA","Bakersfield, CA",56672,0.0994
+4681,93314,"Bakersfield, CA","Bakersfield, CA",30231,0.053
+5302,92311,"Barstow, CA","Barstow, CA",30522,1
+7508,92314,"Big Bear City, CA","Big Bear, CA",8907,0.5399
+7508,92315,"Big Bear Lake, CA","Big Bear, CA",5114,0.31
+7508,92386,"Sugarloaf, CA (PO boxes)","Big Bear, CA",2477,0.1501
+7840,93514,"Bishop, CA","Bishop, CA",11013,1
+8623,92225,"Blythe, CA","Blythe, CA--AZ",11351,1
+9730,92227,"Brawley, CA","Brawley, CA",26270,1
+11235,93427,"Buellton, CA","Buellton, CA",5161,1
+12430,92231,"Calexico, CA","Calexico, CA",38491,1
+12646,94515,"Calistoga, CA","Calistoga, CA",5173,1
+12754,93010,"Camarillo, CA","Camarillo, CA",45768,0.5995
+12754,93012,"Camarillo, CA","Camarillo, CA",30570,0.4005
+12781,93428,"Cambria, CA","Cambria, CA",5478,1
+14600,93907,"Salinas, CA","Castroville--Prunedale, CA",1635,0.1326
+14600,95012,"Castroville, CA","Castroville--Prunedale, CA",10699,0.8674
+16318,95926,"Chico, CA","Chico, CA",41259,0.3703
+16318,95928,"Chico, CA","Chico, CA",34809,0.3124
+16318,95973,"Chico, CA","Chico, CA",35343,0.3172
+16696,93610,"Chowchilla, CA","Chowchilla, CA",13196,1
+17479,95422,"Clearlake, CA","Clearlake, CA",16382,0.9442
+17479,95423,"Clearlake Oaks, CA","Clearlake, CA",46,0.0027
+17479,95457,"Lower Lake, CA","Clearlake, CA",923,0.0532
+17514,95451,"Kelseyville, CA","Clearlake Riviera, CA",5229,0.9575
+17514,95457,"Lower Lake, CA","Clearlake Riviera, CA",232,0.0425
+18181,95425,"Cloverdale, CA","Cloverdale, CA",9451,1
+18289,93210,"Coalinga, CA","Coalinga, CA",13049,1
+19342,95932,"Colusa, CA","Colusa, CA",6955,1
+19504,94506,"Danville, CA","Concord--Walnut Creek, CA",25257,0.0469
+19504,94507,"Alamo, CA","Concord--Walnut Creek, CA",15493,0.0288
+19504,94517,"Clayton, CA","Concord--Walnut Creek, CA",11038,0.0205
+19504,94518,"Concord, CA","Concord--Walnut Creek, CA",27209,0.0505
+19504,94519,"Concord, CA","Concord--Walnut Creek, CA",18677,0.0347
+19504,94520,"Concord, CA","Concord--Walnut Creek, CA",38383,0.0713
+19504,94521,"Concord, CA","Concord--Walnut Creek, CA",42840,0.0795
+19504,94523,"Pleasant Hill, CA","Concord--Walnut Creek, CA",35272,0.0655
+19504,94526,"Danville, CA","Concord--Walnut Creek, CA",33064,0.0614
+19504,94528,"Diablo, CA (PO boxes)","Concord--Walnut Creek, CA",1054,0.002
+19504,94549,"Lafayette, CA","Concord--Walnut Creek, CA",28507,0.0529
+19504,94553,"Martinez, CA","Concord--Walnut Creek, CA",49033,0.091
+19504,94556,"Moraga, CA","Concord--Walnut Creek, CA",15877,0.0295
+19504,94563,"Orinda, CA","Concord--Walnut Creek, CA",19318,0.0359
+19504,94575,"Moraga, CA","Concord--Walnut Creek, CA",933,0.0017
+19504,94582,"San Ramon, CA","Concord--Walnut Creek, CA",48713,0.0904
+19504,94583,"San Ramon, CA","Concord--Walnut Creek, CA",36883,0.0685
+19504,94595,"Walnut Creek, CA","Concord--Walnut Creek, CA",17716,0.0329
+19504,94596,"Walnut Creek, CA","Concord--Walnut Creek, CA",22861,0.0424
+19504,94597,"Walnut Creek, CA","Concord--Walnut Creek, CA",23661,0.0439
+19504,94598,"Walnut Creek, CA","Concord--Walnut Creek, CA",26794,0.0497
+20044,93212,"Corcoran, CA","Corcoran, CA",22377,1
+20206,96021,"Corning, CA","Corning, CA",8459,1
+20908,95531,"Crescent City, CA","Crescent City, CA",15620,1
+20989,92317,"Blue Jay, CA (PO boxes)","Crestline--Lake Arrowhead, CA",1089,0.0489
+20989,92321,"Cedar Glen, CA (PO boxes)","Crestline--Lake Arrowhead, CA",1160,0.0521
+20989,92322,"Cedarpines Park, CA (PO boxes)","Crestline--Lake Arrowhead, CA",972,0.0436
+20989,92325,"Crestline, CA (PO boxes)","Crestline--Lake Arrowhead, CA",9249,0.4153
+20989,92352,"Lake Arrowhead, CA (PO boxes)","Crestline--Lake Arrowhead, CA",6814,0.3059
+20989,92378,"Rimforest, CA (PO boxes)","Crestline--Lake Arrowhead, CA",620,0.0278
+20989,92385,"Skyforest, CA (PO boxes)","Crestline--Lake Arrowhead, CA",208,0.0093
+20989,92391,"Twin Peaks, CA (PO boxes)","Crestline--Lake Arrowhead, CA",2160,0.097
+22420,95616,"Davis, CA","Davis, CA",49801,0.6465
+22420,95618,"Davis, CA","Davis, CA",27233,0.3535
+22987,93215,"Delano, CA","Delano, CA",44410,1
+23080,95315,"Delhi, CA","Delhi, CA",10274,1
+23716,92240,"Desert Hot Springs, CA","Desert Hot Springs, CA",39440,0.8618
+23716,92241,"Desert Hot Springs, CA","Desert Hot Springs, CA",5417,0.1184
+23716,92258,"North Palm Springs, CA (PO boxes)","Desert Hot Springs, CA",910,0.0199
+24256,94505,"Discovery Bay, CA","Discovery Bay, CA",15304,0.9602
+24256,94514,"Byron, CA","Discovery Bay, CA",635,0.0398
+24283,95620,"Dixon, CA","Dixon, CA",18876,1
+24445,93620,"Dos Palos, CA","Dos Palos, CA",7210,0.9338
+24445,93665,"South Dos Palos, CA (PO boxes)","Dos Palos, CA",511,0.0662
+25579,93219,"Earlimart, CA","Earlimart, CA",7470,1
+26405,92243,"El Centro, CA","El Centro, CA",45951,0.6178
+26405,92249,"Heber, CA","El Centro, CA",6862,0.0923
+26405,92251,"Imperial, CA","El Centro, CA",21563,0.2899
+27261,93422,"Atascadero, CA","El Paso de Robles (Paso Robles)--Atascadero, CA",28918,0.4265
+27261,93446,"Paso Robles, CA","El Paso de Robles (Paso Robles)--Atascadero, CA",32372,0.4774
+27261,93465,"Templeton, CA","El Paso de Robles (Paso Robles)--Atascadero, CA",6514,0.0961
+27820,95320,"Escalon, CA","Escalon, CA",7480,1
+28198,95501,"Eureka, CA","Eureka, CA",23285,0.5067
+28198,95503,"Eureka, CA","Eureka, CA",21026,0.4576
+28198,95521,"Arcata, CA","Eureka, CA",792,0.0172
+28198,95524,"Bayside, CA","Eureka, CA",159,0.0035
+28198,95537,"Fields Landing, CA (PO boxes)","Eureka, CA",313,0.0068
+28198,95564,"Samoa, CA","Eureka, CA",376,0.0082
+28506,93221,"Exeter, CA","Exeter, CA",10973,1
+28657,94533,"Fairfield, CA","Fairfield, CA",77133,0.5138
+28657,94534,"Fairfield, CA","Fairfield, CA",39320,0.2619
+28657,94535,"Travis AFB, CA","Fairfield, CA",4201,0.028
+28657,94585,"Suisun City, CA","Fairfield, CA",29468,0.1963
+29024,92003,"Bonsall, CA","Fallbrook, CA",53,0.0013
+29024,92028,"Fallbrook, CA","Fallbrook, CA",41252,0.9987
+29710,93015,"Fillmore, CA","Fillmore, CA",16397,1
+29764,93622,"Firebaugh, CA","Firebaugh, CA",8117,1
+30574,95437,"Fort Bragg, CA","Fort Bragg, CA",10668,1
+30736,92310,"Fort Irwin, CA","Fort Irwin, CA",8096,1
+30979,95540,"Fortuna, CA","Fortuna, CA",12784,1
+31843,93611,"Clovis, CA","Fresno, CA",47041,0.0656
+31843,93612,"Clovis, CA","Fresno, CA",37368,0.0521
+31843,93619,"Clovis, CA","Fresno, CA",38200,0.0532
+31843,93625,"Fowler, CA","Fresno, CA",36,0.0001
+31843,93636,"Madera, CA","Fresno, CA",805,0.0011
+31843,93650,"Fresno, CA","Fresno, CA",3744,0.0052
+31843,93701,"Fresno, CA","Fresno, CA",12037,0.0168
+31843,93702,"Fresno, CA","Fresno, CA",45741,0.0637
+31843,93703,"Fresno, CA","Fresno, CA",34840,0.0486
+31843,93704,"Fresno, CA","Fresno, CA",28573,0.0398
+31843,93705,"Fresno, CA","Fresno, CA",38125,0.0531
+31843,93706,"Fresno, CA","Fresno, CA",30444,0.0424
+31843,93710,"Fresno, CA","Fresno, CA",30552,0.0426
+31843,93711,"Fresno, CA","Fresno, CA",37870,0.0528
+31843,93720,"Fresno, CA","Fresno, CA",47722,0.0665
+31843,93721,"Fresno, CA","Fresno, CA",7899,0.011
+31843,93722,"Fresno, CA","Fresno, CA",87189,0.1215
+31843,93723,"Fresno, CA","Fresno, CA",8693,0.0121
+31843,93725,"Fresno, CA","Fresno, CA",20601,0.0287
+31843,93726,"Fresno, CA","Fresno, CA",42366,0.059
+31843,93727,"Fresno, CA","Fresno, CA",82427,0.1149
+31843,93728,"Fresno, CA","Fresno, CA",16191,0.0226
+31843,93730,"Fresno, CA","Fresno, CA",13499,0.0188
+31843,93737,"Fresno, CA","Fresno, CA",4329,0.006
+31843,93740,"Fresno, CA","Fresno, CA",1213,0.0017
+31843,93741,"Fresno, CA","Fresno, CA",84,0.0001
+32451,95632,"Galt, CA","Galt, CA",26618,1
+33328,95020,"Gilroy, CA","Gilroy--Morgan Hill, CA",60059,0.523
+33328,95037,"Morgan Hill, CA","Gilroy--Morgan Hill, CA",49402,0.4302
+33328,95046,"San Martin, CA","Gilroy--Morgan Hill, CA",5372,0.0468
+33841,93926,"Gonzales, CA","Gonzales, CA",8682,1
+34597,95945,"Grass Valley, CA","Grass Valley, CA",20493,0.5581
+34597,95949,"Grass Valley, CA","Grass Valley, CA",9512,0.259
+34597,95959,"Nevada City, CA","Grass Valley, CA",6524,0.1777
+34597,95975,"Rough And Ready, CA","Grass Valley, CA",191,0.0052
+34921,93927,"Greenfield, CA","Greenfield, CA",18858,1
+35677,95948,"Gridley, CA","Gridley, CA",8653,1
+35839,93434,"Guadalupe, CA","Guadalupe, CA",8046,1
+36055,95322,"Gustine, CA","Gustine, CA",6128,1
+36271,94018,"El Granada, CA (PO boxes)","Half Moon Bay, CA",3513,0.162
+36271,94019,"Half Moon Bay, CA","Half Moon Bay, CA",12513,0.577
+36271,94037,"Montara, CA (PO boxes)","Half Moon Bay, CA",2607,0.1202
+36271,94038,"Moss Beach, CA","Half Moon Bay, CA",3055,0.1409
+36703,93202,"Armona, CA","Hanford, CA",4049,0.0608
+36703,93230,"Hanford, CA","Hanford, CA",62579,0.9391
+36703,93245,"Lemoore, CA","Hanford, CA",10,0.0002
+38215,92543,"Hemet, CA","Hemet, CA",37546,0.2168
+38215,92544,"Hemet, CA","Hemet, CA",45666,0.2637
+38215,92545,"Hemet, CA","Hemet, CA",37190,0.2147
+38215,92582,"San Jacinto, CA","Hemet, CA",19474,0.1124
+38215,92583,"San Jacinto, CA","Hemet, CA",33318,0.1924
+38701,92026,"Escondido, CA","Hidden Meadows, CA",4835,0.99
+38701,92082,"Valley Center, CA","Hidden Meadows, CA",49,0.01
+39511,95023,"Hollister, CA","Hollister, CA",49611,1
+39619,92250,"Holtville, CA","Holtville, CA",6230,1
+40834,93234,"Huron, CA (PO boxes)","Huron, CA",6129,1
+41100,95604,"Auburn, CA (PO boxes)","Incline Village, NV--CA",49,0.0048
+41100,96140,"Carnelian Bay, CA (PO boxes)","Incline Village, NV--CA",1085,0.106
+41100,96141,"Homewood, CA (PO boxes)","Incline Village, NV--CA",464,0.0453
+41100,96142,"Tahoma, CA (PO boxes)","Incline Village, NV--CA",798,0.078
+41100,96143,"Kings Beach, CA (PO boxes)","Incline Village, NV--CA",3785,0.3698
+41100,96145,"Tahoe City, CA (PO boxes)","Incline Village, NV--CA",3061,0.2991
+41100,96148,"Tahoe Vista, CA (PO boxes)","Incline Village, NV--CA",993,0.097
+41347,92201,"Indio, CA","Indio--Palm Desert--Palm Springs, CA",66989,0.1855
+41347,92203,"Indio, CA","Indio--Palm Desert--Palm Springs, CA",30877,0.0855
+41347,92210,"Indian Wells, CA","Indio--Palm Desert--Palm Springs, CA",4185,0.0116
+41347,92211,"Palm Desert, CA","Indio--Palm Desert--Palm Springs, CA",26402,0.0731
+41347,92234,"Cathedral City, CA","Indio--Palm Desert--Palm Springs, CA",51478,0.1426
+41347,92236,"Coachella, CA","Indio--Palm Desert--Palm Springs, CA",41671,0.1154
+41347,92253,"La Quinta, CA","Indio--Palm Desert--Palm Springs, CA",37136,0.1028
+41347,92260,"Palm Desert, CA","Indio--Palm Desert--Palm Springs, CA",31394,0.0869
+41347,92262,"Palm Springs, CA","Indio--Palm Desert--Palm Springs, CA",25463,0.0705
+41347,92264,"Palm Springs, CA","Indio--Palm Desert--Palm Springs, CA",18625,0.0516
+41347,92270,"Rancho Mirage, CA","Indio--Palm Desert--Palm Springs, CA",16795,0.0465
+41347,92274,"Thermal, CA","Indio--Palm Desert--Palm Springs, CA",2807,0.0078
+41347,92276,"Thousand Palms, CA","Indio--Palm Desert--Palm Springs, CA",7253,0.0201
+41509,95640,"Ione, CA","Ione, CA",4673,1
+42049,95601,"Amador City, CA (PO boxes)","Jackson, CA",153,0.0197
+42049,95642,"Jackson, CA","Jackson, CA",4991,0.6414
+42049,95685,"Sutter Creek, CA","Jackson, CA",2637,0.3389
+43439,92252,"Joshua Tree, CA","Joshua Tree, CA",4370,1
+44587,93630,"Kerman, CA","Kerman, CA",16002,1
+45073,93930,"King City, CA","King City, CA",13760,1
+45157,93631,"Kingsburg, CA","Kingsburg, CA",12590,0.999
+45157,93662,"Selma, CA","Kingsburg, CA",12,0.001
+46774,93205,"Bodfish, CA","Lake Isabella, CA",614,0.166
+46774,93240,"Lake Isabella, CA","Lake Isabella, CA",3084,0.834
+46963,95602,"Auburn, CA","Lake of the Pines, CA",4261,1
+47071,95453,"Lakeport, CA","Lakeport, CA",8994,1
+47412,93241,"Lamont, CA","Lamont, CA",14973,0.9805
+47412,93307,"Bakersfield, CA","Lamont, CA",298,0.0195
+49015,93245,"Lemoore, CA","Lemoore, CA",26957,1
+49042,93245,"Lemoore, CA","Lemoore Station, CA",5708,0.8691
+49042,93246,"Lemoore, CA","Lemoore Station, CA",860,0.1309
+50041,93247,"Lindsay, CA","Lindsay, CA",13942,1
+50473,95953,"Live Oak, CA","Live Oak (Sutter County), CA",9080,1
+50533,94550,"Livermore, CA","Livermore--Pleasanton--Dublin, CA",48302,0.2009
+50533,94551,"Livermore, CA","Livermore--Pleasanton--Dublin, CA",39491,0.1643
+50533,94566,"Pleasanton, CA","Livermore--Pleasanton--Dublin, CA",44788,0.1863
+50533,94568,"Dublin, CA","Livermore--Pleasanton--Dublin, CA",72589,0.302
+50533,94588,"Pleasanton, CA","Livermore--Pleasanton--Dublin, CA",35211,0.1465
+50581,95334,"Livingston, CA","Livingston, CA",14255,1
+50851,95220,"Acampo, CA","Lodi, CA",2082,0.0285
+50851,95240,"Lodi, CA","Lodi, CA",43040,0.5889
+50851,95242,"Lodi, CA","Lodi, CA",24080,0.3295
+50851,95258,"Woodbridge, CA","Lodi, CA",3762,0.0515
+50851,95632,"Galt, CA","Lodi, CA",126,0.0017
+51040,93436,"Lompoc, CA","Lompoc, CA",54287,1
+51445,90001,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",55859,0.0046
+51445,90002,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",53150,0.0043
+51445,90003,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",72764,0.0059
+51445,90004,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",58585,0.0048
+51445,90005,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",37987,0.0031
+51445,90006,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",58229,0.0048
+51445,90007,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",40944,0.0033
+51445,90008,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",33041,0.0027
+51445,90010,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",5400,0.0004
+51445,90011,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",102308,0.0084
+51445,90012,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",33851,0.0028
+51445,90013,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",15589,0.0013
+51445,90014,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",9254,0.0008
+51445,90015,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",27324,0.0022
+51445,90016,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",46512,0.0038
+51445,90017,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",27295,0.0022
+51445,90018,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",50179,0.0041
+51445,90019,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",62002,0.0051
+51445,90020,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",38694,0.0032
+51445,90021,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",5192,0.0004
+51445,90022,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",64517,0.0053
+51445,90023,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",45939,0.0038
+51445,90024,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",52862,0.0043
+51445,90025,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",45466,0.0037
+51445,90026,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",63329,0.0052
+51445,90027,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",44444,0.0036
+51445,90028,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",32330,0.0026
+51445,90029,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",34695,0.0028
+51445,90031,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",37333,0.0031
+51445,90032,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",43506,0.0036
+51445,90033,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",46081,0.0038
+51445,90034,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",57152,0.0047
+51445,90035,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",30294,0.0025
+51445,90036,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",39549,0.0032
+51445,90037,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",63706,0.0052
+51445,90038,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",27414,0.0022
+51445,90039,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",28059,0.0023
+51445,90040,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",12089,0.001
+51445,90041,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",26654,0.0022
+51445,90042,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",58295,0.0048
+51445,90043,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",46179,0.0038
+51445,90044,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",94354,0.0077
+51445,90045,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",41035,0.0034
+51445,90046,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",49987,0.0041
+51445,90047,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",50154,0.0041
+51445,90048,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",22604,0.0018
+51445,90049,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",36209,0.003
+51445,90052,"Los Angeles, CA (PO boxes)","Los Angeles--Long Beach--Anaheim, CA",13,0
+51445,90056,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",8184,0.0007
+51445,90057,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",45510,0.0037
+51445,90058,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",3751,0.0003
+51445,90059,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",43551,0.0036
+51445,90061,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",29570,0.0024
+51445,90062,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",32524,0.0027
+51445,90063,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",50227,0.0041
+51445,90064,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",27553,0.0023
+51445,90065,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",44328,0.0036
+51445,90066,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",55304,0.0045
+51445,90067,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",3344,0.0003
+51445,90068,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",24353,0.002
+51445,90069,"West Hollywood, CA","Los Angeles--Long Beach--Anaheim, CA",20584,0.0017
+51445,90071,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",907,0.0001
+51445,90073,"Los Angeles, CA (PO boxes)","Los Angeles--Long Beach--Anaheim, CA",936,0.0001
+51445,90077,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",8874,0.0007
+51445,90079,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",16,0
+51445,90089,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",5172,0.0004
+51445,90094,"Playa Vista, CA","Los Angeles--Long Beach--Anaheim, CA",12746,0.001
+51445,90095,"Los Angeles, CA","Los Angeles--Long Beach--Anaheim, CA",1,0
+51445,90201,"Bell Gardens, CA","Los Angeles--Long Beach--Anaheim, CA",95810,0.0078
+51445,90210,"Beverly Hills, CA","Los Angeles--Long Beach--Anaheim, CA",21134,0.0017
+51445,90211,"Beverly Hills, CA","Los Angeles--Long Beach--Anaheim, CA",8260,0.0007
+51445,90212,"Beverly Hills, CA","Los Angeles--Long Beach--Anaheim, CA",11451,0.0009
+51445,90220,"Compton, CA","Los Angeles--Long Beach--Anaheim, CA",50412,0.0041
+51445,90221,"Compton, CA","Los Angeles--Long Beach--Anaheim, CA",52561,0.0043
+51445,90222,"Compton, CA","Los Angeles--Long Beach--Anaheim, CA",32397,0.0026
+51445,90230,"Culver City, CA","Los Angeles--Long Beach--Anaheim, CA",32743,0.0027
+51445,90232,"Culver City, CA","Los Angeles--Long Beach--Anaheim, CA",16452,0.0013
+51445,90240,"Downey, CA","Los Angeles--Long Beach--Anaheim, CA",26495,0.0022
+51445,90241,"Downey, CA","Los Angeles--Long Beach--Anaheim, CA",44921,0.0037
+51445,90242,"Downey, CA","Los Angeles--Long Beach--Anaheim, CA",42939,0.0035
+51445,90245,"El Segundo, CA","Los Angeles--Long Beach--Anaheim, CA",17272,0.0014
+51445,90247,"Gardena, CA","Los Angeles--Long Beach--Anaheim, CA",48543,0.004
+51445,90248,"Gardena, CA","Los Angeles--Long Beach--Anaheim, CA",11295,0.0009
+51445,90249,"Gardena, CA","Los Angeles--Long Beach--Anaheim, CA",27125,0.0022
+51445,90250,"Hawthorne, CA","Los Angeles--Long Beach--Anaheim, CA",97653,0.008
+51445,90254,"Hermosa Beach, CA","Los Angeles--Long Beach--Anaheim, CA",19736,0.0016
+51445,90255,"Huntington Park, CA","Los Angeles--Long Beach--Anaheim, CA",71157,0.0058
+51445,90260,"Lawndale, CA","Los Angeles--Long Beach--Anaheim, CA",33338,0.0027
+51445,90262,"Lynwood, CA","Los Angeles--Long Beach--Anaheim, CA",67099,0.0055
+51445,90263,"Malibu, CA","Los Angeles--Long Beach--Anaheim, CA",1972,0.0002
+51445,90265,"Malibu, CA","Los Angeles--Long Beach--Anaheim, CA",11739,0.001
+51445,90266,"Manhattan Beach, CA","Los Angeles--Long Beach--Anaheim, CA",35498,0.0029
+51445,90270,"Maywood, CA","Los Angeles--Long Beach--Anaheim, CA",25113,0.0021
+51445,90272,"Pacific Palisades, CA","Los Angeles--Long Beach--Anaheim, CA",22702,0.0019
+51445,90274,"Palos Verdes Peninsula, CA","Los Angeles--Long Beach--Anaheim, CA",25302,0.0021
+51445,90275,"Rancho Palos Verdes, CA","Los Angeles--Long Beach--Anaheim, CA",42452,0.0035
+51445,90277,"Redondo Beach, CA","Los Angeles--Long Beach--Anaheim, CA",37856,0.0031
+51445,90278,"Redondo Beach, CA","Los Angeles--Long Beach--Anaheim, CA",42188,0.0034
+51445,90280,"South Gate, CA","Los Angeles--Long Beach--Anaheim, CA",92678,0.0076
+51445,90290,"Topanga, CA","Los Angeles--Long Beach--Anaheim, CA",4657,0.0004
+51445,90291,"Venice, CA","Los Angeles--Long Beach--Anaheim, CA",28442,0.0023
+51445,90292,"Marina Del Rey, CA","Los Angeles--Long Beach--Anaheim, CA",27681,0.0023
+51445,90293,"Playa Del Rey, CA","Los Angeles--Long Beach--Anaheim, CA",12633,0.001
+51445,90301,"Inglewood, CA","Los Angeles--Long Beach--Anaheim, CA",36270,0.003
+51445,90302,"Inglewood, CA","Los Angeles--Long Beach--Anaheim, CA",29264,0.0024
+51445,90303,"Inglewood, CA","Los Angeles--Long Beach--Anaheim, CA",24490,0.002
+51445,90304,"Inglewood, CA","Los Angeles--Long Beach--Anaheim, CA",26058,0.0021
+51445,90305,"Inglewood, CA","Los Angeles--Long Beach--Anaheim, CA",15367,0.0013
+51445,90401,"Santa Monica, CA","Los Angeles--Long Beach--Anaheim, CA",8167,0.0007
+51445,90402,"Santa Monica, CA","Los Angeles--Long Beach--Anaheim, CA",12295,0.001
+51445,90403,"Santa Monica, CA","Los Angeles--Long Beach--Anaheim, CA",25278,0.0021
+51445,90404,"Santa Monica, CA","Los Angeles--Long Beach--Anaheim, CA",21995,0.0018
+51445,90405,"Santa Monica, CA","Los Angeles--Long Beach--Anaheim, CA",27955,0.0023
+51445,90501,"Torrance, CA","Los Angeles--Long Beach--Anaheim, CA",43990,0.0036
+51445,90502,"Torrance, CA","Los Angeles--Long Beach--Anaheim, CA",18977,0.0016
+51445,90503,"Torrance, CA","Los Angeles--Long Beach--Anaheim, CA",45386,0.0037
+51445,90504,"Torrance, CA","Los Angeles--Long Beach--Anaheim, CA",32503,0.0027
+51445,90505,"Torrance, CA","Los Angeles--Long Beach--Anaheim, CA",36643,0.003
+51445,90601,"Whittier, CA","Los Angeles--Long Beach--Anaheim, CA",32583,0.0027
+51445,90602,"Whittier, CA","Los Angeles--Long Beach--Anaheim, CA",25177,0.0021
+51445,90603,"Whittier, CA","Los Angeles--Long Beach--Anaheim, CA",21174,0.0017
+51445,90604,"Whittier, CA","Los Angeles--Long Beach--Anaheim, CA",40110,0.0033
+51445,90605,"Whittier, CA","Los Angeles--Long Beach--Anaheim, CA",40119,0.0033
+51445,90606,"Whittier, CA","Los Angeles--Long Beach--Anaheim, CA",32078,0.0026
+51445,90620,"Buena Park, CA","Los Angeles--Long Beach--Anaheim, CA",46564,0.0038
+51445,90621,"Buena Park, CA","Los Angeles--Long Beach--Anaheim, CA",36972,0.003
+51445,90623,"La Palma, CA","Los Angeles--Long Beach--Anaheim, CA",15906,0.0013
+51445,90630,"Cypress, CA","Los Angeles--Long Beach--Anaheim, CA",49965,0.0041
+51445,90631,"La Habra, CA","Los Angeles--Long Beach--Anaheim, CA",69533,0.0057
+51445,90638,"La Mirada, CA","Los Angeles--Long Beach--Anaheim, CA",46967,0.0038
+51445,90639,"La Mirada, CA","Los Angeles--Long Beach--Anaheim, CA",1511,0.0001
+51445,90640,"Montebello, CA","Los Angeles--Long Beach--Anaheim, CA",62678,0.0051
+51445,90650,"Norwalk, CA","Los Angeles--Long Beach--Anaheim, CA",102891,0.0084
+51445,90660,"Pico Rivera, CA","Los Angeles--Long Beach--Anaheim, CA",62013,0.0051
+51445,90670,"Santa Fe Springs, CA","Los Angeles--Long Beach--Anaheim, CA",17761,0.0015
+51445,90680,"Stanton, CA","Los Angeles--Long Beach--Anaheim, CA",30045,0.0025
+51445,90701,"Artesia, CA","Los Angeles--Long Beach--Anaheim, CA",16434,0.0013
+51445,90703,"Cerritos, CA","Los Angeles--Long Beach--Anaheim, CA",49735,0.0041
+51445,90706,"Bellflower, CA","Los Angeles--Long Beach--Anaheim, CA",79179,0.0065
+51445,90710,"Harbor City, CA","Los Angeles--Long Beach--Anaheim, CA",26605,0.0022
+51445,90712,"Lakewood, CA","Los Angeles--Long Beach--Anaheim, CA",32332,0.0026
+51445,90713,"Lakewood, CA","Los Angeles--Long Beach--Anaheim, CA",28755,0.0023
+51445,90715,"Lakewood, CA","Los Angeles--Long Beach--Anaheim, CA",20999,0.0017
+51445,90716,"Hawaiian Gardens, CA","Los Angeles--Long Beach--Anaheim, CA",14098,0.0012
+51445,90717,"Lomita, CA","Los Angeles--Long Beach--Anaheim, CA",22044,0.0018
+51445,90720,"Los Alamitos, CA","Los Angeles--Long Beach--Anaheim, CA",22955,0.0019
+51445,90723,"Paramount, CA","Los Angeles--Long Beach--Anaheim, CA",53770,0.0044
+51445,90731,"San Pedro, CA","Los Angeles--Long Beach--Anaheim, CA",61270,0.005
+51445,90732,"San Pedro, CA","Los Angeles--Long Beach--Anaheim, CA",21397,0.0017
+51445,90740,"Seal Beach, CA","Los Angeles--Long Beach--Anaheim, CA",24769,0.002
+51445,90742,"Sunset Beach, CA (PO boxes)","Los Angeles--Long Beach--Anaheim, CA",748,0.0001
+51445,90743,"Surfside, CA (PO boxes)","Los Angeles--Long Beach--Anaheim, CA",466,0
+51445,90744,"Wilmington, CA","Los Angeles--Long Beach--Anaheim, CA",53074,0.0043
+51445,90745,"Carson, CA","Los Angeles--Long Beach--Anaheim, CA",59937,0.0049
+51445,90746,"Carson, CA","Los Angeles--Long Beach--Anaheim, CA",27147,0.0022
+51445,90747,"Carson, CA","Los Angeles--Long Beach--Anaheim, CA",22,0
+51445,90755,"Signal Hill, CA","Los Angeles--Long Beach--Anaheim, CA",11923,0.001
+51445,90802,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",41686,0.0034
+51445,90803,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",32192,0.0026
+51445,90804,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",39370,0.0032
+51445,90805,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",95350,0.0078
+51445,90806,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",41611,0.0034
+51445,90807,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",32412,0.0026
+51445,90808,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",39747,0.0032
+51445,90810,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",38529,0.0031
+51445,90813,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",54565,0.0045
+51445,90814,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",19042,0.0016
+51445,90815,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",41837,0.0034
+51445,90822,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",54,0
+51445,90840,"Long Beach, CA","Los Angeles--Long Beach--Anaheim, CA",8,0
+51445,91001,"Altadena, CA","Los Angeles--Long Beach--Anaheim, CA",36435,0.003
+51445,91006,"Arcadia, CA","Los Angeles--Long Beach--Anaheim, CA",31949,0.0026
+51445,91007,"Arcadia, CA","Los Angeles--Long Beach--Anaheim, CA",33804,0.0028
+51445,91008,"Duarte, CA","Los Angeles--Long Beach--Anaheim, CA",856,0.0001
+51445,91010,"Duarte, CA","Los Angeles--Long Beach--Anaheim, CA",26636,0.0022
+51445,91011,"La Canada Flintridge, CA","Los Angeles--Long Beach--Anaheim, CA",20471,0.0017
+51445,91016,"Monrovia, CA","Los Angeles--Long Beach--Anaheim, CA",41729,0.0034
+51445,91020,"Montrose, CA","Los Angeles--Long Beach--Anaheim, CA",8439,0.0007
+51445,91024,"Sierra Madre, CA","Los Angeles--Long Beach--Anaheim, CA",11268,0.0009
+51445,91030,"South Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",26927,0.0022
+51445,91040,"Sunland, CA","Los Angeles--Long Beach--Anaheim, CA",21439,0.0018
+51445,91042,"Tujunga, CA","Los Angeles--Long Beach--Anaheim, CA",27911,0.0023
+51445,91046,"Verdugo City, CA (PO boxes)","Los Angeles--Long Beach--Anaheim, CA",141,0
+51445,91101,"Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",20583,0.0017
+51445,91103,"Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",26887,0.0022
+51445,91104,"Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",34707,0.0028
+51445,91105,"Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",13869,0.0011
+51445,91106,"Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",24172,0.002
+51445,91107,"Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",33417,0.0027
+51445,91108,"San Marino, CA","Los Angeles--Long Beach--Anaheim, CA",12777,0.001
+51445,91125,"Pasadena, CA","Los Angeles--Long Beach--Anaheim, CA",161,0
+51445,91201,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",22608,0.0018
+51445,91202,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",22773,0.0019
+51445,91203,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",16930,0.0014
+51445,91204,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",17302,0.0014
+51445,91205,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",36693,0.003
+51445,91206,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",33252,0.0027
+51445,91207,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",10369,0.0008
+51445,91208,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",16751,0.0014
+51445,91210,"Glendale, CA","Los Angeles--Long Beach--Anaheim, CA",555,0
+51445,91214,"La Crescenta, CA","Los Angeles--Long Beach--Anaheim, CA",30956,0.0025
+51445,91301,"Agoura Hills, CA","Los Angeles--Long Beach--Anaheim, CA",2177,0.0002
+51445,91302,"Calabasas, CA","Los Angeles--Long Beach--Anaheim, CA",22810,0.0019
+51445,91303,"Canoga Park, CA","Los Angeles--Long Beach--Anaheim, CA",28457,0.0023
+51445,91304,"Canoga Park, CA","Los Angeles--Long Beach--Anaheim, CA",52167,0.0043
+51445,91306,"Winnetka, CA","Los Angeles--Long Beach--Anaheim, CA",46669,0.0038
+51445,91307,"West Hills, CA","Los Angeles--Long Beach--Anaheim, CA",24706,0.002
+51445,91311,"Chatsworth, CA","Los Angeles--Long Beach--Anaheim, CA",38037,0.0031
+51445,91316,"Encino, CA","Los Angeles--Long Beach--Anaheim, CA",28777,0.0024
+51445,91324,"Northridge, CA","Los Angeles--Long Beach--Anaheim, CA",29500,0.0024
+51445,91325,"Northridge, CA","Los Angeles--Long Beach--Anaheim, CA",35250,0.0029
+51445,91326,"Porter Ranch, CA","Los Angeles--Long Beach--Anaheim, CA",37832,0.0031
+51445,91330,"Northridge, CA","Los Angeles--Long Beach--Anaheim, CA",2273,0.0002
+51445,91331,"Pacoima, CA","Los Angeles--Long Beach--Anaheim, CA",100720,0.0082
+51445,91335,"Reseda, CA","Los Angeles--Long Beach--Anaheim, CA",76650,0.0063
+51445,91340,"San Fernando, CA","Los Angeles--Long Beach--Anaheim, CA",34610,0.0028
+51445,91342,"Sylmar, CA","Los Angeles--Long Beach--Anaheim, CA",95750,0.0078
+51445,91343,"North Hills, CA","Los Angeles--Long Beach--Anaheim, CA",62595,0.0051
+51445,91344,"Granada Hills, CA","Los Angeles--Long Beach--Anaheim, CA",52064,0.0043
+51445,91345,"Mission Hills, CA","Los Angeles--Long Beach--Anaheim, CA",18895,0.0015
+51445,91352,"Sun Valley, CA","Los Angeles--Long Beach--Anaheim, CA",47124,0.0039
+51445,91356,"Tarzana, CA","Los Angeles--Long Beach--Anaheim, CA",30627,0.0025
+51445,91364,"Woodland Hills, CA","Los Angeles--Long Beach--Anaheim, CA",27071,0.0022
+51445,91367,"Woodland Hills, CA","Los Angeles--Long Beach--Anaheim, CA",46498,0.0038
+51445,91371,"Woodland Hills, CA","Los Angeles--Long Beach--Anaheim, CA",14,0
+51445,91401,"Van Nuys, CA","Los Angeles--Long Beach--Anaheim, CA",39621,0.0032
+51445,91402,"Panorama City, CA","Los Angeles--Long Beach--Anaheim, CA",70140,0.0057
+51445,91403,"Sherman Oaks, CA","Los Angeles--Long Beach--Anaheim, CA",25329,0.0021
+51445,91405,"Van Nuys, CA","Los Angeles--Long Beach--Anaheim, CA",55319,0.0045
+51445,91406,"Van Nuys, CA","Los Angeles--Long Beach--Anaheim, CA",53252,0.0044
+51445,91411,"Van Nuys, CA","Los Angeles--Long Beach--Anaheim, CA",24984,0.002
+51445,91423,"Sherman Oaks, CA","Los Angeles--Long Beach--Anaheim, CA",32635,0.0027
+51445,91436,"Encino, CA","Los Angeles--Long Beach--Anaheim, CA",15189,0.0012
+51445,91501,"Burbank, CA","Los Angeles--Long Beach--Anaheim, CA",21067,0.0017
+51445,91502,"Burbank, CA","Los Angeles--Long Beach--Anaheim, CA",11665,0.001
+51445,91504,"Burbank, CA","Los Angeles--Long Beach--Anaheim, CA",26645,0.0022
+51445,91505,"Burbank, CA","Los Angeles--Long Beach--Anaheim, CA",32371,0.0026
+51445,91506,"Burbank, CA","Los Angeles--Long Beach--Anaheim, CA",19338,0.0016
+51445,91601,"North Hollywood, CA","Los Angeles--Long Beach--Anaheim, CA",39429,0.0032
+51445,91602,"North Hollywood, CA","Los Angeles--Long Beach--Anaheim, CA",19647,0.0016
+51445,91604,"Studio City, CA","Los Angeles--Long Beach--Anaheim, CA",30947,0.0025
+51445,91605,"North Hollywood, CA","Los Angeles--Long Beach--Anaheim, CA",54341,0.0044
+51445,91606,"North Hollywood, CA","Los Angeles--Long Beach--Anaheim, CA",43955,0.0036
+51445,91607,"Valley Village, CA","Los Angeles--Long Beach--Anaheim, CA",30502,0.0025
+51445,91608,"Universal City, CA","Los Angeles--Long Beach--Anaheim, CA",37,0
+51445,91701,"Rancho Cucamonga, CA","Los Angeles--Long Beach--Anaheim, CA",38778,0.0032
+51445,91702,"Azusa, CA","Los Angeles--Long Beach--Anaheim, CA",62061,0.0051
+51445,91706,"Baldwin Park, CA","Los Angeles--Long Beach--Anaheim, CA",73313,0.006
+51445,91711,"Claremont, CA","Los Angeles--Long Beach--Anaheim, CA",37410,0.0031
+51445,91722,"Covina, CA","Los Angeles--Long Beach--Anaheim, CA",36111,0.003
+51445,91723,"Covina, CA","Los Angeles--Long Beach--Anaheim, CA",19653,0.0016
+51445,91724,"Covina, CA","Los Angeles--Long Beach--Anaheim, CA",27180,0.0022
+51445,91730,"Rancho Cucamonga, CA","Los Angeles--Long Beach--Anaheim, CA",65523,0.0054
+51445,91731,"El Monte, CA","Los Angeles--Long Beach--Anaheim, CA",28197,0.0023
+51445,91732,"El Monte, CA","Los Angeles--Long Beach--Anaheim, CA",60137,0.0049
+51445,91733,"South El Monte, CA","Los Angeles--Long Beach--Anaheim, CA",41990,0.0034
+51445,91737,"Rancho Cucamonga, CA","Los Angeles--Long Beach--Anaheim, CA",24515,0.002
+51445,91739,"Rancho Cucamonga, CA","Los Angeles--Long Beach--Anaheim, CA",36615,0.003
+51445,91740,"Glendora, CA","Los Angeles--Long Beach--Anaheim, CA",26644,0.0022
+51445,91741,"Glendora, CA","Los Angeles--Long Beach--Anaheim, CA",26292,0.0021
+51445,91744,"La Puente, CA","Los Angeles--Long Beach--Anaheim, CA",81817,0.0067
+51445,91745,"Hacienda Heights, CA","Los Angeles--Long Beach--Anaheim, CA",54268,0.0044
+51445,91746,"La Puente, CA","Los Angeles--Long Beach--Anaheim, CA",29509,0.0024
+51445,91748,"Rowland Heights, CA","Los Angeles--Long Beach--Anaheim, CA",44480,0.0036
+51445,91750,"La Verne, CA","Los Angeles--Long Beach--Anaheim, CA",33276,0.0027
+51445,91754,"Monterey Park, CA","Los Angeles--Long Beach--Anaheim, CA",33300,0.0027
+51445,91755,"Monterey Park, CA","Los Angeles--Long Beach--Anaheim, CA",27637,0.0023
+51445,91761,"Ontario, CA","Los Angeles--Long Beach--Anaheim, CA",50698,0.0041
+51445,91762,"Ontario, CA","Los Angeles--Long Beach--Anaheim, CA",41393,0.0034
+51445,91763,"Montclair, CA","Los Angeles--Long Beach--Anaheim, CA",30853,0.0025
+51445,91764,"Ontario, CA","Los Angeles--Long Beach--Anaheim, CA",48460,0.004
+51445,91765,"Diamond Bar, CA","Los Angeles--Long Beach--Anaheim, CA",46446,0.0038
+51445,91766,"Pomona, CA","Los Angeles--Long Beach--Anaheim, CA",66492,0.0054
+51445,91767,"Pomona, CA","Los Angeles--Long Beach--Anaheim, CA",51654,0.0042
+51445,91768,"Pomona, CA","Los Angeles--Long Beach--Anaheim, CA",35568,0.0029
+51445,91770,"Rosemead, CA","Los Angeles--Long Beach--Anaheim, CA",59360,0.0049
+51445,91773,"San Dimas, CA","Los Angeles--Long Beach--Anaheim, CA",34579,0.0028
+51445,91775,"San Gabriel, CA","Los Angeles--Long Beach--Anaheim, CA",24252,0.002
+51445,91776,"San Gabriel, CA","Los Angeles--Long Beach--Anaheim, CA",38031,0.0031
+51445,91780,"Temple City, CA","Los Angeles--Long Beach--Anaheim, CA",35751,0.0029
+51445,91784,"Upland, CA","Los Angeles--Long Beach--Anaheim, CA",26698,0.0022
+51445,91786,"Upland, CA","Los Angeles--Long Beach--Anaheim, CA",55763,0.0046
+51445,91789,"Walnut, CA","Los Angeles--Long Beach--Anaheim, CA",40965,0.0033
+51445,91790,"West Covina, CA","Los Angeles--Long Beach--Anaheim, CA",46364,0.0038
+51445,91791,"West Covina, CA","Los Angeles--Long Beach--Anaheim, CA",34267,0.0028
+51445,91792,"West Covina, CA","Los Angeles--Long Beach--Anaheim, CA",30683,0.0025
+51445,91801,"Alhambra, CA","Los Angeles--Long Beach--Anaheim, CA",53669,0.0044
+51445,91803,"Alhambra, CA","Los Angeles--Long Beach--Anaheim, CA",29374,0.0024
+51445,92336,"Fontana, CA","Los Angeles--Long Beach--Anaheim, CA",25854,0.0021
+51445,92602,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",28658,0.0023
+51445,92603,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",18811,0.0015
+51445,92604,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",27151,0.0022
+51445,92606,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",23383,0.0019
+51445,92612,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",31822,0.0026
+51445,92614,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",28456,0.0023
+51445,92617,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",25232,0.0021
+51445,92618,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",19111,0.0016
+51445,92620,"Irvine, CA","Los Angeles--Long Beach--Anaheim, CA",64424,0.0053
+51445,92625,"Corona Del Mar, CA","Los Angeles--Long Beach--Anaheim, CA",12017,0.001
+51445,92626,"Costa Mesa, CA","Los Angeles--Long Beach--Anaheim, CA",50885,0.0042
+51445,92627,"Costa Mesa, CA","Los Angeles--Long Beach--Anaheim, CA",61764,0.005
+51445,92646,"Huntington Beach, CA","Los Angeles--Long Beach--Anaheim, CA",56788,0.0046
+51445,92647,"Huntington Beach, CA","Los Angeles--Long Beach--Anaheim, CA",60455,0.0049
+51445,92648,"Huntington Beach, CA","Los Angeles--Long Beach--Anaheim, CA",46682,0.0038
+51445,92649,"Huntington Beach, CA","Los Angeles--Long Beach--Anaheim, CA",34082,0.0028
+51445,92655,"Midway City, CA","Los Angeles--Long Beach--Anaheim, CA",8878,0.0007
+51445,92657,"Newport Coast, CA","Los Angeles--Long Beach--Anaheim, CA",10282,0.0008
+51445,92660,"Newport Beach, CA","Los Angeles--Long Beach--Anaheim, CA",36259,0.003
+51445,92661,"Newport Beach, CA","Los Angeles--Long Beach--Anaheim, CA",3457,0.0003
+51445,92662,"Newport Beach, CA","Los Angeles--Long Beach--Anaheim, CA",2490,0.0002
+51445,92663,"Newport Beach, CA","Los Angeles--Long Beach--Anaheim, CA",20812,0.0017
+51445,92683,"Westminster, CA","Los Angeles--Long Beach--Anaheim, CA",90946,0.0074
+51445,92701,"Santa Ana, CA","Los Angeles--Long Beach--Anaheim, CA",48789,0.004
+51445,92703,"Santa Ana, CA","Los Angeles--Long Beach--Anaheim, CA",65621,0.0054
+51445,92704,"Santa Ana, CA","Los Angeles--Long Beach--Anaheim, CA",82841,0.0068
+51445,92705,"Santa Ana, CA","Los Angeles--Long Beach--Anaheim, CA",45902,0.0038
+51445,92706,"Santa Ana, CA","Los Angeles--Long Beach--Anaheim, CA",35621,0.0029
+51445,92707,"Santa Ana, CA","Los Angeles--Long Beach--Anaheim, CA",56456,0.0046
+51445,92708,"Fountain Valley, CA","Los Angeles--Long Beach--Anaheim, CA",57192,0.0047
+51445,92780,"Tustin, CA","Los Angeles--Long Beach--Anaheim, CA",56034,0.0046
+51445,92782,"Tustin, CA","Los Angeles--Long Beach--Anaheim, CA",29266,0.0024
+51445,92801,"Anaheim, CA","Los Angeles--Long Beach--Anaheim, CA",63163,0.0052
+51445,92802,"Anaheim, CA","Los Angeles--Long Beach--Anaheim, CA",41914,0.0034
+51445,92804,"Anaheim, CA","Los Angeles--Long Beach--Anaheim, CA",86127,0.007
+51445,92805,"Anaheim, CA","Los Angeles--Long Beach--Anaheim, CA",74633,0.0061
+51445,92806,"Anaheim, CA","Los Angeles--Long Beach--Anaheim, CA",40649,0.0033
+51445,92807,"Anaheim, CA","Los Angeles--Long Beach--Anaheim, CA",37627,0.0031
+51445,92808,"Anaheim, CA","Los Angeles--Long Beach--Anaheim, CA",19695,0.0016
+51445,92821,"Brea, CA","Los Angeles--Long Beach--Anaheim, CA",41322,0.0034
+51445,92823,"Brea, CA","Los Angeles--Long Beach--Anaheim, CA",5022,0.0004
+51445,92831,"Fullerton, CA","Los Angeles--Long Beach--Anaheim, CA",38953,0.0032
+51445,92832,"Fullerton, CA","Los Angeles--Long Beach--Anaheim, CA",26277,0.0021
+51445,92833,"Fullerton, CA","Los Angeles--Long Beach--Anaheim, CA",52598,0.0043
+51445,92835,"Fullerton, CA","Los Angeles--Long Beach--Anaheim, CA",25450,0.0021
+51445,92840,"Garden Grove, CA","Los Angeles--Long Beach--Anaheim, CA",54365,0.0044
+51445,92841,"Garden Grove, CA","Los Angeles--Long Beach--Anaheim, CA",34376,0.0028
+51445,92843,"Garden Grove, CA","Los Angeles--Long Beach--Anaheim, CA",45480,0.0037
+51445,92844,"Garden Grove, CA","Los Angeles--Long Beach--Anaheim, CA",23668,0.0019
+51445,92845,"Garden Grove, CA","Los Angeles--Long Beach--Anaheim, CA",16520,0.0013
+51445,92861,"Villa Park, CA","Los Angeles--Long Beach--Anaheim, CA",5843,0.0005
+51445,92865,"Orange, CA","Los Angeles--Long Beach--Anaheim, CA",20859,0.0017
+51445,92866,"Orange, CA","Los Angeles--Long Beach--Anaheim, CA",15935,0.0013
+51445,92867,"Orange, CA","Los Angeles--Long Beach--Anaheim, CA",44765,0.0037
+51445,92868,"Orange, CA","Los Angeles--Long Beach--Anaheim, CA",27127,0.0022
+51445,92869,"Orange, CA","Los Angeles--Long Beach--Anaheim, CA",36331,0.003
+51445,92870,"Placentia, CA","Los Angeles--Long Beach--Anaheim, CA",52749,0.0043
+51445,92886,"Yorba Linda, CA","Los Angeles--Long Beach--Anaheim, CA",50001,0.0041
+51445,92887,"Yorba Linda, CA","Los Angeles--Long Beach--Anaheim, CA",20689,0.0017
+51445,93063,"Simi Valley, CA","Los Angeles--Long Beach--Anaheim, CA",42,0
+51472,93635,"Los Banos, CA","Los Banos, CA",45533,1
+51520,93402,"Los Osos, CA","Los Osos, CA",13978,1
+52552,93250,"Mc Farland, CA","McFarland, CA",14149,1
+52672,95519,"Mckinleyville, CA","McKinleyville, CA",14981,1
+52984,93637,"Madera, CA","Madera, CA",35092,0.4299
+52984,93638,"Madera, CA","Madera, CA",46543,0.5701
+53322,95954,"Magalia, CA","Magalia, CA",6900,1
+53605,93546,"Mammoth Lakes, CA","Mammoth Lakes, CA",7045,1
+54145,95330,"Lathrop, CA","Manteca, CA",64,0.0007
+54145,95336,"Manteca, CA","Manteca, CA",44382,0.5121
+54145,95337,"Manteca, CA","Manteca, CA",42228,0.4872
+55927,92254,"Mecca, CA","Mecca, CA",6875,1
+56170,93640,"Mendota, CA","Mendota, CA",13382,1
+56251,95301,"Atwater, CA","Merced, CA",37288,0.2485
+56251,95340,"Merced, CA","Merced, CA",36934,0.2461
+56251,95341,"Merced, CA","Merced, CA",30016,0.2
+56251,95348,"Merced, CA","Merced, CA",33863,0.2257
+56251,95388,"Winton, CA","Merced, CA",11951,0.0796
+57709,92603,"Irvine, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",308,0.0005
+57709,92610,"Foothill Ranch, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",12545,0.0194
+57709,92618,"Irvine, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",38025,0.0588
+57709,92624,"Capistrano Beach, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",7170,0.0111
+57709,92629,"Dana Point, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",25928,0.0401
+57709,92630,"Lake Forest, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",66359,0.1026
+57709,92637,"Laguna Woods, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",17644,0.0273
+57709,92651,"Laguna Beach, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",23933,0.037
+57709,92653,"Laguna Hills, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",30077,0.0465
+57709,92656,"Aliso Viejo, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",53473,0.0827
+57709,92672,"San Clemente, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",36687,0.0567
+57709,92673,"San Clemente, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",29642,0.0458
+57709,92675,"San Juan Capistrano, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",35203,0.0544
+57709,92677,"Laguna Niguel, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",64355,0.0995
+57709,92679,"Trabuco Canyon, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",30581,0.0473
+57709,92688,"Rancho Santa Margarita, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",44688,0.0691
+57709,92691,"Mission Viejo, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",47918,0.0741
+57709,92692,"Mission Viejo, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",46434,0.0718
+57709,92694,"Ladera Ranch, CA","Mission Viejo--Lake Forest--Laguna Niguel, CA",35873,0.0555
+58006,95307,"Ceres, CA","Modesto, CA",43207,0.1209
+58006,95319,"Empire, CA (PO boxes)","Modesto, CA",2026,0.0057
+58006,95326,"Hughson, CA","Modesto, CA",7650,0.0214
+58006,95328,"Keyes, CA","Modesto, CA",3925,0.011
+58006,95350,"Modesto, CA","Modesto, CA",55344,0.1549
+58006,95351,"Modesto, CA","Modesto, CA",48570,0.1359
+58006,95354,"Modesto, CA","Modesto, CA",26765,0.0749
+58006,95355,"Modesto, CA","Modesto, CA",62317,0.1744
+58006,95356,"Modesto, CA","Modesto, CA",31665,0.0886
+58006,95357,"Modesto, CA","Modesto, CA",9792,0.0274
+58006,95358,"Modesto, CA","Modesto, CA",26051,0.0729
+58006,95361,"Oakdale, CA","Modesto, CA",595,0.0017
+58006,95367,"Riverbank, CA","Modesto, CA",25365,0.071
+58006,95368,"Salida, CA","Modesto, CA",13869,0.0388
+58006,95382,"Turlock, CA","Modesto, CA",160,0.0004
+59430,93430,"Cayucos, CA","Morro Bay, CA",2405,0.1827
+59430,93442,"Morro Bay, CA","Morro Bay, CA",10758,0.8173
+60223,96067,"Mount Shasta, CA","Mount Shasta, CA",5203,1
+61057,94558,"Napa, CA","Napa, CA",57675,0.6816
+61057,94559,"Napa, CA","Napa, CA",26944,0.3184
+61435,92363,"Needles, CA","Needles, CA--AZ",4753,1
+62569,95360,"Newman, CA","Newman, CA",12387,1
+63232,95423,"Clearlake Oaks, CA","Nice, CA",2684,0.3137
+63232,95443,"Glenhaven, CA","Nice, CA",82,0.0096
+63232,95458,"Lucerne, CA","Nice, CA",2911,0.3403
+63232,95464,"Nice, CA","Nice, CA",2462,0.2878
+63232,95485,"Upper Lake, CA","Nice, CA",416,0.0486
+63282,93420,"Arroyo Grande, CA","Nipomo, CA",1197,0.059
+63282,93444,"Nipomo, CA","Nipomo, CA",19106,0.941
+64270,95361,"Oakdale, CA","Oakdale, CA",25408,1
+65755,93646,"Orange Cove, CA","Orange Cove, CA",9716,1
+65836,95963,"Orland, CA","Orland, CA",9422,1
+65917,93615,"Cutler, CA","Orosi, CA",4156,0.3248
+65917,93647,"Orosi, CA","Orosi, CA",8639,0.6752
+65944,95965,"Oroville, CA","Oroville, CA",15492,0.3855
+65944,95966,"Oroville, CA","Oroville, CA",23463,0.5838
+65944,95968,"Palermo, CA","Oroville, CA",1235,0.0307
+66673,93001,"Ventura, CA","Oxnard--San Buenaventura (Ventura), CA",31575,0.0839
+66673,93003,"Ventura, CA","Oxnard--San Buenaventura (Ventura), CA",50513,0.1343
+66673,93004,"Ventura, CA","Oxnard--San Buenaventura (Ventura), CA",31883,0.0848
+66673,93022,"Oak View, CA","Oxnard--San Buenaventura (Ventura), CA",6087,0.0162
+66673,93023,"Ojai, CA","Oxnard--San Buenaventura (Ventura), CA",18047,0.048
+66673,93030,"Oxnard, CA","Oxnard--San Buenaventura (Ventura), CA",58963,0.1568
+66673,93033,"Oxnard, CA","Oxnard--San Buenaventura (Ventura), CA",79236,0.2107
+66673,93035,"Oxnard, CA","Oxnard--San Buenaventura (Ventura), CA",28045,0.0746
+66673,93036,"Oxnard, CA","Oxnard--San Buenaventura (Ventura), CA",48310,0.1284
+66673,93041,"Port Hueneme, CA","Oxnard--San Buenaventura (Ventura), CA",22918,0.0609
+66673,93042,"Point Mugu Nawc, CA","Oxnard--San Buenaventura (Ventura), CA",17,0
+66673,93043,"Port Hueneme Cbc Base, CA","Oxnard--San Buenaventura (Ventura), CA",523,0.0014
+67140,93534,"Lancaster, CA","Palmdale--Lancaster, CA",43672,0.1215
+67140,93535,"Lancaster, CA","Palmdale--Lancaster, CA",71313,0.1983
+67140,93536,"Lancaster, CA","Palmdale--Lancaster, CA",68862,0.1915
+67140,93550,"Palmdale, CA","Palmdale--Lancaster, CA",81143,0.2257
+67140,93551,"Palmdale, CA","Palmdale--Lancaster, CA",53318,0.1483
+67140,93552,"Palmdale, CA","Palmdale--Lancaster, CA",41251,0.1147
+67645,92242,"Earp, CA","Parker, AZ--CA",711,1
+67753,93648,"Parlier, CA","Parlier, CA",14522,1
+67861,95363,"Patterson, CA","Patterson, CA",23660,1
+68887,94951,"Penngrove, CA","Petaluma, CA",2222,0.0341
+68887,94952,"Petaluma, CA","Petaluma, CA",26016,0.3989
+68887,94954,"Petaluma, CA","Petaluma, CA",36989,0.5671
+69832,95619,"Diamond Springs, CA","Placerville--Diamond Springs, CA",4447,0.1909
+69832,95623,"El Dorado, CA","Placerville--Diamond Springs, CA",1208,0.0519
+69832,95667,"Placerville, CA","Placerville--Diamond Springs, CA",17166,0.737
+69832,95709,"Camino, CA","Placerville--Diamond Springs, CA",470,0.0202
+70280,95961,"Olivehurst, CA","Plumas Lake, CA",7337,1
+71074,93257,"Porterville, CA","Porterville, CA",69862,1
+73288,92065,"Ramona, CA","Ramona, CA",14837,1
+73315,95252,"Valley Springs, CA","Rancho Calaveras, CA",8164,1
+73720,96080,"Red Bluff, CA","Red Bluff, CA",19826,1
+73774,96001,"Redding, CA","Redding, CA",30438,0.2524
+73774,96002,"Redding, CA","Redding, CA",32114,0.2663
+73774,96003,"Redding, CA","Redding, CA",34411,0.2853
+73774,96007,"Anderson, CA","Redding, CA",14234,0.118
+73774,96019,"Shasta Lake, CA","Redding, CA",9405,0.078
+74044,93618,"Dinuba, CA","Reedley--Dinuba, CA",24283,0.4894
+74044,93654,"Reedley, CA","Reedley--Dinuba, CA",25331,0.5106
+74179,89439,"Verdi, NV (PO boxes)","Reno, NV--CA",40,1
+74827,93555,"Ridgecrest, CA","Ridgecrest, CA",29307,1
+75097,94571,"Rio Vista, CA","Rio Vista, CA",9942,1
+75198,95366,"Ripon, CA","Ripon, CA",15829,1
+75340,91708,"Chino, CA","Riverside--San Bernardino, CA",14303,0.0063
+75340,91709,"Chino Hills, CA","Riverside--San Bernardino, CA",76142,0.0334
+75340,91710,"Chino, CA","Riverside--San Bernardino, CA",82576,0.0363
+75340,91730,"Rancho Cucamonga, CA","Riverside--San Bernardino, CA",3360,0.0015
+75340,91739,"Rancho Cucamonga, CA","Riverside--San Bernardino, CA",5662,0.0025
+75340,91752,"Mira Loma, CA","Riverside--San Bernardino, CA",38610,0.017
+75340,91761,"Ontario, CA","Riverside--San Bernardino, CA",9350,0.0041
+75340,91762,"Ontario, CA","Riverside--San Bernardino, CA",20595,0.009
+75340,91763,"Montclair, CA","Riverside--San Bernardino, CA",6778,0.003
+75340,91764,"Ontario, CA","Riverside--San Bernardino, CA",6862,0.003
+75340,91766,"Pomona, CA","Riverside--San Bernardino, CA",4209,0.0018
+75340,92220,"Banning, CA","Riverside--San Bernardino, CA",28114,0.0123
+75340,92223,"Beaumont, CA","Riverside--San Bernardino, CA",57383,0.0252
+75340,92313,"Grand Terrace, CA","Riverside--San Bernardino, CA",13150,0.0058
+75340,92316,"Bloomington, CA","Riverside--San Bernardino, CA",31463,0.0138
+75340,92320,"Calimesa, CA","Riverside--San Bernardino, CA",9029,0.004
+75340,92324,"Colton, CA","Riverside--San Bernardino, CA",57390,0.0252
+75340,92335,"Fontana, CA","Riverside--San Bernardino, CA",96605,0.0424
+75340,92336,"Fontana, CA","Riverside--San Bernardino, CA",74574,0.0328
+75340,92337,"Fontana, CA","Riverside--San Bernardino, CA",36394,0.016
+75340,92346,"Highland, CA","Riverside--San Bernardino, CA",57021,0.025
+75340,92350,"Loma Linda, CA","Riverside--San Bernardino, CA",258,0.0001
+75340,92354,"Loma Linda, CA","Riverside--San Bernardino, CA",22610,0.0099
+75340,92359,"Mentone, CA","Riverside--San Bernardino, CA",8165,0.0036
+75340,92369,"Patton, CA (PO boxes)","Riverside--San Bernardino, CA",1481,0.0007
+75340,92373,"Redlands, CA","Riverside--San Bernardino, CA",33979,0.0149
+75340,92374,"Redlands, CA","Riverside--San Bernardino, CA",42887,0.0188
+75340,92376,"Rialto, CA","Riverside--San Bernardino, CA",84548,0.0371
+75340,92377,"Rialto, CA","Riverside--San Bernardino, CA",20543,0.009
+75340,92399,"Yucaipa, CA","Riverside--San Bernardino, CA",53025,0.0233
+75340,92401,"San Bernardino, CA","Riverside--San Bernardino, CA",2016,0.0009
+75340,92404,"San Bernardino, CA","Riverside--San Bernardino, CA",63911,0.0281
+75340,92405,"San Bernardino, CA","Riverside--San Bernardino, CA",32165,0.0141
+75340,92407,"San Bernardino, CA","Riverside--San Bernardino, CA",64508,0.0283
+75340,92408,"San Bernardino, CA","Riverside--San Bernardino, CA",13488,0.0059
+75340,92410,"San Bernardino, CA","Riverside--San Bernardino, CA",51651,0.0227
+75340,92411,"San Bernardino, CA","Riverside--San Bernardino, CA",27014,0.0119
+75340,92415,"San Bernardino, CA","Riverside--San Bernardino, CA",2,0
+75340,92501,"Riverside, CA","Riverside--San Bernardino, CA",22017,0.0097
+75340,92503,"Riverside, CA","Riverside--San Bernardino, CA",88302,0.0388
+75340,92504,"Riverside, CA","Riverside--San Bernardino, CA",54252,0.0238
+75340,92505,"Riverside, CA","Riverside--San Bernardino, CA",50755,0.0223
+75340,92506,"Riverside, CA","Riverside--San Bernardino, CA",45185,0.0198
+75340,92507,"Riverside, CA","Riverside--San Bernardino, CA",63028,0.0277
+75340,92508,"Riverside, CA","Riverside--San Bernardino, CA",35308,0.0155
+75340,92509,"Jurupa Valley, CA","Riverside--San Bernardino, CA",77924,0.0342
+75340,92518,"March Air Reserve Base, CA","Riverside--San Bernardino, CA",798,0.0004
+75340,92521,"Riverside, CA","Riverside--San Bernardino, CA",40,0
+75340,92530,"Lake Elsinore, CA","Riverside--San Bernardino, CA",23,0
+75340,92551,"Moreno Valley, CA","Riverside--San Bernardino, CA",34294,0.0151
+75340,92553,"Moreno Valley, CA","Riverside--San Bernardino, CA",76761,0.0337
+75340,92555,"Moreno Valley, CA","Riverside--San Bernardino, CA",41682,0.0183
+75340,92557,"Moreno Valley, CA","Riverside--San Bernardino, CA",54072,0.0238
+75340,92570,"Perris, CA","Riverside--San Bernardino, CA",40434,0.0178
+75340,92571,"Perris, CA","Riverside--San Bernardino, CA",58897,0.0259
+75340,92860,"Norco, CA","Riverside--San Bernardino, CA",26370,0.0116
+75340,92879,"Corona, CA","Riverside--San Bernardino, CA",47243,0.0208
+75340,92880,"Corona, CA","Riverside--San Bernardino, CA",75263,0.0331
+75340,92881,"Corona, CA","Riverside--San Bernardino, CA",31440,0.0138
+75340,92882,"Corona, CA","Riverside--San Bernardino, CA",67743,0.0298
+75340,92883,"Corona, CA","Riverside--San Bernardino, CA",33051,0.0145
+76285,93560,"Rosamond, CA","Rosamond, CA",17538,1
+76717,92382,"Running Springs, CA (PO boxes)","Running Springs, CA",5313,1
+77068,95603,"Auburn, CA","Sacramento, CA",206,0.0001
+77068,95605,"West Sacramento, CA","Sacramento, CA",14204,0.0073
+77068,95608,"Carmichael, CA","Sacramento, CA",65367,0.0336
+77068,95610,"Citrus Heights, CA","Sacramento, CA",46592,0.0239
+77068,95621,"Citrus Heights, CA","Sacramento, CA",42941,0.0221
+77068,95624,"Elk Grove, CA","Sacramento, CA",64173,0.033
+77068,95626,"Elverta, CA","Sacramento, CA",3463,0.0018
+77068,95628,"Fair Oaks, CA","Sacramento, CA",42798,0.022
+77068,95630,"Folsom, CA","Sacramento, CA",73695,0.0379
+77068,95648,"Lincoln, CA","Sacramento, CA",49256,0.0253
+77068,95650,"Loomis, CA","Sacramento, CA",7280,0.0037
+77068,95652,"Mcclellan, CA","Sacramento, CA",914,0.0005
+77068,95655,"Mather, CA","Sacramento, CA",4434,0.0023
+77068,95658,"Newcastle, CA","Sacramento, CA",1417,0.0007
+77068,95660,"North Highlands, CA","Sacramento, CA",35368,0.0182
+77068,95661,"Roseville, CA","Sacramento, CA",32847,0.0169
+77068,95662,"Orangevale, CA","Sacramento, CA",32688,0.0168
+77068,95663,"Penryn, CA","Sacramento, CA",960,0.0005
+77068,95670,"Rancho Cordova, CA","Sacramento, CA",57889,0.0297
+77068,95671,"Represa, CA","Sacramento, CA",5667,0.0029
+77068,95672,"Rescue, CA","Sacramento, CA",1418,0.0007
+77068,95673,"Rio Linda, CA","Sacramento, CA",15912,0.0082
+77068,95677,"Rocklin, CA","Sacramento, CA",28351,0.0146
+77068,95678,"Roseville, CA","Sacramento, CA",45136,0.0232
+77068,95682,"Shingle Springs, CA","Sacramento, CA",22364,0.0115
+77068,95691,"West Sacramento, CA","Sacramento, CA",39543,0.0203
+77068,95742,"Rancho Cordova, CA","Sacramento, CA",16032,0.0082
+77068,95746,"Granite Bay, CA","Sacramento, CA",21338,0.011
+77068,95747,"Roseville, CA","Sacramento, CA",74139,0.0381
+77068,95757,"Elk Grove, CA","Sacramento, CA",52753,0.0271
+77068,95758,"Elk Grove, CA","Sacramento, CA",64517,0.0331
+77068,95762,"El Dorado Hills, CA","Sacramento, CA",44673,0.0229
+77068,95765,"Rocklin, CA","Sacramento, CA",43120,0.0222
+77068,95811,"Sacramento, CA","Sacramento, CA",12463,0.0064
+77068,95814,"Sacramento, CA","Sacramento, CA",12208,0.0063
+77068,95815,"Sacramento, CA","Sacramento, CA",27838,0.0143
+77068,95816,"Sacramento, CA","Sacramento, CA",18606,0.0096
+77068,95817,"Sacramento, CA","Sacramento, CA",14270,0.0073
+77068,95818,"Sacramento, CA","Sacramento, CA",22375,0.0115
+77068,95819,"Sacramento, CA","Sacramento, CA",20812,0.0107
+77068,95820,"Sacramento, CA","Sacramento, CA",36848,0.0189
+77068,95821,"Sacramento, CA","Sacramento, CA",39310,0.0202
+77068,95822,"Sacramento, CA","Sacramento, CA",45215,0.0232
+77068,95823,"Sacramento, CA","Sacramento, CA",81211,0.0417
+77068,95824,"Sacramento, CA","Sacramento, CA",31524,0.0162
+77068,95825,"Sacramento, CA","Sacramento, CA",36081,0.0185
+77068,95826,"Sacramento, CA","Sacramento, CA",39768,0.0204
+77068,95827,"Sacramento, CA","Sacramento, CA",21493,0.011
+77068,95828,"Sacramento, CA","Sacramento, CA",62887,0.0323
+77068,95829,"Sacramento, CA","Sacramento, CA",30292,0.0156
+77068,95831,"Sacramento, CA","Sacramento, CA",43099,0.0221
+77068,95832,"Sacramento, CA","Sacramento, CA",11785,0.0061
+77068,95833,"Sacramento, CA","Sacramento, CA",40195,0.0206
+77068,95834,"Sacramento, CA","Sacramento, CA",35603,0.0183
+77068,95835,"Sacramento, CA","Sacramento, CA",41388,0.0213
+77068,95838,"Sacramento, CA","Sacramento, CA",41340,0.0212
+77068,95841,"Sacramento, CA","Sacramento, CA",21873,0.0112
+77068,95842,"Sacramento, CA","Sacramento, CA",34196,0.0176
+77068,95843,"Antelope, CA","Sacramento, CA",48234,0.0248
+77068,95864,"Sacramento, CA","Sacramento, CA",24249,0.0125
+77500,94574,"Saint Helena, CA","St. Helena, CA",6017,0.9887
+77500,94576,"Deer Park, CA","St. Helena, CA",69,0.0113
+78310,93901,"Salinas, CA","Salinas, CA",29666,0.1671
+78310,93905,"Salinas, CA","Salinas, CA",64126,0.3612
+78310,93906,"Salinas, CA","Salinas, CA",66014,0.3718
+78310,93907,"Salinas, CA","Salinas, CA",17014,0.0958
+78310,93908,"Salinas, CA","Salinas, CA",20,0.0001
+78310,93962,"Spreckels, CA (PO boxes)","Salinas, CA",692,0.0039
+78661,91902,"Bonita, CA","San Diego, CA",17872,0.0058
+78661,91910,"Chula Vista, CA","San Diego, CA",79606,0.0259
+78661,91911,"Chula Vista, CA","San Diego, CA",85093,0.0277
+78661,91913,"Chula Vista, CA","San Diego, CA",55216,0.018
+78661,91914,"Chula Vista, CA","San Diego, CA",16289,0.0053
+78661,91915,"Chula Vista, CA","San Diego, CA",32757,0.0107
+78661,91932,"Imperial Beach, CA","San Diego, CA",26013,0.0085
+78661,91935,"Jamul, CA","San Diego, CA",2563,0.0008
+78661,91941,"La Mesa, CA","San Diego, CA",33895,0.011
+78661,91942,"La Mesa, CA","San Diego, CA",40813,0.0133
+78661,91945,"Lemon Grove, CA","San Diego, CA",27814,0.0091
+78661,91950,"National City, CA","San Diego, CA",57849,0.0188
+78661,91977,"Spring Valley, CA","San Diego, CA",60795,0.0198
+78661,91978,"Spring Valley, CA","San Diego, CA",9287,0.003
+78661,92003,"Bonsall, CA","San Diego, CA",334,0.0001
+78661,92007,"Cardiff By The Sea, CA","San Diego, CA",10981,0.0036
+78661,92008,"Carlsbad, CA","San Diego, CA",27282,0.0089
+78661,92009,"Carlsbad, CA","San Diego, CA",44816,0.0146
+78661,92010,"Carlsbad, CA","San Diego, CA",18887,0.0062
+78661,92011,"Carlsbad, CA","San Diego, CA",23757,0.0077
+78661,92014,"Del Mar, CA","San Diego, CA",13203,0.0043
+78661,92019,"El Cajon, CA","San Diego, CA",41559,0.0135
+78661,92020,"El Cajon, CA","San Diego, CA",60454,0.0197
+78661,92021,"El Cajon, CA","San Diego, CA",67822,0.0221
+78661,92024,"Encinitas, CA","San Diego, CA",50981,0.0166
+78661,92025,"Escondido, CA","San Diego, CA",50895,0.0166
+78661,92026,"Escondido, CA","San Diego, CA",43850,0.0143
+78661,92027,"Escondido, CA","San Diego, CA",54679,0.0178
+78661,92029,"Escondido, CA","San Diego, CA",20083,0.0065
+78661,92037,"La Jolla, CA","San Diego, CA",41260,0.0134
+78661,92040,"Lakeside, CA","San Diego, CA",40991,0.0134
+78661,92054,"Oceanside, CA","San Diego, CA",38667,0.0126
+78661,92055,"Camp Pendleton, CA (PO boxes)","San Diego, CA",1621,0.0005
+78661,92056,"Oceanside, CA","San Diego, CA",53750,0.0175
+78661,92057,"Oceanside, CA","San Diego, CA",57456,0.0187
+78661,92058,"Oceanside, CA","San Diego, CA",41775,0.0136
+78661,92064,"Poway, CA","San Diego, CA",46942,0.0153
+78661,92067,"Rancho Santa Fe, CA (PO boxes)","San Diego, CA",8782,0.0029
+78661,92069,"San Marcos, CA","San Diego, CA",48469,0.0158
+78661,92071,"Santee, CA","San Diego, CA",60037,0.0196
+78661,92075,"Solana Beach, CA","San Diego, CA",12051,0.0039
+78661,92078,"San Marcos, CA","San Diego, CA",52109,0.017
+78661,92081,"Vista, CA","San Diego, CA",28745,0.0094
+78661,92083,"Vista, CA","San Diego, CA",39219,0.0128
+78661,92084,"Vista, CA","San Diego, CA",47474,0.0155
+78661,92091,"Rancho Santa Fe, CA","San Diego, CA",1549,0.0005
+78661,92092,"La Jolla, CA","San Diego, CA",5251,0.0017
+78661,92093,"La Jolla, CA","San Diego, CA",5076,0.0017
+78661,92096,"San Marcos, CA","San Diego, CA",35,0
+78661,92101,"San Diego, CA","San Diego, CA",47505,0.0155
+78661,92102,"San Diego, CA","San Diego, CA",39783,0.013
+78661,92103,"San Diego, CA","San Diego, CA",33311,0.0108
+78661,92104,"San Diego, CA","San Diego, CA",44265,0.0144
+78661,92105,"San Diego, CA","San Diego, CA",66579,0.0217
+78661,92106,"San Diego, CA","San Diego, CA",20214,0.0066
+78661,92107,"San Diego, CA","San Diego, CA",28684,0.0093
+78661,92108,"San Diego, CA","San Diego, CA",24266,0.0079
+78661,92109,"San Diego, CA","San Diego, CA",44671,0.0145
+78661,92110,"San Diego, CA","San Diego, CA",31048,0.0101
+78661,92111,"San Diego, CA","San Diego, CA",46686,0.0152
+78661,92113,"San Diego, CA","San Diego, CA",50457,0.0164
+78661,92114,"San Diego, CA","San Diego, CA",66248,0.0216
+78661,92115,"San Diego, CA","San Diego, CA",64251,0.0209
+78661,92116,"San Diego, CA","San Diego, CA",31523,0.0103
+78661,92117,"San Diego, CA","San Diego, CA",51505,0.0168
+78661,92118,"Coronado, CA","San Diego, CA",20629,0.0067
+78661,92119,"San Diego, CA","San Diego, CA",23934,0.0078
+78661,92120,"San Diego, CA","San Diego, CA",30768,0.01
+78661,92121,"San Diego, CA","San Diego, CA",4658,0.0015
+78661,92122,"San Diego, CA","San Diego, CA",45646,0.0149
+78661,92123,"San Diego, CA","San Diego, CA",30937,0.0101
+78661,92124,"San Diego, CA","San Diego, CA",30530,0.0099
+78661,92126,"San Diego, CA","San Diego, CA",74788,0.0244
+78661,92127,"San Diego, CA","San Diego, CA",49797,0.0162
+78661,92128,"San Diego, CA","San Diego, CA",49083,0.016
+78661,92129,"San Diego, CA","San Diego, CA",51695,0.0168
+78661,92130,"San Diego, CA","San Diego, CA",61595,0.0201
+78661,92131,"San Diego, CA","San Diego, CA",35509,0.0116
+78661,92134,"San Diego, CA","San Diego, CA",396,0.0001
+78661,92135,"San Diego, CA (PO boxes)","San Diego, CA",1610,0.0005
+78661,92136,"San Diego, CA","San Diego, CA",7014,0.0023
+78661,92139,"San Diego, CA","San Diego, CA",35771,0.0117
+78661,92140,"San Diego, CA","San Diego, CA",2183,0.0007
+78661,92145,"San Diego, CA","San Diego, CA",6057,0.002
+78661,92147,"San Diego, CA","San Diego, CA",256,0.0001
+78661,92154,"San Diego, CA","San Diego, CA",79738,0.026
+78661,92155,"San Diego, CA","San Diego, CA",210,0.0001
+78661,92161,"San Diego, CA","San Diego, CA",66,0
+78661,92173,"San Ysidro, CA","San Diego, CA",29703,0.0097
+78661,92182,"San Diego, CA","San Diego, CA",27,0
+78699,92065,"Ramona, CA","San Diego Country Estates, CA",7002,1
+78904, ,[not in a ZCTA],"San Francisco--Oakland, CA",32,0
+78904,94002,"Belmont, CA","San Francisco--Oakland, CA",28513,0.0081
+78904,94005,"Brisbane, CA","San Francisco--Oakland, CA",4836,0.0014
+78904,94010,"Burlingame, CA","San Francisco--Oakland, CA",44031,0.0125
+78904,94014,"Daly City, CA","San Francisco--Oakland, CA",48677,0.0138
+78904,94015,"Daly City, CA","San Francisco--Oakland, CA",63489,0.0181
+78904,94025,"Menlo Park, CA","San Francisco--Oakland, CA",13825,0.0039
+78904,94027,"Atherton, CA","San Francisco--Oakland, CA",6606,0.0019
+78904,94030,"Millbrae, CA","San Francisco--Oakland, CA",23212,0.0066
+78904,94044,"Pacifica, CA","San Francisco--Oakland, CA",38612,0.011
+78904,94061,"Redwood City, CA","San Francisco--Oakland, CA",36704,0.0104
+78904,94062,"Redwood City, CA","San Francisco--Oakland, CA",22471,0.0064
+78904,94063,"Redwood City, CA","San Francisco--Oakland, CA",35836,0.0102
+78904,94065,"Redwood City, CA","San Francisco--Oakland, CA",12781,0.0036
+78904,94066,"San Bruno, CA","San Francisco--Oakland, CA",44147,0.0126
+78904,94070,"San Carlos, CA","San Francisco--Oakland, CA",31585,0.009
+78904,94080,"South San Francisco, CA","San Francisco--Oakland, CA",66562,0.0189
+78904,94102,"San Francisco, CA","San Francisco--Oakland, CA",39432,0.0112
+78904,94103,"San Francisco, CA","San Francisco--Oakland, CA",37843,0.0108
+78904,94104,"San Francisco, CA","San Francisco--Oakland, CA",576,0.0002
+78904,94105,"San Francisco, CA","San Francisco--Oakland, CA",14841,0.0042
+78904,94107,"San Francisco, CA","San Francisco--Oakland, CA",34012,0.0097
+78904,94108,"San Francisco, CA","San Francisco--Oakland, CA",13097,0.0037
+78904,94109,"San Francisco, CA","San Francisco--Oakland, CA",58501,0.0166
+78904,94110,"San Francisco, CA","San Francisco--Oakland, CA",68336,0.0194
+78904,94111,"San Francisco, CA","San Francisco--Oakland, CA",4306,0.0012
+78904,94112,"San Francisco, CA","San Francisco--Oakland, CA",79314,0.0226
+78904,94114,"San Francisco, CA","San Francisco--Oakland, CA",33683,0.0096
+78904,94115,"San Francisco, CA","San Francisco--Oakland, CA",35853,0.0102
+78904,94116,"San Francisco, CA","San Francisco--Oakland, CA",44092,0.0125
+78904,94117,"San Francisco, CA","San Francisco--Oakland, CA",38451,0.0109
+78904,94118,"San Francisco, CA","San Francisco--Oakland, CA",42356,0.012
+78904,94121,"San Francisco, CA","San Francisco--Oakland, CA",43115,0.0123
+78904,94122,"San Francisco, CA","San Francisco--Oakland, CA",57160,0.0163
+78904,94123,"San Francisco, CA","San Francisco--Oakland, CA",26131,0.0074
+78904,94124,"San Francisco, CA","San Francisco--Oakland, CA",39445,0.0112
+78904,94127,"San Francisco, CA","San Francisco--Oakland, CA",20686,0.0059
+78904,94128,"San Francisco, CA","San Francisco--Oakland, CA",2,0
+78904,94129,"San Francisco, CA","San Francisco--Oakland, CA",3647,0.001
+78904,94130,"San Francisco, CA","San Francisco--Oakland, CA",2747,0.0008
+78904,94131,"San Francisco, CA","San Francisco--Oakland, CA",28810,0.0082
+78904,94132,"San Francisco, CA","San Francisco--Oakland, CA",27723,0.0079
+78904,94133,"San Francisco, CA","San Francisco--Oakland, CA",26751,0.0076
+78904,94134,"San Francisco, CA","San Francisco--Oakland, CA",41695,0.0119
+78904,94158,"San Francisco, CA","San Francisco--Oakland, CA",11327,0.0032
+78904,94188,"San Francisco, CA","San Francisco--Oakland, CA",3,0
+78904,94303,"Palo Alto, CA","San Francisco--Oakland, CA",30043,0.0085
+78904,94401,"San Mateo, CA","San Francisco--Oakland, CA",35249,0.01
+78904,94402,"San Mateo, CA","San Francisco--Oakland, CA",25879,0.0074
+78904,94403,"San Mateo, CA","San Francisco--Oakland, CA",45057,0.0128
+78904,94404,"San Mateo, CA","San Francisco--Oakland, CA",37323,0.0106
+78904,94501,"Alameda, CA","San Francisco--Oakland, CA",64116,0.0182
+78904,94502,"Alameda, CA","San Francisco--Oakland, CA",14164,0.004
+78904,94525,"Crockett, CA","San Francisco--Oakland, CA",3273,0.0009
+78904,94530,"El Cerrito, CA","San Francisco--Oakland, CA",26287,0.0075
+78904,94536,"Fremont, CA","San Francisco--Oakland, CA",71881,0.0204
+78904,94538,"Fremont, CA","San Francisco--Oakland, CA",66424,0.0189
+78904,94539,"Fremont, CA","San Francisco--Oakland, CA",45725,0.013
+78904,94541,"Hayward, CA","San Francisco--Oakland, CA",69736,0.0198
+78904,94542,"Hayward, CA","San Francisco--Oakland, CA",15270,0.0043
+78904,94544,"Hayward, CA","San Francisco--Oakland, CA",79746,0.0227
+78904,94545,"Hayward, CA","San Francisco--Oakland, CA",33786,0.0096
+78904,94546,"Castro Valley, CA","San Francisco--Oakland, CA",46665,0.0133
+78904,94547,"Hercules, CA","San Francisco--Oakland, CA",26016,0.0074
+78904,94552,"Castro Valley, CA","San Francisco--Oakland, CA",13842,0.0039
+78904,94555,"Fremont, CA","San Francisco--Oakland, CA",36882,0.0105
+78904,94560,"Newark, CA","San Francisco--Oakland, CA",47488,0.0135
+78904,94564,"Pinole, CA","San Francisco--Oakland, CA",19022,0.0054
+78904,94569,"Port Costa, CA (PO boxes)","San Francisco--Oakland, CA",180,0.0001
+78904,94572,"Rodeo, CA","San Francisco--Oakland, CA",9600,0.0027
+78904,94577,"San Leandro, CA","San Francisco--Oakland, CA",48844,0.0139
+78904,94578,"San Leandro, CA","San Francisco--Oakland, CA",40957,0.0116
+78904,94579,"San Leandro, CA","San Francisco--Oakland, CA",21869,0.0062
+78904,94580,"San Lorenzo, CA","San Francisco--Oakland, CA",29590,0.0084
+78904,94587,"Union City, CA","San Francisco--Oakland, CA",70121,0.0199
+78904,94601,"Oakland, CA","San Francisco--Oakland, CA",54166,0.0154
+78904,94602,"Oakland, CA","San Francisco--Oakland, CA",29702,0.0084
+78904,94603,"Oakland, CA","San Francisco--Oakland, CA",36681,0.0104
+78904,94605,"Oakland, CA","San Francisco--Oakland, CA",44294,0.0126
+78904,94606,"Oakland, CA","San Francisco--Oakland, CA",40768,0.0116
+78904,94607,"Oakland, CA","San Francisco--Oakland, CA",31067,0.0088
+78904,94608,"Emeryville, CA","San Francisco--Oakland, CA",33073,0.0094
+78904,94609,"Oakland, CA","San Francisco--Oakland, CA",23578,0.0067
+78904,94610,"Oakland, CA","San Francisco--Oakland, CA",31261,0.0089
+78904,94611,"Oakland, CA","San Francisco--Oakland, CA",40247,0.0114
+78904,94612,"Oakland, CA","San Francisco--Oakland, CA",19773,0.0056
+78904,94613,"Oakland, CA (PO boxes)","San Francisco--Oakland, CA",346,0.0001
+78904,94618,"Oakland, CA","San Francisco--Oakland, CA",16946,0.0048
+78904,94619,"Oakland, CA","San Francisco--Oakland, CA",24776,0.007
+78904,94621,"Oakland, CA","San Francisco--Oakland, CA",35816,0.0102
+78904,94702,"Berkeley, CA","San Francisco--Oakland, CA",17637,0.005
+78904,94703,"Berkeley, CA","San Francisco--Oakland, CA",20805,0.0059
+78904,94704,"Berkeley, CA","San Francisco--Oakland, CA",25259,0.0072
+78904,94705,"Berkeley, CA","San Francisco--Oakland, CA",13591,0.0039
+78904,94706,"Albany, CA","San Francisco--Oakland, CA",21134,0.006
+78904,94707,"Berkeley, CA","San Francisco--Oakland, CA",12781,0.0036
+78904,94708,"Berkeley, CA","San Francisco--Oakland, CA",11553,0.0033
+78904,94709,"Berkeley, CA","San Francisco--Oakland, CA",12514,0.0036
+78904,94710,"Berkeley, CA","San Francisco--Oakland, CA",9531,0.0027
+78904,94720,"Berkeley, CA","San Francisco--Oakland, CA",7478,0.0021
+78904,94801,"Richmond, CA","San Francisco--Oakland, CA",33448,0.0095
+78904,94803,"El Sobrante, CA","San Francisco--Oakland, CA",25675,0.0073
+78904,94804,"Richmond, CA","San Francisco--Oakland, CA",45108,0.0128
+78904,94805,"Richmond, CA","San Francisco--Oakland, CA",14916,0.0042
+78904,94806,"San Pablo, CA","San Francisco--Oakland, CA",64572,0.0184
+78904,94901,"San Rafael, CA","San Francisco--Oakland, CA",43285,0.0123
+78904,94903,"San Rafael, CA","San Francisco--Oakland, CA",30253,0.0086
+78904,94904,"Greenbrae, CA","San Francisco--Oakland, CA",12587,0.0036
+78904,94920,"Belvedere Tiburon, CA","San Francisco--Oakland, CA",12979,0.0037
+78904,94925,"Corte Madera, CA","San Francisco--Oakland, CA",10204,0.0029
+78904,94930,"Fairfax, CA","San Francisco--Oakland, CA",8386,0.0024
+78904,94939,"Larkspur, CA","San Francisco--Oakland, CA",7459,0.0021
+78904,94941,"Mill Valley, CA","San Francisco--Oakland, CA",31385,0.0089
+78904,94945,"Novato, CA","San Francisco--Oakland, CA",16223,0.0046
+78904,94947,"Novato, CA","San Francisco--Oakland, CA",24104,0.0069
+78904,94949,"Novato, CA","San Francisco--Oakland, CA",16762,0.0048
+78904,94957,"Ross, CA (PO boxes)","San Francisco--Oakland, CA",1799,0.0005
+78904,94960,"San Anselmo, CA","San Francisco--Oakland, CA",15920,0.0045
+78904,94964,"San Quentin, CA (PO boxes)","San Francisco--Oakland, CA",4264,0.0012
+78904,94965,"Sausalito, CA","San Francisco--Oakland, CA",10938,0.0031
+78931,93657,"Sanger, CA","Sanger, CA",27325,1
+79039,94022,"Los Altos, CA","San Jose, CA",20667,0.0112
+79039,94024,"Los Altos, CA","San Jose, CA",23238,0.0126
+79039,94025,"Menlo Park, CA","San Jose, CA",28529,0.0155
+79039,94027,"Atherton, CA","San Jose, CA",664,0.0004
+79039,94028,"Portola Valley, CA","San Jose, CA",5022,0.0027
+79039,94040,"Mountain View, CA","San Jose, CA",36501,0.0199
+79039,94041,"Mountain View, CA","San Jose, CA",15604,0.0085
+79039,94043,"Mountain View, CA","San Jose, CA",31414,0.0171
+79039,94062,"Redwood City, CA","San Jose, CA",150,0.0001
+79039,94085,"Sunnyvale, CA","San Jose, CA",24031,0.0131
+79039,94086,"Sunnyvale, CA","San Jose, CA",50175,0.0273
+79039,94087,"Sunnyvale, CA","San Jose, CA",58344,0.0318
+79039,94089,"Sunnyvale, CA","San Jose, CA",23255,0.0127
+79039,94301,"Palo Alto, CA","San Jose, CA",17299,0.0094
+79039,94303,"Palo Alto, CA","San Jose, CA",18222,0.0099
+79039,94304,"Palo Alto, CA","San Jose, CA",4343,0.0024
+79039,94305,"Stanford, CA","San Jose, CA",20945,0.0114
+79039,94306,"Palo Alto, CA","San Jose, CA",28659,0.0156
+79039,94539,"Fremont, CA","San Jose, CA",7278,0.004
+79039,95002,"Alviso, CA (PO boxes)","San Jose, CA",2009,0.0011
+79039,95008,"Campbell, CA","San Jose, CA",49038,0.0267
+79039,95013,"Coyote, CA (PO boxes)","San Jose, CA",85,0
+79039,95014,"Cupertino, CA","San Jose, CA",62149,0.0338
+79039,95030,"Los Gatos, CA","San Jose, CA",13327,0.0073
+79039,95032,"Los Gatos, CA","San Jose, CA",27552,0.015
+79039,95035,"Milpitas, CA","San Jose, CA",80198,0.0436
+79039,95050,"Santa Clara, CA","San Jose, CA",39031,0.0212
+79039,95051,"Santa Clara, CA","San Jose, CA",61466,0.0335
+79039,95053,"Santa Clara, CA","San Jose, CA",2582,0.0014
+79039,95054,"Santa Clara, CA","San Jose, CA",25024,0.0136
+79039,95070,"Saratoga, CA","San Jose, CA",31544,0.0172
+79039,95110,"San Jose, CA","San Jose, CA",20495,0.0112
+79039,95111,"San Jose, CA","San Jose, CA",60593,0.033
+79039,95112,"San Jose, CA","San Jose, CA",60754,0.0331
+79039,95113,"San Jose, CA","San Jose, CA",2658,0.0014
+79039,95116,"San Jose, CA","San Jose, CA",51222,0.0279
+79039,95117,"San Jose, CA","San Jose, CA",30137,0.0164
+79039,95118,"San Jose, CA","San Jose, CA",32764,0.0178
+79039,95119,"San Jose, CA","San Jose, CA",10030,0.0055
+79039,95120,"San Jose, CA","San Jose, CA",36948,0.0201
+79039,95121,"San Jose, CA","San Jose, CA",37609,0.0205
+79039,95122,"San Jose, CA","San Jose, CA",54056,0.0294
+79039,95123,"San Jose, CA","San Jose, CA",70040,0.0381
+79039,95124,"San Jose, CA","San Jose, CA",50054,0.0272
+79039,95125,"San Jose, CA","San Jose, CA",54000,0.0294
+79039,95126,"San Jose, CA","San Jose, CA",37372,0.0203
+79039,95127,"San Jose, CA","San Jose, CA",62966,0.0343
+79039,95128,"San Jose, CA","San Jose, CA",34776,0.0189
+79039,95129,"San Jose, CA","San Jose, CA",41819,0.0228
+79039,95130,"San Jose, CA","San Jose, CA",13584,0.0074
+79039,95131,"San Jose, CA","San Jose, CA",30975,0.0169
+79039,95132,"San Jose, CA","San Jose, CA",39557,0.0215
+79039,95133,"San Jose, CA","San Jose, CA",30080,0.0164
+79039,95134,"San Jose, CA","San Jose, CA",29738,0.0162
+79039,95135,"San Jose, CA","San Jose, CA",20575,0.0112
+79039,95136,"San Jose, CA","San Jose, CA",45971,0.025
+79039,95138,"San Jose, CA","San Jose, CA",18090,0.0098
+79039,95139,"San Jose, CA","San Jose, CA",6764,0.0037
+79039,95148,"San Jose, CA","San Jose, CA",45474,0.0247
+79147,93401,"San Luis Obispo, CA","San Luis Obispo, CA",27908,0.4904
+79147,93405,"San Luis Obispo, CA","San Luis Obispo, CA",20621,0.3624
+79147,93407,"San Luis Obispo, CA","San Luis Obispo, CA",446,0.0078
+79147,93410,"San Luis Obispo, CA","San Luis Obispo, CA",7929,0.1393
+79282,93001,"Ventura, CA","Santa Barbara, CA",269,0.0013
+79282,93013,"Carpinteria, CA","Santa Barbara, CA",14610,0.0723
+79282,93067,"Summerland, CA (PO boxes)","Santa Barbara, CA",660,0.0033
+79282,93101,"Santa Barbara, CA","Santa Barbara, CA",30513,0.1509
+79282,93103,"Santa Barbara, CA","Santa Barbara, CA",19938,0.0986
+79282,93105,"Santa Barbara, CA","Santa Barbara, CA",24415,0.1207
+79282,93106,"Santa Barbara, CA","Santa Barbara, CA",5203,0.0257
+79282,93108,"Santa Barbara, CA","Santa Barbara, CA",10442,0.0516
+79282,93109,"Santa Barbara, CA","Santa Barbara, CA",11041,0.0546
+79282,93110,"Santa Barbara, CA","Santa Barbara, CA",15605,0.0772
+79282,93111,"Santa Barbara, CA","Santa Barbara, CA",17631,0.0872
+79282,93117,"Goleta, CA","Santa Barbara, CA",51870,0.2565
+79309,91321,"Newhall, CA","Santa Clarita, CA",32519,0.117
+79309,91350,"Santa Clarita, CA","Santa Clarita, CA",40907,0.1471
+79309,91351,"Canyon Country, CA","Santa Clarita, CA",34532,0.1242
+79309,91354,"Valencia, CA","Santa Clarita, CA",33723,0.1213
+79309,91355,"Valencia, CA","Santa Clarita, CA",32886,0.1183
+79309,91381,"Stevenson Ranch, CA","Santa Clarita, CA",20209,0.0727
+79309,91384,"Castaic, CA","Santa Clarita, CA",25845,0.093
+79309,91387,"Canyon Country, CA","Santa Clarita, CA",43770,0.1574
+79309,91390,"Santa Clarita, CA","Santa Clarita, CA",13640,0.0491
+79336,95003,"Aptos, CA","Santa Cruz, CA",22517,0.1332
+79336,95005,"Ben Lomond, CA","Santa Cruz, CA",5850,0.0346
+79336,95006,"Boulder Creek, CA","Santa Cruz, CA",5920,0.035
+79336,95007,"Brookdale, CA (PO boxes)","Santa Cruz, CA",784,0.0046
+79336,95010,"Capitola, CA","Santa Cruz, CA",9080,0.0537
+79336,95018,"Felton, CA","Santa Cruz, CA",6058,0.0358
+79336,95041,"Mount Hermon, CA (PO boxes)","Santa Cruz, CA",602,0.0036
+79336,95060,"Santa Cruz, CA","Santa Cruz, CA",43574,0.2578
+79336,95062,"Santa Cruz, CA","Santa Cruz, CA",36268,0.2146
+79336,95064,"Santa Cruz, CA","Santa Cruz, CA",8806,0.0521
+79336,95065,"Santa Cruz, CA","Santa Cruz, CA",6301,0.0373
+79336,95066,"Scotts Valley, CA","Santa Cruz, CA",13576,0.0803
+79336,95073,"Soquel, CA","Santa Cruz, CA",8389,0.0496
+79336,95076,"Watsonville, CA","Santa Cruz, CA",1313,0.0078
+79417,93454,"Santa Maria, CA","Santa Maria, CA",39502,0.2751
+79417,93455,"Santa Maria, CA","Santa Maria, CA",44435,0.3094
+79417,93458,"Santa Maria, CA","Santa Maria, CA",59672,0.4155
+79444,93060,"Santa Paula, CA","Santa Paula, CA",30675,1
+79498,94928,"Rohnert Park, CA","Santa Rosa, CA",47052,0.1582
+79498,94931,"Cotati, CA","Santa Rosa, CA",8382,0.0282
+79498,94951,"Penngrove, CA","Santa Rosa, CA",1017,0.0034
+79498,95401,"Santa Rosa, CA","Santa Rosa, CA",34072,0.1146
+79498,95403,"Santa Rosa, CA","Santa Rosa, CA",43835,0.1474
+79498,95404,"Santa Rosa, CA","Santa Rosa, CA",33624,0.1131
+79498,95405,"Santa Rosa, CA","Santa Rosa, CA",22015,0.074
+79498,95407,"Santa Rosa, CA","Santa Rosa, CA",40843,0.1374
+79498,95409,"Santa Rosa, CA","Santa Rosa, CA",26941,0.0906
+79498,95439,"Fulton, CA","Santa Rosa, CA",332,0.0011
+79498,95448,"Healdsburg, CA","Santa Rosa, CA",12004,0.0404
+79498,95452,"Kenwood, CA","Santa Rosa, CA",664,0.0022
+79498,95472,"Sebastopol, CA","Santa Rosa, CA",122,0.0004
+79498,95492,"Windsor, CA","Santa Rosa, CA",26426,0.0889
+80362,93921,"Carmel By The Sea, CA (PO boxes)","Seaside--Monterey--Pacific Grove, CA",2956,0.0239
+80362,93923,"Carmel, CA","Seaside--Monterey--Pacific Grove, CA",8915,0.0722
+80362,93924,"Carmel Valley, CA","Seaside--Monterey--Pacific Grove, CA",153,0.0012
+80362,93933,"Marina, CA","Seaside--Monterey--Pacific Grove, CA",27137,0.2197
+80362,93940,"Monterey, CA","Seaside--Monterey--Pacific Grove, CA",28938,0.2343
+80362,93943,"Monterey, CA","Seaside--Monterey--Pacific Grove, CA",55,0.0004
+80362,93944,"Monterey, CA (PO boxes)","Seaside--Monterey--Pacific Grove, CA",3395,0.0275
+80362,93950,"Pacific Grove, CA","Seaside--Monterey--Pacific Grove, CA",15075,0.1221
+80362,93953,"Pebble Beach, CA","Seaside--Monterey--Pacific Grove, CA",4180,0.0338
+80362,93955,"Seaside, CA","Seaside--Monterey--Pacific Grove, CA",32691,0.2647
+80405,95444,"Graton, CA","Sebastopol, CA",710,0.0379
+80405,95472,"Sebastopol, CA","Sebastopol, CA",18024,0.9621
+80551,93625,"Fowler, CA","Selma, CA",6688,0.2055
+80551,93662,"Selma, CA","Selma, CA",25858,0.7945
+80929,93263,"Shafter, CA","Shafter, CA",19265,0.9993
+80929,93314,"Bakersfield, CA","Shafter, CA",13,0.0007
+82076,92342,"Helendale, CA","Silver Lakes, CA",5908,1
+82144,93063,"Simi Valley, CA","Simi Valley, CA",54708,0.4295
+82144,93065,"Simi Valley, CA","Simi Valley, CA",72656,0.5705
+82846,93960,"Soledad, CA","Soledad, CA",18946,1
+82873,93460,"Santa Ynez, CA","Solvang--Santa Ynez, CA",3363,0.3267
+82873,93463,"Solvang, CA","Solvang--Santa Ynez, CA",6932,0.6733
+83008,95442,"Glen Ellen, CA","Sonoma, CA",999,0.0317
+83008,95476,"Sonoma, CA","Sonoma, CA",30480,0.9683
+83073,95310,"Columbia, CA","Sonora--Twain Harte, CA",631,0.0217
+83073,95327,"Jamestown, CA","Sonora--Twain Harte, CA",3147,0.1085
+83073,95346,"Mi Wuk Village, CA","Sonora--Twain Harte, CA",994,0.0343
+83073,95370,"Sonora, CA","Sonora--Twain Harte, CA",19275,0.6644
+83073,95372,"Soulsbyville, CA","Sonora--Twain Harte, CA",1698,0.0585
+83073,95383,"Twain Harte, CA","Sonora--Twain Harte, CA",3268,0.1126
+83305,96150,"South Lake Tahoe, CA","South Lake Tahoe, CA--NV",28655,1
+85087,95202,"Stockton, CA","Stockton, CA",6949,0.0168
+85087,95203,"Stockton, CA","Stockton, CA",18064,0.0435
+85087,95204,"Stockton, CA","Stockton, CA",30719,0.074
+85087,95205,"Stockton, CA","Stockton, CA",40720,0.0982
+85087,95206,"Stockton, CA","Stockton, CA",68117,0.1642
+85087,95207,"Stockton, CA","Stockton, CA",52465,0.1265
+85087,95209,"Stockton, CA","Stockton, CA",44626,0.1076
+85087,95210,"Stockton, CA","Stockton, CA",41322,0.0996
+85087,95211,"Stockton, CA","Stockton, CA",1832,0.0044
+85087,95212,"Stockton, CA","Stockton, CA",28943,0.0698
+85087,95215,"Stockton, CA","Stockton, CA",19678,0.0474
+85087,95219,"Stockton, CA","Stockton, CA",28990,0.0699
+85087,95231,"French Camp, CA","Stockton, CA",3900,0.0094
+85087,95240,"Lodi, CA","Stockton, CA",14,0
+85087,95330,"Lathrop, CA","Stockton, CA",28387,0.0684
+85087,95337,"Manteca, CA","Stockton, CA",121,0.0003
+85870,96130,"Susanville, CA","Susanville, CA",8995,1
+86329,93268,"Taft, CA","Taft, CA",15022,1
+86869,93561,"Tehachapi, CA","Tehachapi--Golden Hills, CA",17298,1
+87004,92530,"Lake Elsinore, CA","Temecula--Murrieta--Menifee, CA",56913,0.1076
+87004,92532,"Lake Elsinore, CA","Temecula--Murrieta--Menifee, CA",27248,0.0515
+87004,92545,"Hemet, CA","Temecula--Murrieta--Menifee, CA",5521,0.0104
+87004,92548,"Homeland, CA","Temecula--Murrieta--Menifee, CA",6289,0.0119
+87004,92562,"Murrieta, CA","Temecula--Murrieta--Menifee, CA",60685,0.1147
+87004,92563,"Murrieta, CA","Temecula--Murrieta--Menifee, CA",71489,0.1351
+87004,92567,"Nuevo, CA","Temecula--Murrieta--Menifee, CA",7817,0.0148
+87004,92570,"Perris, CA","Temecula--Murrieta--Menifee, CA",5133,0.0097
+87004,92584,"Menifee, CA","Temecula--Murrieta--Menifee, CA",52588,0.0994
+87004,92585,"Menifee, CA","Temecula--Murrieta--Menifee, CA",23199,0.0439
+87004,92586,"Menifee, CA","Temecula--Murrieta--Menifee, CA",22174,0.0419
+87004,92587,"Menifee, CA","Temecula--Murrieta--Menifee, CA",17511,0.0331
+87004,92590,"Temecula, CA","Temecula--Murrieta--Menifee, CA",2822,0.0053
+87004,92591,"Temecula, CA","Temecula--Murrieta--Menifee, CA",41203,0.0779
+87004,92592,"Temecula, CA","Temecula--Murrieta--Menifee, CA",72868,0.1377
+87004,92595,"Wildomar, CA","Temecula--Murrieta--Menifee, CA",28784,0.0544
+87004,92596,"Winchester, CA","Temecula--Murrieta--Menifee, CA",26747,0.0506
+87490,91301,"Agoura Hills, CA","Thousand Oaks, CA",20469,0.0957
+87490,91320,"Newbury Park, CA","Thousand Oaks, CA",44124,0.2062
+87490,91360,"Thousand Oaks, CA","Thousand Oaks, CA",42576,0.199
+87490,91361,"Westlake Village, CA","Thousand Oaks, CA",19272,0.0901
+87490,91362,"Thousand Oaks, CA","Thousand Oaks, CA",34635,0.1619
+87490,91377,"Oak Park, CA","Thousand Oaks, CA",13898,0.0649
+87490,93012,"Camarillo, CA","Thousand Oaks, CA",2760,0.0129
+87490,93021,"Moorpark, CA","Thousand Oaks, CA",36252,0.1694
+88280,95304,"Tracy, CA","Tracy--Mountain House, CA",9376,0.0775
+88280,95376,"Tracy, CA","Tracy--Mountain House, CA",53781,0.4448
+88280,95377,"Tracy, CA","Tracy--Mountain House, CA",33472,0.2768
+88280,95391,"Tracy, CA","Tracy--Mountain House, CA",24283,0.2008
+88624,96161,"Truckee, CA","Truckee, CA",12756,1
+88840,93274,"Tulare, CA","Tulare, CA",70628,1
+89083,95316,"Denair, CA","Turlock, CA",4822,0.0609
+89083,95380,"Turlock, CA","Turlock, CA",36404,0.4596
+89083,95382,"Turlock, CA","Turlock, CA",37977,0.4795
+89191,92277,"Twentynine Palms, CA","Twentynine Palms, CA",12881,1
+89218,92277,"Twentynine Palms, CA","Twentynine Palms North, CA",5294,0.4538
+89218,92278,"Twentynine Palms, CA (PO boxes)","Twentynine Palms North, CA",6371,0.5462
+89380,95470,"Redwood Valley, CA","Ukiah, CA",2094,0.0722
+89380,95482,"Ukiah, CA","Ukiah, CA",26893,0.9278
+89866,95687,"Vacaville, CA","Vacaville, CA",67589,0.669
+89866,95688,"Vacaville, CA","Vacaville, CA",33438,0.331
+90028,94503,"American Canyon, CA","Vallejo, CA",21813,0.1246
+90028,94510,"Benicia, CA","Vallejo, CA",27107,0.1548
+90028,94558,"Napa, CA","Vallejo, CA",4,0
+90028,94589,"Vallejo, CA","Vallejo, CA",32290,0.1844
+90028,94590,"Vallejo, CA","Vallejo, CA",39977,0.2283
+90028,94591,"Vallejo, CA","Vallejo, CA",53021,0.3027
+90028,94592,"Vallejo, CA","Vallejo, CA",920,0.0053
+90541,92301,"Adelanto, CA","Victorville--Hesperia--Apple Valley, CA",34381,0.0966
+90541,92307,"Apple Valley, CA","Victorville--Hesperia--Apple Valley, CA",36092,0.1014
+90541,92308,"Apple Valley, CA","Victorville--Hesperia--Apple Valley, CA",37440,0.1052
+90541,92344,"Hesperia, CA","Victorville--Hesperia--Apple Valley, CA",17088,0.048
+90541,92345,"Hesperia, CA","Victorville--Hesperia--Apple Valley, CA",84909,0.2386
+90541,92392,"Victorville, CA","Victorville--Hesperia--Apple Valley, CA",58731,0.1651
+90541,92394,"Victorville, CA","Victorville--Hesperia--Apple Valley, CA",39908,0.1122
+90541,92395,"Victorville, CA","Victorville--Hesperia--Apple Valley, CA",47267,0.1328
+90946,93223,"Farmersville, CA","Visalia, CA",10305,0.0642
+90946,93227,"Goshen, CA (PO boxes)","Visalia, CA",137,0.0009
+90946,93277,"Visalia, CA","Visalia, CA",52114,0.3245
+90946,93291,"Visalia, CA","Visalia, CA",60771,0.3785
+90946,93292,"Visalia, CA","Visalia, CA",37251,0.232
+92161,93280,"Wasco, CA","Wasco, CA",22235,1
+92539,95323,"Hickman, CA","Waterford, CA",574,0.0589
+92539,95386,"Waterford, CA","Waterford, CA",9172,0.9411
+92890,95019,"Freedom, CA","Watsonville, CA",6603,0.0962
+92890,95076,"Watsonville, CA","Watsonville, CA",62065,0.9038
+95374,95987,"Williams, CA","Williams, CA",5558,1
+95671,95490,"Willits, CA","Willits, CA",7552,1
+95725,95988,"Willows, CA","Willows, CA",7578,1
+96724,95694,"Winters, CA","Winters, CA",7073,1
+96967,93286,"Woodlake, CA","Woodlake, CA",7514,1
+96994,95695,"Woodland, CA","Woodland, CA",34955,0.5718
+96994,95776,"Woodland, CA","Woodland, CA",26178,0.4282
+97372,92397,"Wrightwood, CA","Wrightwood, CA",3927,1
+97912,96097,"Yreka, CA","Yreka, CA",7617,1
+97939,95901,"Marysville, CA","Yuba City, CA",28904,0.2299
+97939,95961,"Olivehurst, CA","Yuba City, CA",21259,0.1691
+97939,95991,"Yuba City, CA","Yuba City, CA",41865,0.333
+97939,95993,"Yuba City, CA","Yuba City, CA",33678,0.2679
+97966,92284,"Yucca Valley, CA","Yucca Valley, CA",18293,1
+98020,92283,"Winterhaven, CA","Yuma, AZ--CA",1260,1
+99999, ,[not in a ZCTA],[not in an urban area],1449,0.0006
+99999,89010,"Dyer, NV",[not in an urban area],10,0
+99999,89019,"Jean, NV",[not in an urban area],26,0
+99999,89060,"Pahrump, NV",[not in an urban area],30,0
+99999,89061,"Pahrump, NV",[not in an urban area],58,0
+99999,89439,"Verdi, NV (PO boxes)",[not in an urban area],139,0.0001
+99999,90027,"Los Angeles, CA",[not in an urban area],27,0
+99999,90049,"Los Angeles, CA",[not in an urban area],771,0.0003
+99999,90068,"Los Angeles, CA",[not in an urban area],8,0
+99999,90265,"Malibu, CA",[not in an urban area],3447,0.0015
+99999,90266,"Manhattan Beach, CA",[not in an urban area],8,0
+99999,90272,"Pacific Palisades, CA",[not in an urban area],147,0.0001
+99999,90274,"Palos Verdes Peninsula, CA",[not in an urban area],5,0
+99999,90290,"Topanga, CA",[not in an urban area],1983,0.0009
+99999,90405,"Santa Monica, CA",[not in an urban area],11,0
+99999,90601,"Whittier, CA",[not in an urban area],42,0
+99999,90602,"Whittier, CA",[not in an urban area],344,0.0002
+99999,90605,"Whittier, CA",[not in an urban area],70,0
+99999,90704,"Avalon, CA (PO boxes)",[not in an urban area],353,0.0002
+99999,91001,"Altadena, CA",[not in an urban area],143,0.0001
+99999,91008,"Duarte, CA",[not in an urban area],154,0.0001
+99999,91010,"Duarte, CA",[not in an urban area],94,0
+99999,91011,"La Canada Flintridge, CA",[not in an urban area],117,0.0001
+99999,91016,"Monrovia, CA",[not in an urban area],123,0.0001
+99999,91040,"Sunland, CA",[not in an urban area],149,0.0001
+99999,91042,"Tujunga, CA",[not in an urban area],125,0.0001
+99999,91107,"Pasadena, CA",[not in an urban area],312,0.0001
+99999,91202,"Glendale, CA",[not in an urban area],102,0
+99999,91208,"Glendale, CA",[not in an urban area],25,0
+99999,91214,"La Crescenta, CA",[not in an urban area],141,0.0001
+99999,91301,"Agoura Hills, CA",[not in an urban area],2144,0.0009
+99999,91302,"Calabasas, CA",[not in an urban area],2658,0.0012
+99999,91304,"Canoga Park, CA",[not in an urban area],219,0.0001
+99999,91307,"West Hills, CA",[not in an urban area],149,0.0001
+99999,91311,"Chatsworth, CA",[not in an urban area],977,0.0004
+99999,91320,"Newbury Park, CA",[not in an urban area],338,0.0001
+99999,91321,"Newhall, CA",[not in an urban area],1041,0.0005
+99999,91326,"Porter Ranch, CA",[not in an urban area],209,0.0001
+99999,91342,"Sylmar, CA",[not in an urban area],679,0.0003
+99999,91344,"Granada Hills, CA",[not in an urban area],417,0.0002
+99999,91350,"Santa Clarita, CA",[not in an urban area],607,0.0003
+99999,91351,"Canyon Country, CA",[not in an urban area],152,0.0001
+99999,91352,"Sun Valley, CA",[not in an urban area],150,0.0001
+99999,91354,"Valencia, CA",[not in an urban area],239,0.0001
+99999,91356,"Tarzana, CA",[not in an urban area],37,0
+99999,91360,"Thousand Oaks, CA",[not in an urban area],470,0.0002
+99999,91361,"Westlake Village, CA",[not in an urban area],990,0.0004
+99999,91362,"Thousand Oaks, CA",[not in an urban area],1168,0.0005
+99999,91381,"Stevenson Ranch, CA",[not in an urban area],653,0.0003
+99999,91384,"Castaic, CA",[not in an urban area],2740,0.0012
+99999,91387,"Canyon Country, CA",[not in an urban area],1979,0.0009
+99999,91390,"Santa Clarita, CA",[not in an urban area],6488,0.0028
+99999,91501,"Burbank, CA",[not in an urban area],90,0
+99999,91504,"Burbank, CA",[not in an urban area],33,0
+99999,91702,"Azusa, CA",[not in an urban area],267,0.0001
+99999,91708,"Chino, CA",[not in an urban area],78,0
+99999,91709,"Chino Hills, CA",[not in an urban area],2388,0.001
+99999,91711,"Claremont, CA",[not in an urban area],712,0.0003
+99999,91737,"Rancho Cucamonga, CA",[not in an urban area],53,0
+99999,91739,"Rancho Cucamonga, CA",[not in an urban area],134,0.0001
+99999,91741,"Glendora, CA",[not in an urban area],707,0.0003
+99999,91745,"Hacienda Heights, CA",[not in an urban area],12,0
+99999,91748,"Rowland Heights, CA",[not in an urban area],257,0.0001
+99999,91750,"La Verne, CA",[not in an urban area],100,0
+99999,91759,"Mt Baldy, CA (PO boxes)",[not in an urban area],432,0.0002
+99999,91761,"Ontario, CA",[not in an urban area],258,0.0001
+99999,91762,"Ontario, CA",[not in an urban area],536,0.0002
+99999,91765,"Diamond Bar, CA",[not in an urban area],3,0
+99999,91773,"San Dimas, CA",[not in an urban area],13,0
+99999,91784,"Upland, CA",[not in an urban area],20,0
+99999,91789,"Walnut, CA",[not in an urban area],270,0.0001
+99999,91901,"Alpine, CA",[not in an urban area],5551,0.0024
+99999,91902,"Bonita, CA",[not in an urban area],30,0
+99999,91905,"Boulevard, CA",[not in an urban area],1799,0.0008
+99999,91906,"Campo, CA",[not in an urban area],3904,0.0017
+99999,91910,"Chula Vista, CA",[not in an urban area],7,0
+99999,91911,"Chula Vista, CA",[not in an urban area],349,0.0002
+99999,91913,"Chula Vista, CA",[not in an urban area],707,0.0003
+99999,91914,"Chula Vista, CA",[not in an urban area],1233,0.0005
+99999,91915,"Chula Vista, CA",[not in an urban area],461,0.0002
+99999,91916,"Descanso, CA",[not in an urban area],1720,0.0008
+99999,91917,"Dulzura, CA",[not in an urban area],1126,0.0005
+99999,91931,"Guatay, CA (PO boxes)",[not in an urban area],481,0.0002
+99999,91934,"Jacumba, CA",[not in an urban area],693,0.0003
+99999,91935,"Jamul, CA",[not in an urban area],6278,0.0028
+99999,91948,"Mount Laguna, CA (PO boxes)",[not in an urban area],87,0
+99999,91962,"Pine Valley, CA",[not in an urban area],1860,0.0008
+99999,91963,"Potrero, CA",[not in an urban area],1101,0.0005
+99999,91978,"Spring Valley, CA",[not in an urban area],662,0.0003
+99999,91980,"Tecate, CA",[not in an urban area],145,0.0001
+99999,92003,"Bonsall, CA",[not in an urban area],4394,0.0019
+99999,92004,"Borrego Springs, CA",[not in an urban area],3414,0.0015
+99999,92019,"El Cajon, CA",[not in an urban area],2437,0.0011
+99999,92021,"El Cajon, CA",[not in an urban area],2704,0.0012
+99999,92024,"Encinitas, CA",[not in an urban area],209,0.0001
+99999,92025,"Escondido, CA",[not in an urban area],691,0.0003
+99999,92026,"Escondido, CA",[not in an urban area],4112,0.0018
+99999,92027,"Escondido, CA",[not in an urban area],2161,0.0009
+99999,92028,"Fallbrook, CA",[not in an urban area],10362,0.0045
+99999,92029,"Escondido, CA",[not in an urban area],1153,0.0005
+99999,92036,"Julian, CA",[not in an urban area],3735,0.0016
+99999,92040,"Lakeside, CA",[not in an urban area],2649,0.0012
+99999,92055,"Camp Pendleton, CA (PO boxes)",[not in an urban area],8063,0.0035
+99999,92057,"Oceanside, CA",[not in an urban area],388,0.0002
+99999,92058,"Oceanside, CA",[not in an urban area],3614,0.0016
+99999,92059,"Pala, CA",[not in an urban area],1872,0.0008
+99999,92060,"Palomar Mountain, CA (PO boxes)",[not in an urban area],288,0.0001
+99999,92061,"Pauma Valley, CA",[not in an urban area],2246,0.001
+99999,92064,"Poway, CA",[not in an urban area],1942,0.0009
+99999,92065,"Ramona, CA",[not in an urban area],15208,0.0067
+99999,92066,"Ranchita, CA",[not in an urban area],330,0.0001
+99999,92067,"Rancho Santa Fe, CA (PO boxes)",[not in an urban area],562,0.0002
+99999,92069,"San Marcos, CA",[not in an urban area],938,0.0004
+99999,92070,"Santa Ysabel, CA",[not in an urban area],1093,0.0005
+99999,92071,"Santee, CA",[not in an urban area],126,0.0001
+99999,92078,"San Marcos, CA",[not in an urban area],238,0.0001
+99999,92082,"Valley Center, CA",[not in an urban area],20811,0.0091
+99999,92084,"Vista, CA",[not in an urban area],2467,0.0011
+99999,92086,"Warner Springs, CA",[not in an urban area],1490,0.0007
+99999,92091,"Rancho Santa Fe, CA",[not in an urban area],22,0
+99999,92119,"San Diego, CA",[not in an urban area],364,0.0002
+99999,92127,"San Diego, CA",[not in an urban area],2477,0.0011
+99999,92129,"San Diego, CA",[not in an urban area],720,0.0003
+99999,92131,"San Diego, CA",[not in an urban area],885,0.0004
+99999,92154,"San Diego, CA",[not in an urban area],4289,0.0019
+99999,92179,"San Diego, CA (PO boxes)",[not in an urban area],3824,0.0017
+99999,92203,"Indio, CA",[not in an urban area],489,0.0002
+99999,92210,"Indian Wells, CA",[not in an urban area],572,0.0003
+99999,92211,"Palm Desert, CA",[not in an urban area],1,0
+99999,92220,"Banning, CA",[not in an urban area],4833,0.0021
+99999,92222,"Bard, CA (PO boxes)",[not in an urban area],64,0
+99999,92223,"Beaumont, CA",[not in an urban area],2541,0.0011
+99999,92225,"Blythe, CA",[not in an urban area],9753,0.0043
+99999,92227,"Brawley, CA",[not in an urban area],1222,0.0005
+99999,92230,"Cabazon, CA",[not in an urban area],2650,0.0012
+99999,92231,"Calexico, CA",[not in an urban area],1051,0.0005
+99999,92233,"Calipatria, CA",[not in an urban area],7019,0.0031
+99999,92234,"Cathedral City, CA",[not in an urban area],31,0
+99999,92236,"Coachella, CA",[not in an urban area],549,0.0002
+99999,92239,"Desert Center, CA (PO boxes)",[not in an urban area],292,0.0001
+99999,92240,"Desert Hot Springs, CA",[not in an urban area],1480,0.0006
+99999,92241,"Desert Hot Springs, CA",[not in an urban area],3853,0.0017
+99999,92242,"Earp, CA",[not in an urban area],520,0.0002
+99999,92243,"El Centro, CA",[not in an urban area],3198,0.0014
+99999,92249,"Heber, CA",[not in an urban area],113,0
+99999,92250,"Holtville, CA",[not in an urban area],1653,0.0007
+99999,92251,"Imperial, CA",[not in an urban area],4288,0.0019
+99999,92252,"Joshua Tree, CA",[not in an urban area],4093,0.0018
+99999,92253,"La Quinta, CA",[not in an urban area],286,0.0001
+99999,92254,"Mecca, CA",[not in an urban area],5539,0.0024
+99999,92256,"Morongo Valley, CA",[not in an urban area],3517,0.0015
+99999,92257,"Niland, CA",[not in an urban area],1676,0.0007
+99999,92258,"North Palm Springs, CA (PO boxes)",[not in an urban area],326,0.0001
+99999,92259,"Ocotillo, CA (PO boxes)",[not in an urban area],328,0.0001
+99999,92260,"Palm Desert, CA",[not in an urban area],247,0.0001
+99999,92262,"Palm Springs, CA",[not in an urban area],1130,0.0005
+99999,92264,"Palm Springs, CA",[not in an urban area],629,0.0003
+99999,92266,"Palo Verde, CA (PO boxes)",[not in an urban area],198,0.0001
+99999,92267,"Parker Dam, CA (PO boxes)",[not in an urban area],86,0
+99999,92268,"Pioneertown, CA (PO boxes)",[not in an urban area],489,0.0002
+99999,92270,"Rancho Mirage, CA",[not in an urban area],204,0.0001
+99999,92273,"Seeley, CA (PO boxes)",[not in an urban area],1694,0.0007
+99999,92274,"Thermal, CA",[not in an urban area],16444,0.0072
+99999,92275,"Salton City, CA (PO boxes)",[not in an urban area],1390,0.0006
+99999,92276,"Thousand Palms, CA",[not in an urban area],700,0.0003
+99999,92277,"Twentynine Palms, CA",[not in an urban area],5813,0.0026
+99999,92280,"Vidal, CA",[not in an urban area],26,0
+99999,92281,"Westmorland, CA (PO boxes)",[not in an urban area],2122,0.0009
+99999,92282,"Whitewater, CA",[not in an urban area],1350,0.0006
+99999,92283,"Winterhaven, CA",[not in an urban area],1435,0.0006
+99999,92284,"Yucca Valley, CA",[not in an urban area],7638,0.0034
+99999,92285,"Landers, CA",[not in an urban area],2769,0.0012
+99999,92301,"Adelanto, CA",[not in an urban area],4531,0.002
+99999,92304,"Amboy, CA (PO boxes)",[not in an urban area],17,0
+99999,92305,"Angelus Oaks, CA",[not in an urban area],581,0.0003
+99999,92307,"Apple Valley, CA",[not in an urban area],5557,0.0024
+99999,92308,"Apple Valley, CA",[not in an urban area],5029,0.0022
+99999,92309,"Baker, CA",[not in an urban area],452,0.0002
+99999,92310,"Fort Irwin, CA",[not in an urban area],6,0
+99999,92311,"Barstow, CA",[not in an urban area],4002,0.0018
+99999,92314,"Big Bear City, CA",[not in an urban area],1504,0.0007
+99999,92315,"Big Bear Lake, CA",[not in an urban area],34,0
+99999,92320,"Calimesa, CA",[not in an urban area],1007,0.0004
+99999,92321,"Cedar Glen, CA (PO boxes)",[not in an urban area],150,0.0001
+99999,92322,"Cedarpines Park, CA (PO boxes)",[not in an urban area],469,0.0002
+99999,92324,"Colton, CA",[not in an urban area],1236,0.0005
+99999,92325,"Crestline, CA (PO boxes)",[not in an urban area],643,0.0003
+99999,92327,"Daggett, CA",[not in an urban area],484,0.0002
+99999,92328,"Death Valley, CA",[not in an urban area],640,0.0003
+99999,92332,"Essex, CA",[not in an urban area],97,0
+99999,92333,"Fawnskin, CA (PO boxes)",[not in an urban area],510,0.0002
+99999,92336,"Fontana, CA",[not in an urban area],166,0.0001
+99999,92339,"Forest Falls, CA",[not in an urban area],1053,0.0005
+99999,92341,"Green Valley Lake, CA (PO boxes)",[not in an urban area],458,0.0002
+99999,92342,"Helendale, CA",[not in an urban area],1047,0.0005
+99999,92344,"Hesperia, CA",[not in an urban area],6078,0.0027
+99999,92345,"Hesperia, CA",[not in an urban area],1590,0.0007
+99999,92346,"Highland, CA",[not in an urban area],791,0.0003
+99999,92347,"Hinkley, CA",[not in an urban area],888,0.0004
+99999,92352,"Lake Arrowhead, CA (PO boxes)",[not in an urban area],224,0.0001
+99999,92354,"Loma Linda, CA",[not in an urban area],16,0
+99999,92356,"Lucerne Valley, CA",[not in an urban area],6050,0.0027
+99999,92358,"Lytle Creek, CA",[not in an urban area],834,0.0004
+99999,92359,"Mentone, CA",[not in an urban area],735,0.0003
+99999,92363,"Needles, CA",[not in an urban area],881,0.0004
+99999,92364,"Nipton, CA",[not in an urban area],40,0
+99999,92365,"Newberry Springs, CA",[not in an urban area],2214,0.001
+99999,92368,"Oro Grande, CA",[not in an urban area],858,0.0004
+99999,92371,"Phelan, CA",[not in an urban area],16345,0.0072
+99999,92372,"Pinon Hills, CA",[not in an urban area],5594,0.0025
+99999,92373,"Redlands, CA",[not in an urban area],1369,0.0006
+99999,92374,"Redlands, CA",[not in an urban area],700,0.0003
+99999,92377,"Rialto, CA",[not in an urban area],191,0.0001
+99999,92378,"Rimforest, CA (PO boxes)",[not in an urban area],57,0
+99999,92382,"Running Springs, CA (PO boxes)",[not in an urban area],408,0.0002
+99999,92384,"Shoshone, CA (PO boxes)",[not in an urban area],24,0
+99999,92385,"Skyforest, CA (PO boxes)",[not in an urban area],13,0
+99999,92389,"Tecopa, CA (PO boxes)",[not in an urban area],123,0.0001
+99999,92391,"Twin Peaks, CA (PO boxes)",[not in an urban area],79,0
+99999,92392,"Victorville, CA",[not in an urban area],3563,0.0016
+99999,92394,"Victorville, CA",[not in an urban area],1149,0.0005
+99999,92395,"Victorville, CA",[not in an urban area],289,0.0001
+99999,92397,"Wrightwood, CA",[not in an urban area],1558,0.0007
+99999,92398,"Yermo, CA (PO boxes)",[not in an urban area],1234,0.0005
+99999,92399,"Yucaipa, CA",[not in an urban area],2769,0.0012
+99999,92404,"San Bernardino, CA",[not in an urban area],359,0.0002
+99999,92407,"San Bernardino, CA",[not in an urban area],3306,0.0015
+99999,92503,"Riverside, CA",[not in an urban area],1709,0.0007
+99999,92504,"Riverside, CA",[not in an urban area],390,0.0002
+99999,92505,"Riverside, CA",[not in an urban area],164,0.0001
+99999,92507,"Riverside, CA",[not in an urban area],163,0.0001
+99999,92508,"Riverside, CA",[not in an urban area],107,0
+99999,92509,"Jurupa Valley, CA",[not in an urban area],242,0.0001
+99999,92518,"March Air Reserve Base, CA",[not in an urban area],8,0
+99999,92530,"Lake Elsinore, CA",[not in an urban area],2162,0.0009
+99999,92532,"Lake Elsinore, CA",[not in an urban area],312,0.0001
+99999,92536,"Aguanga, CA",[not in an urban area],3737,0.0016
+99999,92539,"Anza, CA",[not in an urban area],4966,0.0022
+99999,92543,"Hemet, CA",[not in an urban area],1777,0.0008
+99999,92544,"Hemet, CA",[not in an urban area],4341,0.0019
+99999,92545,"Hemet, CA",[not in an urban area],1361,0.0006
+99999,92548,"Homeland, CA",[not in an urban area],1119,0.0005
+99999,92549,"Idyllwild, CA (PO boxes)",[not in an urban area],4234,0.0019
+99999,92555,"Moreno Valley, CA",[not in an urban area],1898,0.0008
+99999,92557,"Moreno Valley, CA",[not in an urban area],477,0.0002
+99999,92561,"Mountain Center, CA",[not in an urban area],1648,0.0007
+99999,92562,"Murrieta, CA",[not in an urban area],3585,0.0016
+99999,92563,"Murrieta, CA",[not in an urban area],1735,0.0008
+99999,92567,"Nuevo, CA",[not in an urban area],1912,0.0008
+99999,92570,"Perris, CA",[not in an urban area],13448,0.0059
+99999,92571,"Perris, CA",[not in an urban area],553,0.0002
+99999,92582,"San Jacinto, CA",[not in an urban area],1687,0.0007
+99999,92583,"San Jacinto, CA",[not in an urban area],1356,0.0006
+99999,92584,"Menifee, CA",[not in an urban area],2929,0.0013
+99999,92585,"Menifee, CA",[not in an urban area],1688,0.0007
+99999,92586,"Menifee, CA",[not in an urban area],14,0
+99999,92587,"Menifee, CA",[not in an urban area],18,0
+99999,92590,"Temecula, CA",[not in an urban area],2018,0.0009
+99999,92591,"Temecula, CA",[not in an urban area],818,0.0004
+99999,92592,"Temecula, CA",[not in an urban area],6872,0.003
+99999,92595,"Wildomar, CA",[not in an urban area],5621,0.0025
+99999,92596,"Winchester, CA",[not in an urban area],4334,0.0019
+99999,92602,"Irvine, CA",[not in an urban area],923,0.0004
+99999,92603,"Irvine, CA",[not in an urban area],1018,0.0004
+99999,92618,"Irvine, CA",[not in an urban area],352,0.0002
+99999,92629,"Dana Point, CA",[not in an urban area],11,0
+99999,92648,"Huntington Beach, CA",[not in an urban area],9,0
+99999,92651,"Laguna Beach, CA",[not in an urban area],163,0.0001
+99999,92657,"Newport Coast, CA",[not in an urban area],12,0
+99999,92672,"San Clemente, CA",[not in an urban area],4380,0.0019
+99999,92676,"Silverado, CA",[not in an urban area],1997,0.0009
+99999,92678,"Trabuco Canyon, CA (PO boxes)",[not in an urban area],651,0.0003
+99999,92679,"Trabuco Canyon, CA",[not in an urban area],435,0.0002
+99999,92694,"Ladera Ranch, CA",[not in an urban area],764,0.0003
+99999,92808,"Anaheim, CA",[not in an urban area],361,0.0002
+99999,92821,"Brea, CA",[not in an urban area],13,0
+99999,92823,"Brea, CA",[not in an urban area],988,0.0004
+99999,92860,"Norco, CA",[not in an urban area],6,0
+99999,92867,"Orange, CA",[not in an urban area],162,0.0001
+99999,92869,"Orange, CA",[not in an urban area],18,0
+99999,92880,"Corona, CA",[not in an urban area],102,0
+99999,92881,"Corona, CA",[not in an urban area],150,0.0001
+99999,92882,"Corona, CA",[not in an urban area],151,0.0001
+99999,92883,"Corona, CA",[not in an urban area],1785,0.0008
+99999,92887,"Yorba Linda, CA",[not in an urban area],81,0
+99999,93001,"Ventura, CA",[not in an urban area],2015,0.0009
+99999,93003,"Ventura, CA",[not in an urban area],45,0
+99999,93004,"Ventura, CA",[not in an urban area],59,0
+99999,93010,"Camarillo, CA",[not in an urban area],455,0.0002
+99999,93012,"Camarillo, CA",[not in an urban area],4220,0.0019
+99999,93013,"Carpinteria, CA",[not in an urban area],1689,0.0007
+99999,93015,"Fillmore, CA",[not in an urban area],2392,0.001
+99999,93021,"Moorpark, CA",[not in an urban area],1851,0.0008
+99999,93022,"Oak View, CA",[not in an urban area],85,0
+99999,93023,"Ojai, CA",[not in an urban area],2890,0.0013
+99999,93030,"Oxnard, CA",[not in an urban area],48,0
+99999,93033,"Oxnard, CA",[not in an urban area],303,0.0001
+99999,93035,"Oxnard, CA",[not in an urban area],25,0
+99999,93036,"Oxnard, CA",[not in an urban area],346,0.0002
+99999,93040,"Piru, CA (PO boxes)",[not in an urban area],1927,0.0008
+99999,93060,"Santa Paula, CA",[not in an urban area],3184,0.0014
+99999,93063,"Simi Valley, CA",[not in an urban area],326,0.0001
+99999,93064,"Brandeis, CA",[not in an urban area],57,0
+99999,93065,"Simi Valley, CA",[not in an urban area],1287,0.0006
+99999,93066,"Somis, CA",[not in an urban area],3141,0.0014
+99999,93067,"Summerland, CA (PO boxes)",[not in an urban area],74,0
+99999,93103,"Santa Barbara, CA",[not in an urban area],91,0
+99999,93105,"Santa Barbara, CA",[not in an urban area],1588,0.0007
+99999,93108,"Santa Barbara, CA",[not in an urban area],801,0.0004
+99999,93110,"Santa Barbara, CA",[not in an urban area],712,0.0003
+99999,93111,"Santa Barbara, CA",[not in an urban area],837,0.0004
+99999,93117,"Goleta, CA",[not in an urban area],1560,0.0007
+99999,93201,"Alpaugh, CA (PO boxes)",[not in an urban area],1260,0.0006
+99999,93202,"Armona, CA",[not in an urban area],105,0
+99999,93203,"Arvin, CA",[not in an urban area],1392,0.0006
+99999,93204,"Avenal, CA",[not in an urban area],416,0.0002
+99999,93205,"Bodfish, CA",[not in an urban area],1467,0.0006
+99999,93206,"Buttonwillow, CA",[not in an urban area],1940,0.0009
+99999,93207,"California Hot Springs, CA",[not in an urban area],311,0.0001
+99999,93208,"Camp Nelson, CA (PO boxes)",[not in an urban area],135,0.0001
+99999,93210,"Coalinga, CA",[not in an urban area],5532,0.0024
+99999,93212,"Corcoran, CA",[not in an urban area],761,0.0003
+99999,93215,"Delano, CA",[not in an urban area],9216,0.004
+99999,93218,"Ducor, CA (PO boxes)",[not in an urban area],979,0.0004
+99999,93219,"Earlimart, CA",[not in an urban area],1854,0.0008
+99999,93220,"Edison, CA (PO boxes)",[not in an urban area],52,0
+99999,93221,"Exeter, CA",[not in an urban area],4051,0.0018
+99999,93222,"Pine Mountain Club, CA (PO boxes)",[not in an urban area],2192,0.001
+99999,93223,"Farmersville, CA",[not in an urban area],182,0.0001
+99999,93224,"Fellows, CA",[not in an urban area],388,0.0002
+99999,93225,"Frazier Park, CA",[not in an urban area],4775,0.0021
+99999,93226,"Glennville, CA",[not in an urban area],297,0.0001
+99999,93230,"Hanford, CA",[not in an urban area],5833,0.0026
+99999,93234,"Huron, CA (PO boxes)",[not in an urban area],616,0.0003
+99999,93235,"Ivanhoe, CA",[not in an urban area],4651,0.002
+99999,93237,"Kaweah, CA (PO boxes)",[not in an urban area],169,0.0001
+99999,93238,"Kernville, CA",[not in an urban area],1603,0.0007
+99999,93239,"Kettleman City, CA",[not in an urban area],1376,0.0006
+99999,93240,"Lake Isabella, CA",[not in an urban area],2607,0.0011
+99999,93241,"Lamont, CA",[not in an urban area],734,0.0003
+99999,93242,"Laton, CA",[not in an urban area],3073,0.0013
+99999,93243,"Lebec, CA",[not in an urban area],1386,0.0006
+99999,93244,"Lemon Cove, CA",[not in an urban area],229,0.0001
+99999,93245,"Lemoore, CA",[not in an urban area],5370,0.0024
+99999,93246,"Lemoore, CA",[not in an urban area],81,0
+99999,93247,"Lindsay, CA",[not in an urban area],4268,0.0019
+99999,93249,"Lost Hills, CA",[not in an urban area],2590,0.0011
+99999,93250,"Mc Farland, CA",[not in an urban area],743,0.0003
+99999,93251,"Mc Kittrick, CA",[not in an urban area],250,0.0001
+99999,93252,"Maricopa, CA",[not in an urban area],1499,0.0007
+99999,93254,"New Cuyama, CA",[not in an urban area],780,0.0003
+99999,93255,"Onyx, CA",[not in an urban area],630,0.0003
+99999,93256,"Pixley, CA",[not in an urban area],5754,0.0025
+99999,93257,"Porterville, CA",[not in an urban area],9707,0.0043
+99999,93258,"Porterville, CA (PO boxes)",[not in an urban area],1921,0.0008
+99999,93260,"Posey, CA",[not in an urban area],221,0.0001
+99999,93261,"Richgrove, CA (PO boxes)",[not in an urban area],2513,0.0011
+99999,93262,"Sequoia National Park, CA",[not in an urban area],20,0
+99999,93263,"Shafter, CA",[not in an urban area],1561,0.0007
+99999,93265,"Springville, CA",[not in an urban area],4117,0.0018
+99999,93266,"Stratford, CA",[not in an urban area],1521,0.0007
+99999,93267,"Strathmore, CA",[not in an urban area],6119,0.0027
+99999,93268,"Taft, CA",[not in an urban area],3480,0.0015
+99999,93270,"Terra Bella, CA",[not in an urban area],5637,0.0025
+99999,93271,"Three Rivers, CA",[not in an urban area],1930,0.0008
+99999,93272,"Tipton, CA",[not in an urban area],3468,0.0015
+99999,93274,"Tulare, CA",[not in an urban area],7865,0.0035
+99999,93276,"Tupman, CA (PO boxes)",[not in an urban area],177,0.0001
+99999,93277,"Visalia, CA",[not in an urban area],1082,0.0005
+99999,93280,"Wasco, CA",[not in an urban area],5947,0.0026
+99999,93283,"Weldon, CA",[not in an urban area],1880,0.0008
+99999,93285,"Wofford Heights, CA",[not in an urban area],2457,0.0011
+99999,93286,"Woodlake, CA",[not in an urban area],2221,0.001
+99999,93287,"Woody, CA",[not in an urban area],221,0.0001
+99999,93291,"Visalia, CA",[not in an urban area],2595,0.0011
+99999,93292,"Visalia, CA",[not in an urban area],6065,0.0027
+99999,93305,"Bakersfield, CA",[not in an urban area],21,0
+99999,93306,"Bakersfield, CA",[not in an urban area],4998,0.0022
+99999,93307,"Bakersfield, CA",[not in an urban area],4586,0.002
+99999,93308,"Bakersfield, CA",[not in an urban area],2837,0.0012
+99999,93311,"Bakersfield, CA",[not in an urban area],609,0.0003
+99999,93313,"Bakersfield, CA",[not in an urban area],1650,0.0007
+99999,93314,"Bakersfield, CA",[not in an urban area],3375,0.0015
+99999,93401,"San Luis Obispo, CA",[not in an urban area],1969,0.0009
+99999,93402,"Los Osos, CA",[not in an urban area],522,0.0002
+99999,93405,"San Luis Obispo, CA",[not in an urban area],2671,0.0012
+99999,93407,"San Luis Obispo, CA",[not in an urban area],16,0
+99999,93409,"San Luis Obispo, CA",[not in an urban area],3806,0.0017
+99999,93420,"Arroyo Grande, CA",[not in an urban area],6994,0.0031
+99999,93422,"Atascadero, CA",[not in an urban area],4123,0.0018
+99999,93424,"Avila Beach, CA (PO boxes)",[not in an urban area],381,0.0002
+99999,93426,"Bradley, CA",[not in an urban area],1260,0.0006
+99999,93427,"Buellton, CA",[not in an urban area],703,0.0003
+99999,93428,"Cambria, CA",[not in an urban area],473,0.0002
+99999,93429,"Casmalia, CA (PO boxes)",[not in an urban area],153,0.0001
+99999,93430,"Cayucos, CA",[not in an urban area],444,0.0002
+99999,93432,"Creston, CA",[not in an urban area],1174,0.0005
+99999,93434,"Guadalupe, CA",[not in an urban area],74,0
+99999,93436,"Lompoc, CA",[not in an urban area],2443,0.0011
+99999,93437,"Lompoc, CA",[not in an urban area],3560,0.0016
+99999,93440,"Los Alamos, CA (PO boxes)",[not in an urban area],2048,0.0009
+99999,93441,"Los Olivos, CA (PO boxes)",[not in an urban area],1295,0.0006
+99999,93442,"Morro Bay, CA",[not in an urban area],632,0.0003
+99999,93444,"Nipomo, CA",[not in an urban area],3187,0.0014
+99999,93445,"Oceano, CA",[not in an urban area],53,0
+99999,93446,"Paso Robles, CA",[not in an urban area],13607,0.006
+99999,93449,"Pismo Beach, CA",[not in an urban area],104,0
+99999,93450,"San Ardo, CA",[not in an urban area],541,0.0002
+99999,93451,"San Miguel, CA",[not in an urban area],4820,0.0021
+99999,93452,"San Simeon, CA",[not in an urban area],522,0.0002
+99999,93453,"Santa Margarita, CA",[not in an urban area],3045,0.0013
+99999,93454,"Santa Maria, CA",[not in an urban area],1492,0.0007
+99999,93455,"Santa Maria, CA",[not in an urban area],847,0.0004
+99999,93458,"Santa Maria, CA",[not in an urban area],255,0.0001
+99999,93460,"Santa Ynez, CA",[not in an urban area],2365,0.001
+99999,93461,"Shandon, CA",[not in an urban area],1503,0.0007
+99999,93463,"Solvang, CA",[not in an urban area],1799,0.0008
+99999,93465,"Templeton, CA",[not in an urban area],3607,0.0016
+99999,93501,"Mojave, CA",[not in an urban area],5772,0.0025
+99999,93505,"California City, CA",[not in an urban area],14880,0.0065
+99999,93510,"Acton, CA",[not in an urban area],7591,0.0033
+99999,93512,"Benton, CA",[not in an urban area],243,0.0001
+99999,93513,"Big Pine, CA",[not in an urban area],1870,0.0008
+99999,93514,"Bishop, CA",[not in an urban area],3348,0.0015
+99999,93516,"Boron, CA",[not in an urban area],2114,0.0009
+99999,93517,"Bridgeport, CA",[not in an urban area],768,0.0003
+99999,93518,"Caliente, CA",[not in an urban area],1138,0.0005
+99999,93519,"Cantil, CA (PO boxes)",[not in an urban area],64,0
+99999,93522,"Darwin, CA (PO boxes)",[not in an urban area],37,0
+99999,93523,"Edwards, CA",[not in an urban area],3293,0.0014
+99999,93524,"Edwards, CA",[not in an urban area],80,0
+99999,93526,"Independence, CA",[not in an urban area],628,0.0003
+99999,93527,"Inyokern, CA",[not in an urban area],2315,0.001
+99999,93528,"Johannesburg, CA (PO boxes)",[not in an urban area],113,0
+99999,93529,"June Lake, CA (PO boxes)",[not in an urban area],619,0.0003
+99999,93530,"Keeler, CA (PO boxes)",[not in an urban area],71,0
+99999,93531,"Keene, CA",[not in an urban area],531,0.0002
+99999,93532,"Lake Hughes, CA",[not in an urban area],2373,0.001
+99999,93534,"Lancaster, CA",[not in an urban area],234,0.0001
+99999,93535,"Lancaster, CA",[not in an urban area],10836,0.0048
+99999,93536,"Lancaster, CA",[not in an urban area],5421,0.0024
+99999,93541,"Lee Vining, CA (PO boxes)",[not in an urban area],488,0.0002
+99999,93543,"Littlerock, CA",[not in an urban area],14132,0.0062
+99999,93544,"Llano, CA",[not in an urban area],1126,0.0005
+99999,93545,"Lone Pine, CA",[not in an urban area],2072,0.0009
+99999,93546,"Mammoth Lakes, CA",[not in an urban area],1500,0.0007
+99999,93549,"Olancha, CA (PO boxes)",[not in an urban area],235,0.0001
+99999,93550,"Palmdale, CA",[not in an urban area],1236,0.0005
+99999,93551,"Palmdale, CA",[not in an urban area],2683,0.0012
+99999,93552,"Palmdale, CA",[not in an urban area],1217,0.0005
+99999,93553,"Pearblossom, CA",[not in an urban area],1921,0.0008
+99999,93554,"Randsburg, CA (PO boxes)",[not in an urban area],45,0
+99999,93555,"Ridgecrest, CA",[not in an urban area],3503,0.0015
+99999,93558,"Red Mountain, CA (PO boxes)",[not in an urban area],51,0
+99999,93560,"Rosamond, CA",[not in an urban area],4043,0.0018
+99999,93561,"Tehachapi, CA",[not in an urban area],13793,0.0061
+99999,93562,"Trona, CA",[not in an urban area],1633,0.0007
+99999,93563,"Valyermo, CA",[not in an urban area],143,0.0001
+99999,93581,"Tehachapi, CA (PO boxes)",[not in an urban area],3660,0.0016
+99999,93591,"Palmdale, CA",[not in an urban area],7450,0.0033
+99999,93601,"Ahwahnee, CA",[not in an urban area],1858,0.0008
+99999,93602,"Auberry, CA",[not in an urban area],3402,0.0015
+99999,93603,"Badger, CA",[not in an urban area],280,0.0001
+99999,93604,"Bass Lake, CA",[not in an urban area],627,0.0003
+99999,93605,"Big Creek, CA (PO boxes)",[not in an urban area],144,0.0001
+99999,93606,"Biola, CA (PO boxes)",[not in an urban area],1352,0.0006
+99999,93608,"Cantua Creek, CA",[not in an urban area],1173,0.0005
+99999,93609,"Caruthers, CA",[not in an urban area],5694,0.0025
+99999,93610,"Chowchilla, CA",[not in an urban area],10663,0.0047
+99999,93614,"Coarsegold, CA",[not in an urban area],11574,0.0051
+99999,93615,"Cutler, CA",[not in an urban area],1217,0.0005
+99999,93616,"Del Rey, CA",[not in an urban area],2225,0.001
+99999,93618,"Dinuba, CA",[not in an urban area],6426,0.0028
+99999,93619,"Clovis, CA",[not in an urban area],11832,0.0052
+99999,93620,"Dos Palos, CA",[not in an urban area],3101,0.0014
+99999,93621,"Dunlap, CA",[not in an urban area],520,0.0002
+99999,93622,"Firebaugh, CA",[not in an urban area],1767,0.0008
+99999,93623,"Fish Camp, CA",[not in an urban area],75,0
+99999,93624,"Five Points, CA (PO boxes)",[not in an urban area],806,0.0004
+99999,93625,"Fowler, CA",[not in an urban area],1470,0.0006
+99999,93626,"Friant, CA",[not in an urban area],2132,0.0009
+99999,93627,"Helm, CA (PO boxes)",[not in an urban area],188,0.0001
+99999,93628,"Hume, CA",[not in an urban area],329,0.0001
+99999,93630,"Kerman, CA",[not in an urban area],5101,0.0022
+99999,93631,"Kingsburg, CA",[not in an urban area],4253,0.0019
+99999,93633,"Kings Canyon National Pk, CA (PO boxes)",[not in an urban area],37,0
+99999,93634,"Lakeshore, CA (PO boxes)",[not in an urban area],55,0
+99999,93635,"Los Banos, CA",[not in an urban area],2977,0.0013
+99999,93636,"Madera, CA",[not in an urban area],13199,0.0058
+99999,93637,"Madera, CA",[not in an urban area],5110,0.0022
+99999,93638,"Madera, CA",[not in an urban area],4563,0.002
+99999,93640,"Mendota, CA",[not in an urban area],483,0.0002
+99999,93641,"Miramonte, CA",[not in an urban area],587,0.0003
+99999,93643,"North Fork, CA",[not in an urban area],3130,0.0014
+99999,93644,"Oakhurst, CA",[not in an urban area],7751,0.0034
+99999,93645,"O Neals, CA",[not in an urban area],297,0.0001
+99999,93646,"Orange Cove, CA",[not in an urban area],776,0.0003
+99999,93647,"Orosi, CA",[not in an urban area],2504,0.0011
+99999,93648,"Parlier, CA",[not in an urban area],871,0.0004
+99999,93651,"Prather, CA",[not in an urban area],1445,0.0006
+99999,93652,"Raisin City, CA",[not in an urban area],410,0.0002
+99999,93653,"Raymond, CA",[not in an urban area],1050,0.0005
+99999,93654,"Reedley, CA",[not in an urban area],5289,0.0023
+99999,93656,"Riverdale, CA",[not in an urban area],6459,0.0028
+99999,93657,"Sanger, CA",[not in an urban area],10139,0.0044
+99999,93660,"San Joaquin, CA",[not in an urban area],4173,0.0018
+99999,93662,"Selma, CA",[not in an urban area],4904,0.0022
+99999,93664,"Shaver Lake, CA",[not in an urban area],614,0.0003
+99999,93665,"South Dos Palos, CA (PO boxes)",[not in an urban area],26,0
+99999,93666,"Sultana, CA (PO boxes)",[not in an urban area],668,0.0003
+99999,93667,"Tollhouse, CA",[not in an urban area],2294,0.001
+99999,93668,"Tranquillity, CA",[not in an urban area],1054,0.0005
+99999,93669,"Wishon, CA",[not in an urban area],316,0.0001
+99999,93670,"Yettem, CA (PO boxes)",[not in an urban area],80,0
+99999,93673,"Traver, CA (PO boxes)",[not in an urban area],667,0.0003
+99999,93675,"Squaw Valley, CA",[not in an urban area],3820,0.0017
+99999,93706,"Fresno, CA",[not in an urban area],10521,0.0046
+99999,93711,"Fresno, CA",[not in an urban area],31,0
+99999,93720,"Fresno, CA",[not in an urban area],92,0
+99999,93722,"Fresno, CA",[not in an urban area],175,0.0001
+99999,93723,"Fresno, CA",[not in an urban area],3344,0.0015
+99999,93725,"Fresno, CA",[not in an urban area],5561,0.0024
+99999,93727,"Fresno, CA",[not in an urban area],785,0.0003
+99999,93730,"Fresno, CA",[not in an urban area],188,0.0001
+99999,93737,"Fresno, CA",[not in an urban area],2267,0.001
+99999,93901,"Salinas, CA",[not in an urban area],34,0
+99999,93905,"Salinas, CA",[not in an urban area],83,0
+99999,93906,"Salinas, CA",[not in an urban area],367,0.0002
+99999,93907,"Salinas, CA",[not in an urban area],4666,0.002
+99999,93908,"Salinas, CA",[not in an urban area],13168,0.0058
+99999,93920,"Big Sur, CA",[not in an urban area],1140,0.0005
+99999,93923,"Carmel, CA",[not in an urban area],3423,0.0015
+99999,93924,"Carmel Valley, CA",[not in an urban area],6456,0.0028
+99999,93925,"Chualar, CA",[not in an urban area],1515,0.0007
+99999,93926,"Gonzales, CA",[not in an urban area],505,0.0002
+99999,93927,"Greenfield, CA",[not in an urban area],1118,0.0005
+99999,93928,"Jolon, CA (PO boxes)",[not in an urban area],259,0.0001
+99999,93930,"King City, CA",[not in an urban area],2446,0.0011
+99999,93932,"Lockwood, CA (PO boxes)",[not in an urban area],533,0.0002
+99999,93933,"Marina, CA",[not in an urban area],81,0
+99999,93940,"Monterey, CA",[not in an urban area],1516,0.0007
+99999,93950,"Pacific Grove, CA",[not in an urban area],7,0
+99999,93953,"Pebble Beach, CA",[not in an urban area],91,0
+99999,93954,"San Lucas, CA (PO boxes)",[not in an urban area],371,0.0002
+99999,93955,"Seaside, CA",[not in an urban area],12,0
+99999,93960,"Soledad, CA",[not in an urban area],7147,0.0031
+99999,94010,"Burlingame, CA",[not in an urban area],14,0
+99999,94019,"Half Moon Bay, CA",[not in an urban area],2970,0.0013
+99999,94020,"La Honda, CA",[not in an urban area],1732,0.0008
+99999,94021,"Loma Mar, CA",[not in an urban area],171,0.0001
+99999,94022,"Los Altos, CA",[not in an urban area],175,0.0001
+99999,94024,"Los Altos, CA",[not in an urban area],25,0
+99999,94028,"Portola Valley, CA",[not in an urban area],1882,0.0008
+99999,94037,"Montara, CA (PO boxes)",[not in an urban area],204,0.0001
+99999,94038,"Moss Beach, CA",[not in an urban area],121,0.0001
+99999,94044,"Pacifica, CA",[not in an urban area],63,0
+99999,94060,"Pescadero, CA",[not in an urban area],1513,0.0007
+99999,94062,"Redwood City, CA",[not in an urban area],4068,0.0018
+99999,94074,"San Gregorio, CA",[not in an urban area],282,0.0001
+99999,94080,"South San Francisco, CA",[not in an urban area],30,0
+99999,94303,"Palo Alto, CA",[not in an urban area],16,0
+99999,94304,"Palo Alto, CA",[not in an urban area],226,0.0001
+99999,94305,"Stanford, CA",[not in an urban area],16,0
+99999,94503,"American Canyon, CA",[not in an urban area],256,0.0001
+99999,94505,"Discovery Bay, CA",[not in an urban area],141,0.0001
+99999,94506,"Danville, CA",[not in an urban area],104,0
+99999,94507,"Alamo, CA",[not in an urban area],2,0
+99999,94508,"Angwin, CA",[not in an urban area],3233,0.0014
+99999,94509,"Antioch, CA",[not in an urban area],3,0
+99999,94510,"Benicia, CA",[not in an urban area],67,0
+99999,94511,"Bethel Island, CA (PO boxes)",[not in an urban area],117,0.0001
+99999,94512,"Birds Landing, CA",[not in an urban area],86,0
+99999,94513,"Brentwood, CA",[not in an urban area],2308,0.001
+99999,94514,"Byron, CA",[not in an urban area],613,0.0003
+99999,94515,"Calistoga, CA",[not in an urban area],1661,0.0007
+99999,94516,"Canyon, CA (PO boxes)",[not in an urban area],212,0.0001
+99999,94517,"Clayton, CA",[not in an urban area],1487,0.0007
+99999,94521,"Concord, CA",[not in an urban area],45,0
+99999,94525,"Crockett, CA",[not in an urban area],15,0
+99999,94530,"El Cerrito, CA",[not in an urban area],73,0
+99999,94531,"Antioch, CA",[not in an urban area],173,0.0001
+99999,94533,"Fairfield, CA",[not in an urban area],247,0.0001
+99999,94534,"Fairfield, CA",[not in an urban area],2976,0.0013
+99999,94535,"Travis AFB, CA",[not in an urban area],58,0
+99999,94536,"Fremont, CA",[not in an urban area],1291,0.0006
+99999,94539,"Fremont, CA",[not in an urban area],1023,0.0004
+99999,94542,"Hayward, CA",[not in an urban area],421,0.0002
+99999,94544,"Hayward, CA",[not in an urban area],23,0
+99999,94546,"Castro Valley, CA",[not in an urban area],22,0
+99999,94548,"Knightsen, CA (PO boxes)",[not in an urban area],420,0.0002
+99999,94549,"Lafayette, CA",[not in an urban area],130,0.0001
+99999,94550,"Livermore, CA",[not in an urban area],1657,0.0007
+99999,94551,"Livermore, CA",[not in an urban area],867,0.0004
+99999,94552,"Castro Valley, CA",[not in an urban area],879,0.0004
+99999,94553,"Martinez, CA",[not in an urban area],723,0.0003
+99999,94555,"Fremont, CA",[not in an urban area],5,0
+99999,94556,"Moraga, CA",[not in an urban area],257,0.0001
+99999,94558,"Napa, CA",[not in an urban area],7794,0.0034
+99999,94559,"Napa, CA",[not in an urban area],1193,0.0005
+99999,94560,"Newark, CA",[not in an urban area],45,0
+99999,94561,"Oakley, CA",[not in an urban area],787,0.0003
+99999,94562,"Oakville, CA (PO boxes)",[not in an urban area],1,0
+99999,94563,"Orinda, CA",[not in an urban area],178,0.0001
+99999,94564,"Pinole, CA",[not in an urban area],2,0
+99999,94565,"Pittsburg, CA",[not in an urban area],91,0
+99999,94566,"Pleasanton, CA",[not in an urban area],267,0.0001
+99999,94567,"Pope Valley, CA",[not in an urban area],633,0.0003
+99999,94568,"Dublin, CA",[not in an urban area],1,0
+99999,94569,"Port Costa, CA (PO boxes)",[not in an urban area],30,0
+99999,94571,"Rio Vista, CA",[not in an urban area],497,0.0002
+99999,94572,"Rodeo, CA",[not in an urban area],22,0
+99999,94573,"Rutherford, CA (PO boxes)",[not in an urban area],96,0
+99999,94574,"Saint Helena, CA",[not in an urban area],2300,0.001
+99999,94576,"Deer Park, CA",[not in an urban area],72,0
+99999,94577,"San Leandro, CA",[not in an urban area],24,0
+99999,94582,"San Ramon, CA",[not in an urban area],598,0.0003
+99999,94583,"San Ramon, CA",[not in an urban area],1561,0.0007
+99999,94585,"Suisun City, CA",[not in an urban area],296,0.0001
+99999,94586,"Sunol, CA",[not in an urban area],943,0.0004
+99999,94588,"Pleasanton, CA",[not in an urban area],1187,0.0005
+99999,94590,"Vallejo, CA",[not in an urban area],4,0
+99999,94591,"Vallejo, CA",[not in an urban area],3284,0.0014
+99999,94592,"Vallejo, CA",[not in an urban area],162,0.0001
+99999,94598,"Walnut Creek, CA",[not in an urban area],32,0
+99999,94599,"Yountville, CA",[not in an urban area],3540,0.0016
+99999,94611,"Oakland, CA",[not in an urban area],15,0
+99999,94619,"Oakland, CA",[not in an urban area],91,0
+99999,94710,"Berkeley, CA",[not in an urban area],21,0
+99999,94801,"Richmond, CA",[not in an urban area],38,0
+99999,94803,"El Sobrante, CA",[not in an urban area],782,0.0003
+99999,94805,"Richmond, CA",[not in an urban area],42,0
+99999,94806,"San Pablo, CA",[not in an urban area],17,0
+99999,94901,"San Rafael, CA",[not in an urban area],53,0
+99999,94903,"San Rafael, CA",[not in an urban area],261,0.0001
+99999,94904,"Greenbrae, CA",[not in an urban area],131,0.0001
+99999,94920,"Belvedere Tiburon, CA",[not in an urban area],31,0
+99999,94922,"Bodega, CA",[not in an urban area],176,0.0001
+99999,94923,"Bodega Bay, CA",[not in an urban area],1287,0.0006
+99999,94924,"Bolinas, CA",[not in an urban area],1507,0.0007
+99999,94928,"Rohnert Park, CA",[not in an urban area],10,0
+99999,94929,"Dillon Beach, CA (PO boxes)",[not in an urban area],227,0.0001
+99999,94930,"Fairfax, CA",[not in an urban area],343,0.0002
+99999,94931,"Cotati, CA",[not in an urban area],737,0.0003
+99999,94933,"Forest Knolls, CA (PO boxes)",[not in an urban area],1226,0.0005
+99999,94937,"Inverness, CA",[not in an urban area],935,0.0004
+99999,94938,"Lagunitas, CA (PO boxes)",[not in an urban area],683,0.0003
+99999,94939,"Larkspur, CA",[not in an urban area],6,0
+99999,94940,"Marshall, CA",[not in an urban area],319,0.0001
+99999,94941,"Mill Valley, CA",[not in an urban area],95,0
+99999,94945,"Novato, CA",[not in an urban area],1653,0.0007
+99999,94946,"Nicasio, CA",[not in an urban area],624,0.0003
+99999,94947,"Novato, CA",[not in an urban area],766,0.0003
+99999,94949,"Novato, CA",[not in an urban area],826,0.0004
+99999,94950,"Olema, CA (PO boxes)",[not in an urban area],60,0
+99999,94951,"Penngrove, CA",[not in an urban area],933,0.0004
+99999,94952,"Petaluma, CA",[not in an urban area],7603,0.0033
+99999,94954,"Petaluma, CA",[not in an urban area],1312,0.0006
+99999,94956,"Point Reyes Station, CA",[not in an urban area],1684,0.0007
+99999,94957,"Ross, CA (PO boxes)",[not in an urban area],59,0
+99999,94963,"San Geronimo, CA (PO boxes)",[not in an urban area],506,0.0002
+99999,94965,"Sausalito, CA",[not in an urban area],509,0.0002
+99999,94970,"Stinson Beach, CA",[not in an urban area],620,0.0003
+99999,94971,"Tomales, CA (PO boxes)",[not in an urban area],372,0.0002
+99999,94972,"Valley Ford, CA",[not in an urban area],146,0.0001
+99999,94973,"Woodacre, CA (PO boxes)",[not in an urban area],1516,0.0007
+99999,95002,"Alviso, CA (PO boxes)",[not in an urban area],30,0
+99999,95003,"Aptos, CA",[not in an urban area],2189,0.001
+99999,95004,"Aromas, CA",[not in an urban area],4348,0.0019
+99999,95005,"Ben Lomond, CA",[not in an urban area],701,0.0003
+99999,95006,"Boulder Creek, CA",[not in an urban area],3534,0.0016
+99999,95007,"Brookdale, CA (PO boxes)",[not in an urban area],99,0
+99999,95012,"Castroville, CA",[not in an urban area],1159,0.0005
+99999,95013,"Coyote, CA (PO boxes)",[not in an urban area],23,0
+99999,95014,"Cupertino, CA",[not in an urban area],436,0.0002
+99999,95017,"Davenport, CA",[not in an urban area],969,0.0004
+99999,95018,"Felton, CA",[not in an urban area],1945,0.0009
+99999,95020,"Gilroy, CA",[not in an urban area],8031,0.0035
+99999,95023,"Hollister, CA",[not in an urban area],7362,0.0032
+99999,95030,"Los Gatos, CA",[not in an urban area],258,0.0001
+99999,95032,"Los Gatos, CA",[not in an urban area],557,0.0002
+99999,95033,"Los Gatos, CA",[not in an urban area],9565,0.0042
+99999,95035,"Milpitas, CA",[not in an urban area],242,0.0001
+99999,95037,"Morgan Hill, CA",[not in an urban area],3724,0.0016
+99999,95039,"Moss Landing, CA",[not in an urban area],1617,0.0007
+99999,95043,"Paicines, CA",[not in an urban area],709,0.0003
+99999,95045,"San Juan Bautista, CA",[not in an urban area],4323,0.0019
+99999,95046,"San Martin, CA",[not in an urban area],989,0.0004
+99999,95060,"Santa Cruz, CA",[not in an urban area],4357,0.0019
+99999,95065,"Santa Cruz, CA",[not in an urban area],2143,0.0009
+99999,95066,"Scotts Valley, CA",[not in an urban area],1907,0.0008
+99999,95070,"Saratoga, CA",[not in an urban area],875,0.0004
+99999,95073,"Soquel, CA",[not in an urban area],2160,0.0009
+99999,95075,"Tres Pinos, CA",[not in an urban area],470,0.0002
+99999,95076,"Watsonville, CA",[not in an urban area],21055,0.0092
+99999,95119,"San Jose, CA",[not in an urban area],20,0
+99999,95120,"San Jose, CA",[not in an urban area],1393,0.0006
+99999,95127,"San Jose, CA",[not in an urban area],783,0.0003
+99999,95132,"San Jose, CA",[not in an urban area],869,0.0004
+99999,95134,"San Jose, CA",[not in an urban area],8,0
+99999,95135,"San Jose, CA",[not in an urban area],159,0.0001
+99999,95138,"San Jose, CA",[not in an urban area],1440,0.0006
+99999,95140,"Mount Hamilton, CA",[not in an urban area],276,0.0001
+99999,95148,"San Jose, CA",[not in an urban area],345,0.0002
+99999,95206,"Stockton, CA",[not in an urban area],1233,0.0005
+99999,95209,"Stockton, CA",[not in an urban area],34,0
+99999,95210,"Stockton, CA",[not in an urban area],56,0
+99999,95212,"Stockton, CA",[not in an urban area],1168,0.0005
+99999,95215,"Stockton, CA",[not in an urban area],7440,0.0033
+99999,95219,"Stockton, CA",[not in an urban area],402,0.0002
+99999,95220,"Acampo, CA",[not in an urban area],5159,0.0023
+99999,95221,"Altaville, CA (PO boxes)",[not in an urban area],549,0.0002
+99999,95222,"Angels Camp, CA",[not in an urban area],4888,0.0021
+99999,95223,"Arnold, CA",[not in an urban area],4050,0.0018
+99999,95224,"Avery, CA (PO boxes)",[not in an urban area],367,0.0002
+99999,95225,"Burson, CA (PO boxes)",[not in an urban area],605,0.0003
+99999,95226,"Campo Seco, CA (PO boxes)",[not in an urban area],48,0
+99999,95227,"Clements, CA (PO boxes)",[not in an urban area],1009,0.0004
+99999,95228,"Copperopolis, CA",[not in an urban area],4571,0.002
+99999,95230,"Farmington, CA",[not in an urban area],786,0.0003
+99999,95231,"French Camp, CA",[not in an urban area],908,0.0004
+99999,95232,"Glencoe, CA",[not in an urban area],170,0.0001
+99999,95233,"Hathaway Pines, CA (PO boxes)",[not in an urban area],363,0.0002
+99999,95236,"Linden, CA",[not in an urban area],4476,0.002
+99999,95237,"Lockeford, CA",[not in an urban area],3259,0.0014
+99999,95240,"Lodi, CA",[not in an urban area],6048,0.0027
+99999,95242,"Lodi, CA",[not in an urban area],3261,0.0014
+99999,95245,"Mokelumne Hill, CA",[not in an urban area],2126,0.0009
+99999,95246,"Mountain Ranch, CA",[not in an urban area],1307,0.0006
+99999,95247,"Murphys, CA",[not in an urban area],3963,0.0017
+99999,95248,"Rail Road Flat, CA (PO boxes)",[not in an urban area],266,0.0001
+99999,95249,"San Andreas, CA",[not in an urban area],3983,0.0017
+99999,95251,"Vallecito, CA",[not in an urban area],753,0.0003
+99999,95252,"Valley Springs, CA",[not in an urban area],6096,0.0027
+99999,95253,"Victor, CA (PO boxes)",[not in an urban area],286,0.0001
+99999,95254,"Wallace, CA (PO boxes)",[not in an urban area],525,0.0002
+99999,95255,"West Point, CA",[not in an urban area],1956,0.0009
+99999,95257,"Wilseyville, CA",[not in an urban area],454,0.0002
+99999,95258,"Woodbridge, CA",[not in an urban area],292,0.0001
+99999,95301,"Atwater, CA",[not in an urban area],3598,0.0016
+99999,95303,"Ballico, CA",[not in an urban area],722,0.0003
+99999,95304,"Tracy, CA",[not in an urban area],6834,0.003
+99999,95305,"Big Oak Flat, CA (PO boxes)",[not in an urban area],416,0.0002
+99999,95306,"Catheys Valley, CA",[not in an urban area],936,0.0004
+99999,95307,"Ceres, CA",[not in an urban area],3139,0.0014
+99999,95309,"Chinese Camp, CA (PO boxes)",[not in an urban area],9,0
+99999,95310,"Columbia, CA",[not in an urban area],1163,0.0005
+99999,95311,"Coulterville, CA",[not in an urban area],1997,0.0009
+99999,95312,"Cressey, CA (PO boxes)",[not in an urban area],251,0.0001
+99999,95313,"Crows Landing, CA",[not in an urban area],1351,0.0006
+99999,95315,"Delhi, CA",[not in an urban area],2601,0.0011
+99999,95316,"Denair, CA",[not in an urban area],2384,0.001
+99999,95317,"El Nido, CA",[not in an urban area],750,0.0003
+99999,95318,"El Portal, CA (PO boxes)",[not in an urban area],413,0.0002
+99999,95319,"Empire, CA (PO boxes)",[not in an urban area],104,0
+99999,95320,"Escalon, CA",[not in an urban area],5668,0.0025
+99999,95321,"Groveland, CA",[not in an urban area],3745,0.0016
+99999,95322,"Gustine, CA",[not in an urban area],4253,0.0019
+99999,95323,"Hickman, CA",[not in an urban area],692,0.0003
+99999,95324,"Hilmar, CA",[not in an urban area],7148,0.0031
+99999,95325,"Hornitos, CA",[not in an urban area],47,0
+99999,95326,"Hughson, CA",[not in an urban area],2779,0.0012
+99999,95327,"Jamestown, CA",[not in an urban area],5690,0.0025
+99999,95329,"La Grange, CA",[not in an urban area],2747,0.0012
+99999,95330,"Lathrop, CA",[not in an urban area],614,0.0003
+99999,95333,"Le Grand, CA",[not in an urban area],2752,0.0012
+99999,95334,"Livingston, CA",[not in an urban area],2339,0.001
+99999,95335,"Long Barn, CA",[not in an urban area],412,0.0002
+99999,95336,"Manteca, CA",[not in an urban area],2899,0.0013
+99999,95337,"Manteca, CA",[not in an urban area],2127,0.0009
+99999,95338,"Mariposa, CA",[not in an urban area],11019,0.0048
+99999,95340,"Merced, CA",[not in an urban area],1672,0.0007
+99999,95341,"Merced, CA",[not in an urban area],3178,0.0014
+99999,95345,"Midpines, CA",[not in an urban area],633,0.0003
+99999,95346,"Mi Wuk Village, CA",[not in an urban area],112,0
+99999,95348,"Merced, CA",[not in an urban area],1203,0.0005
+99999,95351,"Modesto, CA",[not in an urban area],98,0
+99999,95355,"Modesto, CA",[not in an urban area],20,0
+99999,95356,"Modesto, CA",[not in an urban area],1405,0.0006
+99999,95357,"Modesto, CA",[not in an urban area],2900,0.0013
+99999,95358,"Modesto, CA",[not in an urban area],6080,0.0027
+99999,95360,"Newman, CA",[not in an urban area],1505,0.0007
+99999,95361,"Oakdale, CA",[not in an urban area],9016,0.004
+99999,95363,"Patterson, CA",[not in an urban area],5649,0.0025
+99999,95364,"Pinecrest, CA",[not in an urban area],24,0
+99999,95365,"Planada, CA",[not in an urban area],4502,0.002
+99999,95366,"Ripon, CA",[not in an urban area],2410,0.0011
+99999,95367,"Riverbank, CA",[not in an urban area],56,0
+99999,95368,"Salida, CA",[not in an urban area],27,0
+99999,95369,"Snelling, CA",[not in an urban area],816,0.0004
+99999,95370,"Sonora, CA",[not in an urban area],8815,0.0039
+99999,95372,"Soulsbyville, CA",[not in an urban area],140,0.0001
+99999,95374,"Stevinson, CA",[not in an urban area],1856,0.0008
+99999,95375,"Strawberry, CA (PO boxes)",[not in an urban area],113,0
+99999,95377,"Tracy, CA",[not in an urban area],1118,0.0005
+99999,95379,"Tuolumne, CA",[not in an urban area],3816,0.0017
+99999,95380,"Turlock, CA",[not in an urban area],6508,0.0029
+99999,95382,"Turlock, CA",[not in an urban area],565,0.0002
+99999,95383,"Twain Harte, CA",[not in an urban area],889,0.0004
+99999,95385,"Vernalis, CA",[not in an urban area],515,0.0002
+99999,95386,"Waterford, CA",[not in an urban area],1578,0.0007
+99999,95387,"Westley, CA (PO boxes)",[not in an urban area],739,0.0003
+99999,95388,"Winton, CA",[not in an urban area],1927,0.0008
+99999,95389,"Yosemite National Park, CA",[not in an urban area],594,0.0003
+99999,95391,"Tracy, CA",[not in an urban area],426,0.0002
+99999,95401,"Santa Rosa, CA",[not in an urban area],3200,0.0014
+99999,95403,"Santa Rosa, CA",[not in an urban area],870,0.0004
+99999,95404,"Santa Rosa, CA",[not in an urban area],4410,0.0019
+99999,95407,"Santa Rosa, CA",[not in an urban area],1661,0.0007
+99999,95409,"Santa Rosa, CA",[not in an urban area],800,0.0004
+99999,95410,"Albion, CA",[not in an urban area],974,0.0004
+99999,95412,"Annapolis, CA",[not in an urban area],275,0.0001
+99999,95415,"Boonville, CA",[not in an urban area],1496,0.0007
+99999,95417,"Branscomb, CA",[not in an urban area],168,0.0001
+99999,95419,"Camp Meeker, CA (PO boxes)",[not in an urban area],192,0.0001
+99999,95420,"Caspar, CA",[not in an urban area],396,0.0002
+99999,95421,"Cazadero, CA",[not in an urban area],1409,0.0006
+99999,95422,"Clearlake, CA",[not in an urban area],635,0.0003
+99999,95423,"Clearlake Oaks, CA",[not in an urban area],1502,0.0007
+99999,95425,"Cloverdale, CA",[not in an urban area],1801,0.0008
+99999,95426,"Cobb, CA (PO boxes)",[not in an urban area],1921,0.0008
+99999,95427,"Comptche, CA",[not in an urban area],492,0.0002
+99999,95428,"Covelo, CA",[not in an urban area],3017,0.0013
+99999,95429,"Dos Rios, CA",[not in an urban area],106,0
+99999,95430,"Duncans Mills, CA (PO boxes)",[not in an urban area],45,0
+99999,95432,"Elk, CA",[not in an urban area],443,0.0002
+99999,95435,"Finley, CA (PO boxes)",[not in an urban area],53,0
+99999,95436,"Forestville, CA",[not in an urban area],5265,0.0023
+99999,95437,"Fort Bragg, CA",[not in an urban area],3940,0.0017
+99999,95439,"Fulton, CA",[not in an urban area],415,0.0002
+99999,95441,"Geyserville, CA",[not in an urban area],1915,0.0008
+99999,95442,"Glen Ellen, CA",[not in an urban area],1956,0.0009
+99999,95443,"Glenhaven, CA",[not in an urban area],52,0
+99999,95445,"Gualala, CA",[not in an urban area],2362,0.001
+99999,95446,"Guerneville, CA",[not in an urban area],4690,0.0021
+99999,95448,"Healdsburg, CA",[not in an urban area],4241,0.0019
+99999,95449,"Hopland, CA",[not in an urban area],1422,0.0006
+99999,95450,"Jenner, CA",[not in an urban area],372,0.0002
+99999,95451,"Kelseyville, CA",[not in an urban area],6518,0.0029
+99999,95452,"Kenwood, CA",[not in an urban area],477,0.0002
+99999,95453,"Lakeport, CA",[not in an urban area],2984,0.0013
+99999,95454,"Laytonville, CA",[not in an urban area],2796,0.0012
+99999,95456,"Little River, CA",[not in an urban area],798,0.0004
+99999,95457,"Lower Lake, CA",[not in an urban area],2076,0.0009
+99999,95458,"Lucerne, CA",[not in an urban area],483,0.0002
+99999,95459,"Manchester, CA",[not in an urban area],581,0.0003
+99999,95460,"Mendocino, CA",[not in an urban area],2364,0.001
+99999,95461,"Middletown, CA",[not in an urban area],2689,0.0012
+99999,95462,"Monte Rio, CA",[not in an urban area],1249,0.0005
+99999,95463,"Navarro, CA",[not in an urban area],218,0.0001
+99999,95464,"Nice, CA",[not in an urban area],263,0.0001
+99999,95465,"Occidental, CA",[not in an urban area],1959,0.0009
+99999,95466,"Philo, CA",[not in an urban area],1219,0.0005
+99999,95467,"Hidden Valley Lake, CA",[not in an urban area],6031,0.0026
+99999,95468,"Point Arena, CA",[not in an urban area],1398,0.0006
+99999,95469,"Potter Valley, CA",[not in an urban area],1855,0.0008
+99999,95470,"Redwood Valley, CA",[not in an urban area],3947,0.0017
+99999,95471,"Rio Nido, CA (PO boxes)",[not in an urban area],677,0.0003
+99999,95472,"Sebastopol, CA",[not in an urban area],10284,0.0045
+99999,95476,"Sonoma, CA",[not in an urban area],4095,0.0018
+99999,95480,"Stewarts Point, CA (PO boxes)",[not in an urban area],64,0
+99999,95482,"Ukiah, CA",[not in an urban area],6383,0.0028
+99999,95485,"Upper Lake, CA",[not in an urban area],2255,0.001
+99999,95486,"Villa Grande, CA (PO boxes)",[not in an urban area],71,0
+99999,95488,"Westport, CA",[not in an urban area],240,0.0001
+99999,95490,"Willits, CA",[not in an urban area],6675,0.0029
+99999,95492,"Windsor, CA",[not in an urban area],1393,0.0006
+99999,95493,"Witter Springs, CA",[not in an urban area],218,0.0001
+99999,95494,"Yorkville, CA",[not in an urban area],291,0.0001
+99999,95497,"The Sea Ranch, CA (PO boxes)",[not in an urban area],1159,0.0005
+99999,95501,"Eureka, CA",[not in an urban area],38,0
+99999,95503,"Eureka, CA",[not in an urban area],3462,0.0015
+99999,95511,"Alderpoint, CA",[not in an urban area],268,0.0001
+99999,95514,"Blocksburg, CA",[not in an urban area],228,0.0001
+99999,95519,"Mckinleyville, CA",[not in an urban area],3425,0.0015
+99999,95521,"Arcata, CA",[not in an urban area],1708,0.0007
+99999,95524,"Bayside, CA",[not in an urban area],914,0.0004
+99999,95525,"Blue Lake, CA",[not in an urban area],1701,0.0007
+99999,95526,"Bridgeville, CA",[not in an urban area],520,0.0002
+99999,95527,"Burnt Ranch, CA",[not in an urban area],556,0.0002
+99999,95528,"Carlotta, CA",[not in an urban area],996,0.0004
+99999,95531,"Crescent City, CA",[not in an urban area],7603,0.0033
+99999,95536,"Ferndale, CA",[not in an urban area],2753,0.0012
+99999,95538,"Fort Dick, CA (PO boxes)",[not in an urban area],635,0.0003
+99999,95540,"Fortuna, CA",[not in an urban area],1271,0.0006
+99999,95542,"Garberville, CA",[not in an urban area],2519,0.0011
+99999,95543,"Gasquet, CA",[not in an urban area],738,0.0003
+99999,95545,"Honeydew, CA (PO boxes)",[not in an urban area],170,0.0001
+99999,95546,"Hoopa, CA",[not in an urban area],3641,0.0016
+99999,95547,"Hydesville, CA",[not in an urban area],1270,0.0006
+99999,95548,"Klamath, CA",[not in an urban area],1205,0.0005
+99999,95549,"Kneeland, CA",[not in an urban area],898,0.0004
+99999,95550,"Korbel, CA",[not in an urban area],151,0.0001
+99999,95551,"Loleta, CA",[not in an urban area],1871,0.0008
+99999,95552,"Mad River, CA",[not in an urban area],552,0.0002
+99999,95553,"Miranda, CA (PO boxes)",[not in an urban area],1054,0.0005
+99999,95554,"Myers Flat, CA",[not in an urban area],297,0.0001
+99999,95555,"Orick, CA",[not in an urban area],415,0.0002
+99999,95556,"Orleans, CA (PO boxes)",[not in an urban area],650,0.0003
+99999,95558,"Petrolia, CA",[not in an urban area],548,0.0002
+99999,95559,"Phillipsville, CA (PO boxes)",[not in an urban area],163,0.0001
+99999,95560,"Redway, CA",[not in an urban area],1548,0.0007
+99999,95562,"Rio Dell, CA",[not in an urban area],3475,0.0015
+99999,95563,"Salyer, CA (PO boxes)",[not in an urban area],589,0.0003
+99999,95564,"Samoa, CA",[not in an urban area],62,0
+99999,95565,"Scotia, CA",[not in an urban area],875,0.0004
+99999,95567,"Smith River, CA",[not in an urban area],1931,0.0008
+99999,95568,"Somes Bar, CA",[not in an urban area],164,0.0001
+99999,95569,"Redcrest, CA",[not in an urban area],211,0.0001
+99999,95570,"Trinidad, CA",[not in an urban area],2543,0.0011
+99999,95571,"Weott, CA (PO boxes)",[not in an urban area],297,0.0001
+99999,95573,"Willow Creek, CA",[not in an urban area],1750,0.0008
+99999,95585,"Leggett, CA",[not in an urban area],471,0.0002
+99999,95587,"Piercy, CA",[not in an urban area],144,0.0001
+99999,95589,"Whitethorn, CA",[not in an urban area],1648,0.0007
+99999,95595,"Zenia, CA",[not in an urban area],146,0.0001
+99999,95601,"Amador City, CA (PO boxes)",[not in an urban area],131,0.0001
+99999,95602,"Auburn, CA",[not in an urban area],6454,0.0028
+99999,95603,"Auburn, CA",[not in an urban area],4232,0.0019
+99999,95606,"Brooks, CA",[not in an urban area],243,0.0001
+99999,95607,"Capay, CA",[not in an urban area],311,0.0001
+99999,95612,"Clarksburg, CA",[not in an urban area],1317,0.0006
+99999,95613,"Coloma, CA (PO boxes)",[not in an urban area],135,0.0001
+99999,95614,"Cool, CA",[not in an urban area],3891,0.0017
+99999,95615,"Courtland, CA",[not in an urban area],762,0.0003
+99999,95616,"Davis, CA",[not in an urban area],1202,0.0005
+99999,95618,"Davis, CA",[not in an urban area],239,0.0001
+99999,95619,"Diamond Springs, CA",[not in an urban area],369,0.0002
+99999,95620,"Dixon, CA",[not in an urban area],2563,0.0011
+99999,95623,"El Dorado, CA",[not in an urban area],3059,0.0013
+99999,95624,"Elk Grove, CA",[not in an urban area],2402,0.0011
+99999,95625,"Elmira, CA (PO boxes)",[not in an urban area],175,0.0001
+99999,95626,"Elverta, CA",[not in an urban area],2303,0.001
+99999,95627,"Esparto, CA",[not in an urban area],3899,0.0017
+99999,95628,"Fair Oaks, CA",[not in an urban area],26,0
+99999,95629,"Fiddletown, CA",[not in an urban area],1036,0.0005
+99999,95630,"Folsom, CA",[not in an urban area],1092,0.0005
+99999,95631,"Foresthill, CA",[not in an urban area],6362,0.0028
+99999,95632,"Galt, CA",[not in an urban area],4726,0.0021
+99999,95633,"Garden Valley, CA",[not in an urban area],3017,0.0013
+99999,95634,"Georgetown, CA",[not in an urban area],3109,0.0014
+99999,95635,"Greenwood, CA",[not in an urban area],1236,0.0005
+99999,95636,"Grizzly Flats, CA",[not in an urban area],1109,0.0005
+99999,95637,"Guinda, CA",[not in an urban area],322,0.0001
+99999,95638,"Herald, CA",[not in an urban area],2295,0.001
+99999,95639,"Hood, CA (PO boxes)",[not in an urban area],273,0.0001
+99999,95640,"Ione, CA",[not in an urban area],8158,0.0036
+99999,95641,"Isleton, CA",[not in an urban area],2266,0.001
+99999,95642,"Jackson, CA",[not in an urban area],2553,0.0011
+99999,95645,"Knights Landing, CA",[not in an urban area],1715,0.0008
+99999,95646,"Kirkwood, CA (PO boxes)",[not in an urban area],188,0.0001
+99999,95648,"Lincoln, CA",[not in an urban area],5227,0.0023
+99999,95650,"Loomis, CA",[not in an urban area],6166,0.0027
+99999,95651,"Lotus, CA",[not in an urban area],763,0.0003
+99999,95653,"Madison, CA (PO boxes)",[not in an urban area],579,0.0003
+99999,95655,"Mather, CA",[not in an urban area],333,0.0001
+99999,95658,"Newcastle, CA",[not in an urban area],4976,0.0022
+99999,95659,"Nicolaus, CA",[not in an urban area],724,0.0003
+99999,95663,"Penryn, CA",[not in an urban area],1945,0.0009
+99999,95664,"Pilot Hill, CA",[not in an urban area],1329,0.0006
+99999,95665,"Pine Grove, CA",[not in an urban area],4657,0.002
+99999,95666,"Pioneer, CA",[not in an urban area],5398,0.0024
+99999,95667,"Placerville, CA",[not in an urban area],20117,0.0088
+99999,95668,"Pleasant Grove, CA",[not in an urban area],872,0.0004
+99999,95669,"Plymouth, CA",[not in an urban area],2431,0.0011
+99999,95670,"Rancho Cordova, CA",[not in an urban area],99,0
+99999,95672,"Rescue, CA",[not in an urban area],3282,0.0014
+99999,95673,"Rio Linda, CA",[not in an urban area],378,0.0002
+99999,95674,"Rio Oso, CA",[not in an urban area],855,0.0004
+99999,95675,"River Pines, CA (PO boxes)",[not in an urban area],390,0.0002
+99999,95676,"Robbins, CA (PO boxes)",[not in an urban area],120,0.0001
+99999,95679,"Rumsey, CA (PO boxes)",[not in an urban area],91,0
+99999,95680,"Ryde, CA (PO boxes)",[not in an urban area],121,0.0001
+99999,95681,"Sheridan, CA",[not in an urban area],1324,0.0006
+99999,95682,"Shingle Springs, CA",[not in an urban area],7869,0.0035
+99999,95683,"Sloughhouse, CA",[not in an urban area],6550,0.0029
+99999,95684,"Somerset, CA",[not in an urban area],3283,0.0014
+99999,95685,"Sutter Creek, CA",[not in an urban area],1905,0.0008
+99999,95686,"Thornton, CA (PO boxes)",[not in an urban area],1338,0.0006
+99999,95687,"Vacaville, CA",[not in an urban area],2248,0.001
+99999,95688,"Vacaville, CA",[not in an urban area],6133,0.0027
+99999,95689,"Volcano, CA",[not in an urban area],1274,0.0006
+99999,95690,"Walnut Grove, CA",[not in an urban area],2270,0.001
+99999,95691,"West Sacramento, CA",[not in an urban area],306,0.0001
+99999,95692,"Wheatland, CA",[not in an urban area],4975,0.0022
+99999,95693,"Wilton, CA",[not in an urban area],7549,0.0033
+99999,95694,"Winters, CA",[not in an urban area],2556,0.0011
+99999,95695,"Woodland, CA",[not in an urban area],4001,0.0018
+99999,95697,"Yolo, CA (PO boxes)",[not in an urban area],396,0.0002
+99999,95698,"Zamora, CA (PO boxes)",[not in an urban area],213,0.0001
+99999,95699,"Drytown, CA (PO boxes)",[not in an urban area],175,0.0001
+99999,95701,"Alta, CA (PO boxes)",[not in an urban area],986,0.0004
+99999,95703,"Applegate, CA",[not in an urban area],1943,0.0009
+99999,95709,"Camino, CA",[not in an urban area],4404,0.0019
+99999,95713,"Colfax, CA",[not in an urban area],9156,0.004
+99999,95714,"Dutch Flat, CA (PO boxes)",[not in an urban area],360,0.0002
+99999,95715,"Emigrant Gap, CA (PO boxes)",[not in an urban area],98,0
+99999,95717,"Gold Run, CA (PO boxes)",[not in an urban area],243,0.0001
+99999,95720,"Kyburz, CA",[not in an urban area],133,0.0001
+99999,95721,"Echo Lake, CA (PO boxes)",[not in an urban area],32,0
+99999,95722,"Meadow Vista, CA",[not in an urban area],4682,0.0021
+99999,95726,"Pollock Pines, CA",[not in an urban area],8985,0.0039
+99999,95728,"Soda Springs, CA (PO boxes)",[not in an urban area],457,0.0002
+99999,95735,"Twin Bridges, CA",[not in an urban area],87,0
+99999,95736,"Weimar, CA (PO boxes)",[not in an urban area],339,0.0001
+99999,95742,"Rancho Cordova, CA",[not in an urban area],228,0.0001
+99999,95746,"Granite Bay, CA",[not in an urban area],828,0.0004
+99999,95747,"Roseville, CA",[not in an urban area],880,0.0004
+99999,95757,"Elk Grove, CA",[not in an urban area],2504,0.0011
+99999,95762,"El Dorado Hills, CA",[not in an urban area],2681,0.0012
+99999,95776,"Woodland, CA",[not in an urban area],434,0.0002
+99999,95823,"Sacramento, CA",[not in an urban area],1,0
+99999,95826,"Sacramento, CA",[not in an urban area],134,0.0001
+99999,95827,"Sacramento, CA",[not in an urban area],73,0
+99999,95828,"Sacramento, CA",[not in an urban area],229,0.0001
+99999,95829,"Sacramento, CA",[not in an urban area],1831,0.0008
+99999,95830,"Sacramento, CA",[not in an urban area],1015,0.0004
+99999,95832,"Sacramento, CA",[not in an urban area],145,0.0001
+99999,95834,"Sacramento, CA",[not in an urban area],14,0
+99999,95835,"Sacramento, CA",[not in an urban area],11,0
+99999,95837,"Sacramento, CA",[not in an urban area],242,0.0001
+99999,95901,"Marysville, CA",[not in an urban area],6936,0.003
+99999,95903,"Beale AFB, CA",[not in an urban area],2412,0.0011
+99999,95910,"Alleghany, CA",[not in an urban area],64,0
+99999,95912,"Arbuckle, CA",[not in an urban area],4942,0.0022
+99999,95913,"Artois, CA (PO boxes)",[not in an urban area],369,0.0002
+99999,95914,"Bangor, CA",[not in an urban area],693,0.0003
+99999,95915,"Belden, CA (PO boxes)",[not in an urban area],52,0
+99999,95916,"Berry Creek, CA",[not in an urban area],1680,0.0007
+99999,95917,"Biggs, CA",[not in an urban area],3264,0.0014
+99999,95918,"Browns Valley, CA",[not in an urban area],2259,0.001
+99999,95919,"Brownsville, CA",[not in an urban area],1411,0.0006
+99999,95920,"Butte City, CA",[not in an urban area],267,0.0001
+99999,95922,"Camptonville, CA",[not in an urban area],666,0.0003
+99999,95923,"Canyon Dam, CA",[not in an urban area],53,0
+99999,95925,"Challenge, CA",[not in an urban area],281,0.0001
+99999,95928,"Chico, CA",[not in an urban area],3569,0.0016
+99999,95930,"Clipper Mills, CA",[not in an urban area],253,0.0001
+99999,95932,"Colusa, CA",[not in an urban area],877,0.0004
+99999,95934,"Crescent Mills, CA",[not in an urban area],322,0.0001
+99999,95935,"Dobbins, CA",[not in an urban area],750,0.0003
+99999,95936,"Downieville, CA (PO boxes)",[not in an urban area],361,0.0002
+99999,95937,"Dunnigan, CA (PO boxes)",[not in an urban area],1554,0.0007
+99999,95938,"Durham, CA",[not in an urban area],3740,0.0016
+99999,95939,"Elk Creek, CA",[not in an urban area],545,0.0002
+99999,95941,"Forbestown, CA",[not in an urban area],480,0.0002
+99999,95942,"Forest Ranch, CA",[not in an urban area],1576,0.0007
+99999,95943,"Glenn, CA",[not in an urban area],774,0.0003
+99999,95944,"Goodyears Bar, CA (PO boxes)",[not in an urban area],45,0
+99999,95945,"Grass Valley, CA",[not in an urban area],5809,0.0025
+99999,95946,"Penn Valley, CA",[not in an urban area],9964,0.0044
+99999,95947,"Greenville, CA",[not in an urban area],1583,0.0007
+99999,95948,"Gridley, CA",[not in an urban area],2950,0.0013
+99999,95949,"Grass Valley, CA",[not in an urban area],11208,0.0049
+99999,95950,"Grimes, CA (PO boxes)",[not in an urban area],413,0.0002
+99999,95951,"Hamilton City, CA (PO boxes)",[not in an urban area],2385,0.001
+99999,95953,"Live Oak, CA",[not in an urban area],2277,0.001
+99999,95954,"Magalia, CA",[not in an urban area],1656,0.0007
+99999,95955,"Maxwell, CA (PO boxes)",[not in an urban area],1403,0.0006
+99999,95956,"Meadow Valley, CA (PO boxes)",[not in an urban area],458,0.0002
+99999,95957,"Meridian, CA",[not in an urban area],669,0.0003
+99999,95958,"Nelson, CA (PO boxes)",[not in an urban area],45,0
+99999,95959,"Nevada City, CA",[not in an urban area],12097,0.0053
+99999,95960,"North San Juan, CA",[not in an urban area],762,0.0003
+99999,95961,"Olivehurst, CA",[not in an urban area],2121,0.0009
+99999,95962,"Oregon House, CA",[not in an urban area],1316,0.0006
+99999,95963,"Orland, CA",[not in an urban area],6828,0.003
+99999,95965,"Oroville, CA",[not in an urban area],6056,0.0027
+99999,95966,"Oroville, CA",[not in an urban area],8128,0.0036
+99999,95968,"Palermo, CA",[not in an urban area],277,0.0001
+99999,95969,"Paradise, CA",[not in an urban area],5710,0.0025
+99999,95970,"Princeton, CA",[not in an urban area],535,0.0002
+99999,95971,"Quincy, CA",[not in an urban area],5672,0.0025
+99999,95972,"Rackerby, CA",[not in an urban area],84,0
+99999,95973,"Chico, CA",[not in an urban area],4266,0.0019
+99999,95974,"Richvale, CA (PO boxes)",[not in an urban area],142,0.0001
+99999,95975,"Rough And Ready, CA",[not in an urban area],1511,0.0007
+99999,95977,"Smartsville, CA",[not in an urban area],1797,0.0008
+99999,95978,"Stirling City, CA (PO boxes)",[not in an urban area],137,0.0001
+99999,95979,"Stonyford, CA",[not in an urban area],519,0.0002
+99999,95981,"Strawberry Valley, CA",[not in an urban area],191,0.0001
+99999,95982,"Sutter, CA",[not in an urban area],3283,0.0014
+99999,95983,"Taylorsville, CA",[not in an urban area],401,0.0002
+99999,95984,"Twain, CA (PO boxes)",[not in an urban area],139,0.0001
+99999,95986,"Washington, CA (PO boxes)",[not in an urban area],121,0.0001
+99999,95987,"Williams, CA",[not in an urban area],712,0.0003
+99999,95988,"Willows, CA",[not in an urban area],1264,0.0006
+99999,95991,"Yuba City, CA",[not in an urban area],1480,0.0006
+99999,95993,"Yuba City, CA",[not in an urban area],4105,0.0018
+99999,96001,"Redding, CA",[not in an urban area],3476,0.0015
+99999,96002,"Redding, CA",[not in an urban area],3044,0.0013
+99999,96003,"Redding, CA",[not in an urban area],10774,0.0047
+99999,96006,"Adin, CA",[not in an urban area],473,0.0002
+99999,96007,"Anderson, CA",[not in an urban area],9822,0.0043
+99999,96008,"Bella Vista, CA",[not in an urban area],1237,0.0005
+99999,96009,"Bieber, CA (PO boxes)",[not in an urban area],481,0.0002
+99999,96010,"Big Bar, CA",[not in an urban area],154,0.0001
+99999,96011,"Big Bend, CA (PO boxes)",[not in an urban area],148,0.0001
+99999,96013,"Burney, CA",[not in an urban area],4020,0.0018
+99999,96014,"Callahan, CA",[not in an urban area],237,0.0001
+99999,96015,"Canby, CA",[not in an urban area],364,0.0002
+99999,96016,"Cassel, CA",[not in an urban area],399,0.0002
+99999,96017,"Castella, CA",[not in an urban area],169,0.0001
+99999,96019,"Shasta Lake, CA",[not in an urban area],1086,0.0005
+99999,96020,"Chester, CA",[not in an urban area],2407,0.0011
+99999,96021,"Corning, CA",[not in an urban area],8664,0.0038
+99999,96022,"Cottonwood, CA",[not in an urban area],16528,0.0073
+99999,96023,"Dorris, CA",[not in an urban area],1102,0.0005
+99999,96024,"Douglas City, CA",[not in an urban area],859,0.0004
+99999,96025,"Dunsmuir, CA",[not in an urban area],2225,0.001
+99999,96027,"Etna, CA",[not in an urban area],1953,0.0009
+99999,96028,"Fall River Mills, CA",[not in an urban area],1679,0.0007
+99999,96029,"Flournoy, CA",[not in an urban area],138,0.0001
+99999,96031,"Forks Of Salmon, CA",[not in an urban area],118,0.0001
+99999,96032,"Fort Jones, CA",[not in an urban area],2593,0.0011
+99999,96033,"French Gulch, CA",[not in an urban area],429,0.0002
+99999,96034,"Gazelle, CA",[not in an urban area],345,0.0002
+99999,96035,"Gerber, CA",[not in an urban area],3175,0.0014
+99999,96037,"Greenview, CA (PO boxes)",[not in an urban area],312,0.0001
+99999,96038,"Grenada, CA",[not in an urban area],586,0.0003
+99999,96039,"Happy Camp, CA",[not in an urban area],1037,0.0005
+99999,96040,"Hat Creek, CA",[not in an urban area],283,0.0001
+99999,96041,"Hayfork, CA",[not in an urban area],5574,0.0024
+99999,96044,"Hornbrook, CA",[not in an urban area],1015,0.0004
+99999,96046,"Hyampom, CA (PO boxes)",[not in an urban area],304,0.0001
+99999,96047,"Igo, CA",[not in an urban area],888,0.0004
+99999,96048,"Junction City, CA",[not in an urban area],698,0.0003
+99999,96050,"Klamath River, CA",[not in an urban area],476,0.0002
+99999,96051,"Lakehead, CA",[not in an urban area],1136,0.0005
+99999,96052,"Lewiston, CA",[not in an urban area],1498,0.0007
+99999,96054,"Lookout, CA (PO boxes)",[not in an urban area],288,0.0001
+99999,96055,"Los Molinos, CA",[not in an urban area],3951,0.0017
+99999,96056,"Mcarthur, CA",[not in an urban area],1444,0.0006
+99999,96057,"Mccloud, CA",[not in an urban area],1202,0.0005
+99999,96058,"Macdoel, CA",[not in an urban area],659,0.0003
+99999,96059,"Manton, CA",[not in an urban area],572,0.0003
+99999,96061,"Mill Creek, CA",[not in an urban area],90,0
+99999,96062,"Millville, CA",[not in an urban area],994,0.0004
+99999,96063,"Mineral, CA (PO boxes)",[not in an urban area],125,0.0001
+99999,96064,"Montague, CA",[not in an urban area],4387,0.0019
+99999,96065,"Montgomery Creek, CA",[not in an urban area],409,0.0002
+99999,96067,"Mount Shasta, CA",[not in an urban area],1942,0.0009
+99999,96068,"Nubieber, CA (PO boxes)",[not in an urban area],185,0.0001
+99999,96069,"Oak Run, CA",[not in an urban area],1052,0.0005
+99999,96071,"Old Station, CA",[not in an urban area],127,0.0001
+99999,96073,"Palo Cedro, CA",[not in an urban area],4614,0.002
+99999,96074,"Paskenta, CA (PO boxes)",[not in an urban area],312,0.0001
+99999,96075,"Paynes Creek, CA",[not in an urban area],427,0.0002
+99999,96076,"Platina, CA",[not in an urban area],276,0.0001
+99999,96078,"Proberta, CA (PO boxes)",[not in an urban area],57,0
+99999,96080,"Red Bluff, CA",[not in an urban area],9846,0.0043
+99999,96084,"Round Mountain, CA (PO boxes)",[not in an urban area],515,0.0002
+99999,96085,"Scott Bar, CA",[not in an urban area],63,0
+99999,96086,"Seiad Valley, CA",[not in an urban area],300,0.0001
+99999,96087,"Shasta, CA (PO boxes)",[not in an urban area],547,0.0002
+99999,96088,"Shingletown, CA",[not in an urban area],4781,0.0021
+99999,96090,"Tehama, CA (PO boxes)",[not in an urban area],451,0.0002
+99999,96091,"Trinity Center, CA",[not in an urban area],574,0.0003
+99999,96092,"Vina, CA (PO boxes)",[not in an urban area],419,0.0002
+99999,96093,"Weaverville, CA (PO boxes)",[not in an urban area],4140,0.0018
+99999,96094,"Weed, CA",[not in an urban area],6908,0.003
+99999,96096,"Whitmore, CA",[not in an urban area],763,0.0003
+99999,96097,"Yreka, CA",[not in an urban area],2514,0.0011
+99999,96101,"Alturas, CA",[not in an urban area],5238,0.0023
+99999,96103,"Blairsden Graeagle, CA",[not in an urban area],1611,0.0007
+99999,96104,"Cedarville, CA",[not in an urban area],613,0.0003
+99999,96105,"Chilcoot, CA",[not in an urban area],568,0.0002
+99999,96106,"Clio, CA (PO boxes)",[not in an urban area],522,0.0002
+99999,96107,"Coleville, CA",[not in an urban area],1100,0.0005
+99999,96108,"Davis Creek, CA",[not in an urban area],129,0.0001
+99999,96109,"Doyle, CA",[not in an urban area],888,0.0004
+99999,96110,"Eagleville, CA (PO boxes)",[not in an urban area],101,0
+99999,96111,"Floriston, CA (PO boxes)",[not in an urban area],80,0
+99999,96112,"Fort Bidwell, CA",[not in an urban area],219,0.0001
+99999,96113,"Herlong, CA (PO boxes)",[not in an urban area],1898,0.0008
+99999,96114,"Janesville, CA",[not in an urban area],3101,0.0014
+99999,96115,"Lake City, CA",[not in an urban area],169,0.0001
+99999,96116,"Likely, CA (PO boxes)",[not in an urban area],150,0.0001
+99999,96117,"Litchfield, CA",[not in an urban area],337,0.0001
+99999,96118,"Loyalton, CA",[not in an urban area],1447,0.0006
+99999,96119,"Madeline, CA (PO boxes)",[not in an urban area],82,0
+99999,96120,"Markleeville, CA",[not in an urban area],955,0.0004
+99999,96121,"Milford, CA",[not in an urban area],334,0.0001
+99999,96122,"Portola, CA",[not in an urban area],4070,0.0018
+99999,96123,"Ravendale, CA",[not in an urban area],100,0
+99999,96124,"Calpine, CA",[not in an urban area],343,0.0002
+99999,96125,"Sierra City, CA",[not in an urban area],291,0.0001
+99999,96126,"Sierraville, CA (PO boxes)",[not in an urban area],273,0.0001
+99999,96128,"Standish, CA",[not in an urban area],535,0.0002
+99999,96129,"Beckwourth, CA",[not in an urban area],266,0.0001
+99999,96130,"Susanville, CA",[not in an urban area],13126,0.0058
+99999,96132,"Termo, CA",[not in an urban area],53,0
+99999,96133,"Topaz, CA",[not in an urban area],175,0.0001
+99999,96134,"Tulelake, CA",[not in an urban area],2028,0.0009
+99999,96135,"Vinton, CA (PO boxes)",[not in an urban area],82,0
+99999,96136,"Wendel, CA",[not in an urban area],116,0.0001
+99999,96137,"Westwood, CA",[not in an urban area],3265,0.0014
+99999,96140,"Carnelian Bay, CA (PO boxes)",[not in an urban area],30,0
+99999,96141,"Homewood, CA (PO boxes)",[not in an urban area],136,0.0001
+99999,96142,"Tahoma, CA (PO boxes)",[not in an urban area],175,0.0001
+99999,96143,"Kings Beach, CA (PO boxes)",[not in an urban area],180,0.0001
+99999,96145,"Tahoe City, CA (PO boxes)",[not in an urban area],128,0.0001
+99999,96146,"Olympic Valley, CA",[not in an urban area],1194,0.0005
+99999,96150,"South Lake Tahoe, CA",[not in an urban area],863,0.0004
+99999,96155,"South Lake Tahoe, CA (PO boxes)",[not in an urban area],8,0
+99999,96161,"Truckee, CA",[not in an urban area],6895,0.003
+99999,97635,"New Pine Creek, OR",[not in an urban area],168,0.0001
