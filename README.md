@@ -39,6 +39,12 @@ uv run pytest                                         # run tests (optional)
 (cd docs && latexmk -pdf -outdir=out manuscript.tex)  # compile latex to pdf
 ```
 
+On macOS, Stata is not on PATH: use the full path, e.g.
+`/Applications/Stata/StataMP.app/Contents/MacOS/stata-mp`, both in the install
+command and for `STATA_BIN` (use `stata-se` or `stata` for other editions).
+
+## Run time
+This is the run-time check on my machine (MacOS + 64 GB RAM + M2 Max).
 | start from | command | time |
 |---|---|---|
 | `data/intermediate/` (in repo) | `uv run pipeline/run_all.py` | ~2 min |
