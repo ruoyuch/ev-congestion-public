@@ -1,0 +1,21 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{5}{c}}
+\hline\hline
+                    &\multicolumn{5}{c}{Log peak-hour speed}                                                                      \\\cmidrule(lr){2-6}
+                    &\multicolumn{1}{c}{(1)}         &\multicolumn{1}{c}{(2)}         &\multicolumn{1}{c}{(3)}         &\multicolumn{1}{c}{(4)}         &\multicolumn{1}{c}{(5)}         \\
+\hline
+Log BEV count       &     -0.0056\sym{**} &     -0.0046\sym{**} &     -0.0072\sym{***}&     -0.0053\sym{**} &      0.0002         \\
+                    &    (0.0022)         &    (0.0022)         &    (0.0022)         &    (0.0021)         &    (0.0032)         \\
+\hline
+ZIP fixed effects   &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         \\
+County-year fixed effects&         Yes         &          No         &          No         &         Yes         &          No         \\
+County linear trends&          No         &         Yes         &          No         &          No         &          No         \\
+ZIP linear trends   &          No         &          No         &          No         &          No         &         Yes         \\
+Sample years        &  2014--2023         &  2014--2023         &Excl. 2020--21         &Excl. 2020--21         &  2014--2023         \\
+Adjusted \(R^2\)    &       0.930         &       0.906         &       0.908         &       0.935         &       0.921         \\
+Observations        &        8465         &        8520         &        6780         &        6738         &        8520         \\
+ZIP clusters        &         894         &         899         &         898         &         893         &         899         \\
+\hline\hline
+\end{tabular}
+}

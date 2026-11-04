@@ -1,0 +1,25 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{5}{c}}
+\hline\hline
+                    &\multicolumn{2}{c}{ Log \(\Delta\)vehicle ownership}&\multicolumn{2}{c}{Log hourly flow}        &\multicolumn{1}{c}{Log PT ridership}\\\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-6}
+                    &\multicolumn{1}{c}{(1)}         &\multicolumn{1}{c}{(2)}         &\multicolumn{1}{c}{(3)}         &\multicolumn{1}{c}{(4)}         &\multicolumn{1}{c}{(5)}         \\
+\hline
+Log \(\Delta\)BEV count&      0.0142\sym{***}&      0.0186\sym{***}&                     &                     &                     \\
+                    &    (0.0037)         &    (0.0038)         &                     &                     &                     \\
+[1em]
+Log BEV count       &                     &                     &      0.0116         &      0.1754\sym{***}&     -0.1475\sym{*}  \\
+                    &                     &                     &    (0.0166)         &    (0.0293)         &    (0.0802)         \\
+\hline
+Year fixed effects  &         Yes         &          No         &         Yes         &          No         &         Yes         \\
+ZIP fixed effects   &         Yes         &          No         &         Yes         &          No         &          No         \\
+UA fixed effects    &          No         &          No         &          No         &          No         &         Yes         \\
+County-Year fixed effects&          No         &         Yes         &          No         &         Yes         &          No         \\
+Controls            &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         \\
+Adjusted \(R^2\)    &       0.626         &       0.623         &       0.905         &       0.606         &       0.992         \\
+Observations        &       12400         &       12412         &        7613         &        7598         &         350         \\
+Unit clusters       &        1512         &        1547         &         826         &         845         &          35         \\
+\hline\hline
+\multicolumn{6}{l}{\footnotesize \scriptsize \makecell[l]{Note: \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\). UA = Urbanized area, PT = Public transit. \\Standard errors in parentheses are clustered at ZIP level in columns (1)-(4) and UA level in column (5). \\Outcomes in columns (1)-(4) are measured at the ZIP level, and column (5) is measured at the UA level.}}\\
+\end{tabular}
+}

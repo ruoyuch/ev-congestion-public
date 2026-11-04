@@ -1,0 +1,21 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{1}{c}}
+\hline\hline
+                    &\multicolumn{1}{c}{(1)}\\
+                    &\multicolumn{1}{c}{Log BEV count}\\
+\hline
+High-income share × post-2016&     -0.5566\sym{***}\\
+                    &    (0.0810)         \\
+\hline
+ZIP fixed effects   &         Yes         \\
+Year fixed effects  &         Yes         \\
+County-year fixed effects&          No         \\
+Adjusted \(R^2\)    &       0.974         \\
+Observations        &        8517         \\
+ZIP clusters        &         898         \\
+\textit{F}-stat (instrument)&       47.23         \\
+\hline\hline
+\multicolumn{2}{l}{\footnotesize \scriptsize \makecell[l]{Note: \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\). SEs clustered at ZIP level. \\High-income share is the ZIP-level share of households with 100k+ annual income. \\ According to the CVRP income eligibility rule, a higher share will reduce policy incentive.}}\\
+\end{tabular}
+}
