@@ -3,7 +3,7 @@
 [![CI](https://github.com/ruoyuch/ev-congestion-public/actions/workflows/ci.yml/badge.svg)](https://github.com/ruoyuch/ev-congestion-public/actions/workflows/ci.yml)
 
 Source code for *"[The electric vehicle transition exacerbates traffic
-congestion in California](https://www.rchen.info/pdf/wp_ev_congestion.pdf)"*.
+congestion in California](https://www.rchen.info/pdf/wp_ev_congestion.pdf)"* by Ruoyu Chen, Hang Liu, and Mingzhi Zhou.
 
 ## Summary
 
@@ -103,4 +103,4 @@ Third-party files keep their original terms.
 The data and files generated from official sources are freely available for public use, as long as the working paper is cited as a source.
 
 ## Suggested citation
-R. Chen, H. Liu, M. Zhou, 2026. The electric vehicle transition exacerbates traffic congestion in California.
+R. Chen, H. Liu, M. Zhou, 2026. The electric vehicle transition exacerbates traffic congestion in California. Working paper. https://www.rchen.info/pdf/wp_ev_congestion.pdf.
